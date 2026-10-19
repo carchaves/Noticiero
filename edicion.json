@@ -1,37 +1,44 @@
 {
   "fecha": "2026-10-19",
-  "fecha_larga": "Domingo 19 de octubre de 2026",
+  "fecha_larga": "Lunes 19 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Gobierno define la agenda de la semana en el Congreso",
-          "resumen": "Con el foco puesto en el debate económico, el oficialismo busca acuerdos con aliados mientras la oposición reclama cambios.",
+          "titulo": "El Gobierno lanzó un nuevo plan de retiro voluntario para empleados estatales",
+          "resumen": "El Decreto 1203/2026 habilita la inscripción durante noviembre, con pagos de hasta 20 remuneraciones y exclusión de organismos como ANSES.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com",
-          "fuentes_extra": [
-            "La Nación",
-            "C5N"
-          ]
+          "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-lanzo-un-nuevo-plan-de-retiro-voluntario-para-empleados-estatales/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Tensión en la coalición por el armado electoral",
-          "resumen": "Referentes provinciales piden más lugares en las listas de cara al próximo turno.",
-          "fuente": "El Destape",
-          "url": "https://www.eldestapeweb.com"
+          "titulo": "La desaprobación a Milei llega al 60% mientras crece la incertidumbre electoral, según una encuesta",
+          "resumen": "Un estudio de la Universidad de San Andrés ubica la aprobación de la gestión en 36% y sube la preocupación por empleo e ingresos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/19/aciertos-y-deudas-del-gobierno-de-milei-la-desaprobacion-llega-al-60-mientras-crece-la-incertidumbre-electoral-segun-una-encuesta/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Reunión de gobernadores por la coparticipación",
-          "resumen": "Los mandatarios buscan una posición común frente a la Casa Rosada.",
-          "fuente": "Cadena 3",
-          "url": "https://www.cadena3.com"
+          "titulo": "Milei viaja a España para apoyar a la ultraderecha, pero analistas advierten que podría jugarle en contra",
+          "resumen": "Es su tercera visita del año; la agenda incluye encuentros con Isabel Díaz Ayuso y el economista Jesús Huerta de Soto.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-espana-para-apoyar-a-la-ultraderecha-pero-analistas-advierten-que-podria-jugarle-en-nid18102026/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Debate por la reforma laboral en comisiones",
-          "resumen": "Sindicatos y empresarios exponen posturas enfrentadas.",
-          "fuente": "Futurock",
-          "url": "https://futurock.fm"
+          "titulo": "El Gobierno minimiza los gestos de unidad del peronismo y ratifica que Milei compite contra sí mismo",
+          "resumen": "En Casa Rosada restaron peso al encuentro entre Cristina Kirchner y Sergio Massa y apuestan a un segundo mandato.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-no-se-muestra-preocupado-por-los-gestos-de-unidad-del-peronismo-y-ratifica-que-javier-milei-compite-contra-si-mismo/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Hotesur y Los Sauces: cómo serán las reglas de un proceso con 19 acusados y 300 testigos",
+          "resumen": "La Cámara de Casación definirá si hay juicio unificado o dos procesos; el viernes es la fecha original de inicio.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/hotesur-y-los-sauces-como-seran-las-reglas-de-un-proceso-con-19-acusados-y-300-testigos-nid18102026/",
+          "fuentes_extra": []
         }
       ]
     },
@@ -39,25 +46,39 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "La inflación de septiembre fue del 1,9% según el INDEC",
-          "resumen": "El acumulado del año se ubica en 23,6%; el mercado proyecta cerca de 30% anual.",
-          "fuente": "Página/12",
-          "url": "https://www.pagina12.com.ar",
-          "fuentes_extra": [
-            "El Economista"
-          ]
-        },
-        {
-          "titulo": "El dólar se mantiene estable en la semana",
-          "resumen": "El oficial cerró cerca de $1545; el mercado sigue de cerca las reservas.",
-          "fuente": "El Economista",
-          "url": "https://eleconomista.com.ar"
-        },
-        {
-          "titulo": "El FMI recortó la previsión de crecimiento para la Argentina",
-          "resumen": "El organismo ajustó sus números en el último informe.",
+          "titulo": "Argentina LNG: YPF y sus socios definen quién proveerá los tubos del gasoducto más grande de Vaca Muerta",
+          "resumen": "El consorcio de YPF con la italiana ENI y la emiratí XRG licita los caños de un ducto de 527 kilómetros.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com"
+          "url": "https://www.infobae.com/economia/2026/10/19/argentina-lng-ypf-y-sus-socios-internacionales-definen-quien-proveera-los-tubos-del-gasoducto-mas-grande-de-vaca-muerta/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Las consultoras coinciden: el Gobierno necesita reactivar la economía para bajar la incertidumbre electoral",
+          "resumen": "Producción y empleo aparecen como factores críticos que, de mejorar, ayudarían también a reducir el riesgo país.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/19/coincidencia-de-las-principales-consultoras-el-gobierno-necesita-reactivar-la-economia-para-disminuir-la-incertidumbre-electoral/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Las ventas por el Día de la Madre cayeron 1,4% y acumulan cinco años en baja, según la CAME",
+          "resumen": "La Confederación Argentina de la Mediana Empresa informó un nuevo retroceso del consumo en la fecha.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/las-ventas-por-el-dia-de-la-madre-retrocedieron-14-y-acumulan-cinco-anos-en-caida-segun-la-came-nid18102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Boom a China: anticipan la exportación de 1,7 millones de toneladas de sorgo argentino",
+          "resumen": "Mermas productivas en EE.UU. y Australia abren una oportunidad para el cultivo, según una consultora.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/campo/boom-a-china-anticipan-la-exportacion-de-17-millones-de-toneladas-de-un-cultivo-argentino-que-caera-nid19102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Enarsa y Correo Argentino dejan atrás el déficit y la ayuda del Tesoro",
+          "resumen": "Las dos empresas estatales mejoran sus números y reducen su dependencia de los fondos públicos.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/enarsa-y-correo-argentino-dejan-atras-el-deficit-y-la-ayuda-del-tesoro-nid19102026/",
+          "fuentes_extra": []
         }
       ]
     },
@@ -65,19 +86,41 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Cumbre internacional por la crisis en Medio Oriente",
-          "resumen": "Líderes mundiales buscan destrabar las negociaciones.",
+          "titulo": "Las midterms del 3 de noviembre: elección o referéndum sobre el mandato de Trump",
+          "resumen": "Las legislativas de mitad de mandato medirán el respaldo a la agenda republicana en un clima político tenso.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/opinion/2026/10/19/las-midterms-del-3-de-noviembre-eleccion-o-referendum-sobre-el-mandato-del-presidente-trump/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Trump defiende el alivio de sanciones a Rusia y Rubio insta a Zelensky a poner fin a la guerra",
+          "resumen": "Washington niega una pausa en el intercambio de información con Ucrania mientras busca no alejar a Moscú de las negociaciones.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261019-trump-defiende-el-alivio-de-las-sanciones-contra-rusia-pese-al-rechazo-entre-los-republicanos",
           "fuentes_extra": [
-            "Euronews"
+            "Infobae"
           ]
         },
         {
-          "titulo": "Elecciones y tensión política en la región",
-          "resumen": "Varios países de la región afrontan comicios clave este mes.",
+          "titulo": "Macron reconoció fallas de previsión e inteligencia tras las violentas protestas en Francia",
+          "resumen": "El mandatario rechazó la renuncia del ministro del Interior luego de disturbios que dejaron 2.400 detenidos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/10/19/macron-reconocio-fallas-de-prevision-e-inteligencia-tras-las-violentas-protestas-en-francia-que-dejaron-2400-detenidos/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Debate en Brasil: Bolsonaro mantuvo el temple ante un exaltado Lula de cara al balotaje",
+          "resumen": "Los candidatos chocaron en el primer cara a cara antes de la segunda vuelta del 25 de octubre.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es"
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Canadá enfrenta un nuevo desafío separatista en Alberta, la provincia petrolera",
+          "resumen": "Alberta vota si avanza hacia un referéndum vinculante sobre su independencia del país.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/10/19/canada-enfrenta-un-nuevo-desafio-separatista-en-alberta-la-provincia-petrolera-que-cuestiona-la-gestion-del-gobierno-federal/",
+          "fuentes_extra": []
         }
       ]
     },
@@ -85,19 +128,25 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Nuevos modelos de IA aceleran la competencia entre gigantes tecnológicos",
-          "resumen": "Las principales empresas presentan avances en asistentes y agentes autónomos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com",
-          "fuentes_extra": [
-            "Reworked"
-          ]
+          "titulo": "Anthropic creó un fondo de interés público y destinará el 5% de sus acciones mientras crece Claude",
+          "resumen": "El directorio podrá sumar más capital a medida que suba el valor de la empresa, que prepara una salida a bolsa histórica.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/19/anthropic-creo-un-fondo-de-interes-publico-para-ayudar-a-la-sociedad-mientras-crece-claude-destinara-el-5-de-sus-acciones/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Debate regulatorio sobre el uso de IA en el trabajo",
-          "resumen": "Gobiernos discuten marcos para el uso responsable.",
-          "fuente": "Reworked",
-          "url": "https://www.reworked.co"
+          "titulo": "Sam Altman confirmó un robot humanoide creado por OpenAI y controlado con ChatGPT",
+          "resumen": "El CEO admitió que el diseño físico le importa menos que resolver el software que va a controlarlo.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/19/sam-altman-confirmo-un-robot-humanoide-creado-por-openai-y-con-chatgpt/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Tesla y SpaceX integrarían sus tecnologías de IA en una fusión que se anunciaría antes de diciembre",
+          "resumen": "Ambas compañías comparten a Elon Musk y una red de relaciones comerciales que se superponen.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/19/tesla-y-spacex-integrarian-sus-tecnologias-de-ia-en-una-fusion-que-se-anunciaria-antes-de-diciembre-de-2026/",
+          "fuentes_extra": []
         }
       ]
     },
@@ -105,26 +154,32 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Cae la venta global de smartphones por la escasez de chips",
-          "resumen": "El mercado toca su nivel más bajo en años por problemas de suministro.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar",
-          "fuentes_extra": [
-            "Xataka"
-          ]
+          "titulo": "Alemania, Italia y Francia se unen para frenar la prohibición de los motores de combustión en Europa",
+          "resumen": "Los tres países presionan a la Unión Europea en un intento por salvar su industria automotriz.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/movilidad/intento-salvar-su-industria-alemania-italia-francia-se-han-unido-prohibicion-motores-combustion-historia",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Nuevos dispositivos para el hogar inteligente",
-          "resumen": "La categoría suma pantallas y asistentes con más integración.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com"
+          "titulo": "El truco oficial de WhatsApp para saber qué dice un mensaje de voz sin escucharlo",
+          "resumen": "La función transcribe a texto los audios nuevos y también los recibidos con anterioridad.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/19/el-truco-oficial-de-whatsapp-para-saber-que-dice-un-mensaje-de-voz-sin-escucharlo/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Bloquear robots de reparto puede llevarte a la cárcel: el caso de Uber Eats",
+          "resumen": "Una exprofesora de la Universidad de Pensilvania fue arrestada por pararse frente a los robots de entrega.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/19/bloquear-robots-que-hacen-domicilios-puede-llevarte-a-la-carcel-el-caso-de-uber-eats/",
+          "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Resumen del día. En política, el Gobierno define su agenda en el Congreso y hay tensión en la coalición por el armado electoral. En economía, la inflación de septiembre fue del uno coma nueve por ciento y el dólar se mantiene estable. En lo internacional, hay una cumbre por la crisis en Medio Oriente. En tecnología e inteligencia artificial, se aceleran los nuevos modelos y cae la venta global de celulares por la escasez de chips.",
-    "texto_en": "Good morning Charly. Daily brief. In politics, the government sets its agenda in Congress amid tension within the coalition. In economy, September inflation was one point nine percent and the dollar remains stable. Internationally, a summit addresses the Middle East crisis. In tech and AI, new models accelerate while global phone sales fall on chip shortages.",
+    "texto_es": "Buenos días Charly. Arrancamos la semana con la política metida de lleno en la previa electoral. El Gobierno lanzó un nuevo plan de retiro voluntario para empleados estatales, con inscripción en noviembre, mientras una encuesta de la Universidad de San Andrés marca que la desaprobación a Milei trepa al sesenta por ciento. El Presidente viaja a España para respaldar a la ultraderecha, un gesto que algunos analistas ven arriesgado. En economía, YPF y sus socios definen los tubos del gasoducto más grande de Vaca Muerta, las consultoras coinciden en que hace falta reactivar para bajar la incertidumbre, y las ventas por el Día de la Madre cayeron por quinto año seguido. En el mundo, Estados Unidos se encamina a unas legislativas que serán un referéndum sobre Trump, Macron admitió fallas tras las protestas en Francia, y Brasil tuvo su primer debate rumbo al balotaje. Y en tecnología, Anthropic creó un fondo de interés público con el cinco por ciento de sus acciones, Sam Altman confirmó un robot humanoide de OpenAI, y se habla de una posible fusión entre Tesla y SpaceX. Que tengas un buen lunes.",
+    "texto_en": "Good morning Charly. The week kicks off with Argentine politics in full pre-election mode. The government launched a new voluntary retirement plan for state employees, with sign-ups in November, while a University of San Andrés poll shows disapproval of Milei climbing to sixty percent. The President is traveling to Spain to back the far right, a move some analysts call risky. In the economy, YPF and its partners are picking suppliers for Vaca Muerta's largest gas pipeline, consultancies agree the government needs to revive growth to ease uncertainty, and Mother's Day sales fell for a fifth straight year. Around the world, the United States heads toward midterms seen as a referendum on Trump, Macron admitted failures after the protests in France, and Brazil held its first debate ahead of the runoff. In tech, Anthropic set up a public-interest fund with five percent of its shares, Sam Altman confirmed an OpenAI humanoid robot, and there's talk of a possible Tesla and SpaceX merger. Have a great Monday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
