@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-10-19",
+  "fecha_larga": "Domingo 19 de octubre de 2026",
+  "secciones": [
+    {
+      "nombre": "Política Argentina",
+      "articulos": [
+        {
+          "titulo": "El Gobierno define la agenda de la semana en el Congreso",
+          "resumen": "Con el foco puesto en el debate económico, el oficialismo busca acuerdos con aliados mientras la oposición reclama cambios.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com",
+          "fuentes_extra": [
+            "La Nación",
+            "C5N"
+          ]
+        },
+        {
+          "titulo": "Tensión en la coalición por el armado electoral",
+          "resumen": "Referentes provinciales piden más lugares en las listas de cara al próximo turno.",
+          "fuente": "El Destape",
+          "url": "https://www.eldestapeweb.com"
+        },
+        {
+          "titulo": "Reunión de gobernadores por la coparticipación",
+          "resumen": "Los mandatarios buscan una posición común frente a la Casa Rosada.",
+          "fuente": "Cadena 3",
+          "url": "https://www.cadena3.com"
+        },
+        {
+          "titulo": "Debate por la reforma laboral en comisiones",
+          "resumen": "Sindicatos y empresarios exponen posturas enfrentadas.",
+          "fuente": "Futurock",
+          "url": "https://futurock.fm"
+        }
+      ]
+    },
+    {
+      "nombre": "Economía",
+      "articulos": [
+        {
+          "titulo": "La inflación de septiembre fue del 1,9% según el INDEC",
+          "resumen": "El acumulado del año se ubica en 23,6%; el mercado proyecta cerca de 30% anual.",
+          "fuente": "Página/12",
+          "url": "https://www.pagina12.com.ar",
+          "fuentes_extra": [
+            "El Economista"
+          ]
+        },
+        {
+          "titulo": "El dólar se mantiene estable en la semana",
+          "resumen": "El oficial cerró cerca de $1545; el mercado sigue de cerca las reservas.",
+          "fuente": "El Economista",
+          "url": "https://eleconomista.com.ar"
+        },
+        {
+          "titulo": "El FMI recortó la previsión de crecimiento para la Argentina",
+          "resumen": "El organismo ajustó sus números en el último informe.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com"
+        }
+      ]
+    },
+    {
+      "nombre": "Internacional",
+      "articulos": [
+        {
+          "titulo": "Cumbre internacional por la crisis en Medio Oriente",
+          "resumen": "Líderes mundiales buscan destrabar las negociaciones.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es",
+          "fuentes_extra": [
+            "Euronews"
+          ]
+        },
+        {
+          "titulo": "Elecciones y tensión política en la región",
+          "resumen": "Varios países de la región afrontan comicios clave este mes.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es"
+        }
+      ]
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "articulos": [
+        {
+          "titulo": "Nuevos modelos de IA aceleran la competencia entre gigantes tecnológicos",
+          "resumen": "Las principales empresas presentan avances en asistentes y agentes autónomos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com",
+          "fuentes_extra": [
+            "Reworked"
+          ]
+        },
+        {
+          "titulo": "Debate regulatorio sobre el uso de IA en el trabajo",
+          "resumen": "Gobiernos discuten marcos para el uso responsable.",
+          "fuente": "Reworked",
+          "url": "https://www.reworked.co"
+        }
+      ]
+    },
+    {
+      "nombre": "Tecnología",
+      "articulos": [
+        {
+          "titulo": "Cae la venta global de smartphones por la escasez de chips",
+          "resumen": "El mercado toca su nivel más bajo en años por problemas de suministro.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar",
+          "fuentes_extra": [
+            "Xataka"
+          ]
+        },
+        {
+          "titulo": "Nuevos dispositivos para el hogar inteligente",
+          "resumen": "La categoría suma pantallas y asistentes con más integración.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com"
+        }
+      ]
+    }
+  ],
+  "audio": {
+    "texto_es": "Buenos días Charly. Resumen del día. En política, el Gobierno define su agenda en el Congreso y hay tensión en la coalición por el armado electoral. En economía, la inflación de septiembre fue del uno coma nueve por ciento y el dólar se mantiene estable. En lo internacional, hay una cumbre por la crisis en Medio Oriente. En tecnología e inteligencia artificial, se aceleran los nuevos modelos y cae la venta global de celulares por la escasez de chips.",
+    "texto_en": "Good morning Charly. Daily brief. In politics, the government sets its agenda in Congress amid tension within the coalition. In economy, September inflation was one point nine percent and the dollar remains stable. Internationally, a summit addresses the Middle East crisis. In tech and AI, new models accelerate while global phone sales fall on chip shortages.",
+    "es": "audio/resumen-es.mp3",
+    "en": "audio/resumen-en.mp3"
+  }
+}
