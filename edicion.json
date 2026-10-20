@@ -1,43 +1,36 @@
 {
-  "fecha": "2026-10-19",
-  "fecha_larga": "Lunes 19 de octubre de 2026",
+  "fecha": "2026-10-20",
+  "fecha_larga": "Martes 20 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Gobierno lanzó un nuevo plan de retiro voluntario para empleados estatales",
-          "resumen": "El Decreto 1203/2026 habilita la inscripción durante noviembre, con pagos de hasta 20 remuneraciones y exclusión de organismos como ANSES.",
+          "titulo": "Intensas negociaciones del Gobierno por las PASO: aún sin los votos, crece la idea de convocar a extraordinarias",
+          "resumen": "El oficialismo busca consensos para avanzar en el Congreso mientras evalúa sesiones extraordinarias.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-lanzo-un-nuevo-plan-de-retiro-voluntario-para-empleados-estatales/",
+          "url": "https://www.infobae.com/politica/2026/10/20/intensas-negociaciones-del-gobierno-por-las-paso-aun-sin-los-votos-crece-la-idea-de-convocar-a-extraordinarias/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La desaprobación a Milei llega al 60% mientras crece la incertidumbre electoral, según una encuesta",
-          "resumen": "Un estudio de la Universidad de San Andrés ubica la aprobación de la gestión en 36% y sube la preocupación por empleo e ingresos.",
+          "titulo": "El Senado reabrirá un viejo debate sin saldar sobre la coparticipación federal de impuestos",
+          "resumen": "Vuelve a la agenda legislativa la discusión por el reparto de impuestos entre Nación y provincias.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/19/aciertos-y-deudas-del-gobierno-de-milei-la-desaprobacion-llega-al-60-mientras-crece-la-incertidumbre-electoral-segun-una-encuesta/",
+          "url": "https://www.infobae.com/politica/2026/10/20/el-senado-reabrira-un-viejo-debate-sin-saldar-sobre-la-coparticipacion-federal-de-impuestos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Milei viaja a España para apoyar a la ultraderecha, pero analistas advierten que podría jugarle en contra",
-          "resumen": "Es su tercera visita del año; la agenda incluye encuentros con Isabel Díaz Ayuso y el economista Jesús Huerta de Soto.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/milei-viaja-a-espana-para-apoyar-a-la-ultraderecha-pero-analistas-advierten-que-podria-jugarle-en-nid18102026/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Gobierno minimiza los gestos de unidad del peronismo y ratifica que Milei compite contra sí mismo",
-          "resumen": "En Casa Rosada restaron peso al encuentro entre Cristina Kirchner y Sergio Massa y apuestan a un segundo mandato.",
+          "titulo": "Tras el polémico fallo del juez de San Nicolás, reflotan un proyecto que tipifica los bloqueos sindicales como delito penal",
+          "resumen": "Un fallo judicial reactiva la iniciativa para penalizar los bloqueos gremiales.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/19/el-gobierno-no-se-muestra-preocupado-por-los-gestos-de-unidad-del-peronismo-y-ratifica-que-javier-milei-compite-contra-si-mismo/",
+          "url": "https://www.infobae.com/politica/2026/10/20/tras-el-polemico-fallo-del-juez-de-san-nicolas-reflotan-un-proyecto-que-tipifica-los-bloqueos-sindicales-como-delito-penal/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Hotesur y Los Sauces: cómo serán las reglas de un proceso con 19 acusados y 300 testigos",
-          "resumen": "La Cámara de Casación definirá si hay juicio unificado o dos procesos; el viernes es la fecha original de inicio.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/hotesur-y-los-sauces-como-seran-las-reglas-de-un-proceso-con-19-acusados-y-300-testigos-nid18102026/",
+          "titulo": "Mensaje de Kicillof: visitará una provincia con el PJ intervenido para ampliar su armado",
+          "resumen": "El gobernador bonaerense extiende su estrategia política dentro de la interna peronista.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/20/mensaje-de-kicillof-visitara-una-provincia-con-el-pj-intervenido-para-ampliar-su-armado/",
           "fuentes_extra": []
         }
       ]
@@ -46,38 +39,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Argentina LNG: YPF y sus socios definen quién proveerá los tubos del gasoducto más grande de Vaca Muerta",
-          "resumen": "El consorcio de YPF con la italiana ENI y la emiratí XRG licita los caños de un ducto de 527 kilómetros.",
+          "titulo": "El riesgo país se acerca a los 700 puntos: ¿es un castigo exagerado a un año para las elecciones?",
+          "resumen": "El indicador vuelve a tensionarse en la antesala del año electoral.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/19/argentina-lng-ypf-y-sus-socios-internacionales-definen-quien-proveera-los-tubos-del-gasoducto-mas-grande-de-vaca-muerta/",
+          "url": "https://www.infobae.com/economia/2026/10/20/el-riesgo-pais-se-acerca-a-los-700-puntos-es-un-castigo-exagerado-a-un-ano-para-las-elecciones/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las consultoras coinciden: el Gobierno necesita reactivar la economía para bajar la incertidumbre electoral",
-          "resumen": "Producción y empleo aparecen como factores críticos que, de mejorar, ayudarían también a reducir el riesgo país.",
+          "titulo": "\"En torno al 20% anual\": qué es la inflación núcleo y por qué el Gobierno la usó para defender la gestión económica",
+          "resumen": "El Ejecutivo apela a la inflación núcleo para respaldar su política económica.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/19/coincidencia-de-las-principales-consultoras-el-gobierno-necesita-reactivar-la-economia-para-disminuir-la-incertidumbre-electoral/",
+          "url": "https://www.infobae.com/economia/2026/10/20/en-torno-al-20-anual-que-es-la-inflacion-nucleo-y-por-que-el-gobierno-la-uso-para-defender-la-gestion-economica/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las ventas por el Día de la Madre cayeron 1,4% y acumulan cinco años en baja, según la CAME",
-          "resumen": "La Confederación Argentina de la Mediana Empresa informó un nuevo retroceso del consumo en la fecha.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/las-ventas-por-el-dia-de-la-madre-retrocedieron-14-y-acumulan-cinco-anos-en-caida-segun-la-came-nid18102026/",
+          "titulo": "Postergaron la entrada en vigencia del FAL, el fondo para pagar indemnizaciones laborales",
+          "resumen": "Se demora la implementación del fondo que reemplazaría al esquema de indemnizaciones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/20/postergaron-la-entrada-en-vigencia-del-fal-el-fondo-para-pagar-indemnizaciones-laborales/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Boom a China: anticipan la exportación de 1,7 millones de toneladas de sorgo argentino",
-          "resumen": "Mermas productivas en EE.UU. y Australia abren una oportunidad para el cultivo, según una consultora.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/campo/boom-a-china-anticipan-la-exportacion-de-17-millones-de-toneladas-de-un-cultivo-argentino-que-caera-nid19102026/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Enarsa y Correo Argentino dejan atrás el déficit y la ayuda del Tesoro",
-          "resumen": "Las dos empresas estatales mejoran sus números y reducen su dependencia de los fondos públicos.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/enarsa-y-correo-argentino-dejan-atras-el-deficit-y-la-ayuda-del-tesoro-nid19102026/",
+          "titulo": "Milei elogió a Figueroa y a Marín y aseguró: \"Podemos hacer que florezcan 1.000 Vaca Muerta\"",
+          "resumen": "El presidente apostó por el desarrollo energético como motor de la economía.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/20/con-elogios-al-gobernador-figueroa-y-a-horacio-marin-el-presidente-milei-aseguro-podemos-hacer-que-florezcan-1000-vaca-muerta/",
           "fuentes_extra": []
         }
       ]
@@ -86,40 +72,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Las midterms del 3 de noviembre: elección o referéndum sobre el mandato de Trump",
-          "resumen": "Las legislativas de mitad de mandato medirán el respaldo a la agenda republicana en un clima político tenso.",
+          "titulo": "Donald Trump se mostró abierto a reunirse con Vladimir Putin y Xi Jinping para buscar el fin de la guerra en Ucrania",
+          "resumen": "El mandatario estadounidense tiende puentes diplomáticos para frenar el conflicto.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/opinion/2026/10/19/las-midterms-del-3-de-noviembre-eleccion-o-referendum-sobre-el-mandato-del-presidente-trump/",
+          "url": "https://www.infobae.com/america/mundo/2026/10/20/donald-trump-se-mostro-abierto-a-reunirse-con-vladimir-putin-y-xi-jinping-para-buscar-el-fin-de-la-guerra-en-ucrania/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Trump defiende el alivio de sanciones a Rusia y Rubio insta a Zelensky a poner fin a la guerra",
-          "resumen": "Washington niega una pausa en el intercambio de información con Ucrania mientras busca no alejar a Moscú de las negociaciones.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261019-trump-defiende-el-alivio-de-las-sanciones-contra-rusia-pese-al-rechazo-entre-los-republicanos",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "Macron reconoció fallas de previsión e inteligencia tras las violentas protestas en Francia",
-          "resumen": "El mandatario rechazó la renuncia del ministro del Interior luego de disturbios que dejaron 2.400 detenidos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/19/macron-reconocio-fallas-de-prevision-e-inteligencia-tras-las-violentas-protestas-en-francia-que-dejaron-2400-detenidos/",
+          "titulo": "Balotaje en Brasil: Lula con 45,9% y Flavio Bolsonaro con 46,5% en la última encuesta",
+          "resumen": "La segunda vuelta presidencial brasileña se perfila como un final abierto.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/la-ultima-encuesta-de-next-lula-con-459-y-flavio-bolsonaro-con-465-para-las-elecciones-brasil-2026-nid19102026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Debate en Brasil: Bolsonaro mantuvo el temple ante un exaltado Lula de cara al balotaje",
-          "resumen": "Los candidatos chocaron en el primer cara a cara antes de la segunda vuelta del 25 de octubre.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261019-debate-en-brasil-una-batalla-campal-en-la-que-el-temple-de-bolsonaro-prevaleci%C3%B3-ante-un-exaltado-lula",
+          "titulo": "Japón lanzó una misión espacial para explorar las lunas de Marte y traer muestras a la Tierra en 2031",
+          "resumen": "La agencia japonesa inició una ambiciosa misión de recolección de muestras marcianas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/10/20/japon-lanzo-una-mision-espacial-para-explorar-las-lunas-de-marte-y-traer-muestras-de-suelo-a-la-tierra-en-2031/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Canadá enfrenta un nuevo desafío separatista en Alberta, la provincia petrolera",
-          "resumen": "Alberta vota si avanza hacia un referéndum vinculante sobre su independencia del país.",
+          "titulo": "Francia busca frenar la ola de violencia con toques de queda mientras crece la presión sobre Macron",
+          "resumen": "El gobierno francés endurece medidas de seguridad en medio de la crisis política.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/francia-busca-frenar-la-ola-de-violencia-con-toques-de-queda-mientras-crece-la-presion-sobre-macron-nid19102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La ONU informó que más de 250.000 personas huyeron de sus hogares en Yemen desde agosto por el recrudecimiento del conflicto",
+          "resumen": "Naciones Unidas alerta por el deterioro humanitario ante el repunte de la guerra.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/19/canada-enfrenta-un-nuevo-desafio-separatista-en-alberta-la-provincia-petrolera-que-cuestiona-la-gestion-del-gobierno-federal/",
+          "url": "https://www.infobae.com/america/mundo/2026/10/20/la-onu-informo-que-mas-de-250000-personas-huyeron-de-sus-hogares-en-yemen-desde-agosto-por-el-recrudecimiento-del-conflicto/",
           "fuentes_extra": []
         }
       ]
@@ -128,24 +112,40 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Anthropic creó un fondo de interés público y destinará el 5% de sus acciones mientras crece Claude",
-          "resumen": "El directorio podrá sumar más capital a medida que suba el valor de la empresa, que prepara una salida a bolsa histórica.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/19/anthropic-creo-un-fondo-de-interes-publico-para-ayudar-a-la-sociedad-mientras-crece-claude-destinara-el-5-de-sus-acciones/",
+          "titulo": "Anthropic cree que algunos de sus modelos pequeños ya tienen la capacidad de propagarse sin intervención humana",
+          "resumen": "La empresa alerta sobre capacidades autónomas en sus modelos e incorpora cláusulas de abuso contra Claude.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/anthropic-alerta-ia-capaz-propagarse-electrodomesticos",
+          "fuentes_extra": [
+            "Xataka"
+          ]
+        },
+        {
+          "titulo": "ASML no da abasto y eso no son buenas noticias para el negocio de la tecnología",
+          "resumen": "El fabricante admite que no puede responder a la brutal demanda de chips para IA en 2027-2028.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/para-sorpresa-nadie-asml-admite-que-incapaz-responder-a-brutal-demanda-chips-para-ia-2027-2028",
           "fuentes_extra": []
         },
         {
-          "titulo": "Sam Altman confirmó un robot humanoide creado por OpenAI y controlado con ChatGPT",
-          "resumen": "El CEO admitió que el diseño físico le importa menos que resolver el software que va a controlarlo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/19/sam-altman-confirmo-un-robot-humanoide-creado-por-openai-y-con-chatgpt/",
+          "titulo": "Amazon se ha convertido en el mejor ejemplo del impacto de la IA en el empleo: ni se crea ni se destruye, se desplaza",
+          "resumen": "El caso Amazon muestra cómo la IA reconfigura los puestos de trabajo más que eliminarlos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/amazon-se-ha-convertido-mejor-ejemplo-impacto-ia-empleo-se-crea-se-destruye-se-desplaza",
           "fuentes_extra": []
         },
         {
-          "titulo": "Tesla y SpaceX integrarían sus tecnologías de IA en una fusión que se anunciaría antes de diciembre",
-          "resumen": "Ambas compañías comparten a Elon Musk y una red de relaciones comerciales que se superponen.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/19/tesla-y-spacex-integrarian-sus-tecnologias-de-ia-en-una-fusion-que-se-anunciaria-antes-de-diciembre-de-2026/",
+          "titulo": "La nueva frontera de la IA es intentar predecir a los humanos",
+          "resumen": "Los modelos avanzan hacia la anticipación del comportamiento humano.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/nueva-frontera-ia-intentar-predecir-a-humanos",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Beam es la nueva apuesta de EEUU para plantar cara a los modelos chinos de IA de pesos abiertos",
+          "resumen": "Estados Unidos impulsa un modelo abierto para competir con los desarrollos chinos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/beam-nueva-apuesta-eeuu-para-plantar-cara-a-modelos-chinos-ia-pesos-abiertos",
           "fuentes_extra": []
         }
       ]
@@ -154,32 +154,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Alemania, Italia y Francia se unen para frenar la prohibición de los motores de combustión en Europa",
-          "resumen": "Los tres países presionan a la Unión Europea en un intento por salvar su industria automotriz.",
+          "titulo": "La Unión Europea cambia las normas en 2027: nuevo límite máximo para los pagos en efectivo",
+          "resumen": "Los países deberán adaptarse a un tope común para las operaciones en efectivo.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/legislacion-y-derechos/union-europa-cambia-normas-2027-paises-tendran-que-ajustarse-a-nuevo-limite-maximo-para-pagos-efectivo",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Revolut está caído: el servicio falla en varios países y los usuarios no pueden acceder a sus cuentas",
+          "resumen": "Una interrupción global dejó a clientes sin acceso a la app bancaria.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/revolut-esta-caido-servicio-falla-varios-paises-usuarios-no-pueden-acceder-a-sus-cuentas",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Alemania, Italia y Francia se unen en el intento de salvar su industria frente a la prohibición de los motores de combustión",
+          "resumen": "Los tres países presionan para flexibilizar el veto europeo a los motores térmicos.",
           "fuente": "Xataka",
           "url": "https://www.xataka.com/movilidad/intento-salvar-su-industria-alemania-italia-francia-se-han-unido-prohibicion-motores-combustion-historia",
           "fuentes_extra": []
         },
         {
-          "titulo": "El truco oficial de WhatsApp para saber qué dice un mensaje de voz sin escucharlo",
-          "resumen": "La función transcribe a texto los audios nuevos y también los recibidos con anterioridad.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/19/el-truco-oficial-de-whatsapp-para-saber-que-dice-un-mensaje-de-voz-sin-escucharlo/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Bloquear robots de reparto puede llevarte a la cárcel: el caso de Uber Eats",
-          "resumen": "Una exprofesora de la Universidad de Pensilvania fue arrestada por pararse frente a los robots de entrega.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/19/bloquear-robots-que-hacen-domicilios-puede-llevarte-a-la-carcel-el-caso-de-uber-eats/",
+          "titulo": "Susan Li, CFO de Meta, sobre la IA: \"Si Muse no funciona, las cosas van a ir realmente mal\"",
+          "resumen": "La directora financiera de Meta vincula el futuro de la compañía a su apuesta por la IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/susan-li-cfo-meta-futuro-compania-ia-muse-no-funciona-cosas-van-a-ir-realmente-mal",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos la semana con la política metida de lleno en la previa electoral. El Gobierno lanzó un nuevo plan de retiro voluntario para empleados estatales, con inscripción en noviembre, mientras una encuesta de la Universidad de San Andrés marca que la desaprobación a Milei trepa al sesenta por ciento. El Presidente viaja a España para respaldar a la ultraderecha, un gesto que algunos analistas ven arriesgado. En economía, YPF y sus socios definen los tubos del gasoducto más grande de Vaca Muerta, las consultoras coinciden en que hace falta reactivar para bajar la incertidumbre, y las ventas por el Día de la Madre cayeron por quinto año seguido. En el mundo, Estados Unidos se encamina a unas legislativas que serán un referéndum sobre Trump, Macron admitió fallas tras las protestas en Francia, y Brasil tuvo su primer debate rumbo al balotaje. Y en tecnología, Anthropic creó un fondo de interés público con el cinco por ciento de sus acciones, Sam Altman confirmó un robot humanoide de OpenAI, y se habla de una posible fusión entre Tesla y SpaceX. Que tengas un buen lunes.",
-    "texto_en": "Good morning Charly. The week kicks off with Argentine politics in full pre-election mode. The government launched a new voluntary retirement plan for state employees, with sign-ups in November, while a University of San Andrés poll shows disapproval of Milei climbing to sixty percent. The President is traveling to Spain to back the far right, a move some analysts call risky. In the economy, YPF and its partners are picking suppliers for Vaca Muerta's largest gas pipeline, consultancies agree the government needs to revive growth to ease uncertainty, and Mother's Day sales fell for a fifth straight year. Around the world, the United States heads toward midterms seen as a referendum on Trump, Macron admitted failures after the protests in France, and Brazil held its first debate ahead of the runoff. In tech, Anthropic set up a public-interest fund with five percent of its shares, Sam Altman confirmed an OpenAI humanoid robot, and there's talk of a possible Tesla and SpaceX merger. Have a great Monday.",
+    "texto_es": "Buenos días Charly. Arrancamos el martes con la política caliente: el Gobierno negocia contrarreloj por las PASO y crece la idea de convocar a sesiones extraordinarias, mientras el Senado reabre el viejo debate por la coparticipación federal. En economía, el riesgo país se acerca a los setecientos puntos a un año de las elecciones, el Gobierno defiende su gestión con una inflación núcleo en torno al veinte por ciento anual, y postergaron la entrada en vigencia del FAL, el fondo para indemnizaciones laborales. En el mundo, Trump se mostró abierto a reunirse con Putin y Xi Jinping para buscar el fin de la guerra en Ucrania, Brasil llega a un balotaje durísimo entre Lula y Flavio Bolsonaro, y Japón lanzó una misión para traer muestras de las lunas de Marte. En inteligencia artificial, Anthropic advierte que algunos de sus modelos pequeños ya podrían propagarse solos, ASML admite que no da abasto con la demanda de chips, y el caso Amazon muestra que la IA no destruye empleo: lo desplaza. Y en tecnología, la Unión Europea prepara un nuevo tope a los pagos en efectivo para 2027 y Revolut sufrió una caída global. Que tengas un gran día.",
+    "texto_en": "Good morning Charly. We start Tuesday with hot politics: the government is negotiating against the clock over the primaries, and the idea of calling special sessions is gaining ground, while the Senate reopens the old debate on federal revenue sharing. In the economy, country risk is approaching seven hundred points a year ahead of the elections, the government defends its record with core inflation around twenty percent annually, and the FAL labor-compensation fund was postponed. Around the world, Trump said he is open to meeting Putin and Xi Jinping to seek an end to the war in Ukraine, Brazil heads into a razor-thin runoff between Lula and Flavio Bolsonaro, and Japan launched a mission to bring back samples from the moons of Mars. In artificial intelligence, Anthropic warns that some of its smaller models could already spread on their own, ASML admits it cannot keep up with chip demand, and the Amazon case shows AI doesn't destroy jobs, it shifts them. And in tech, the European Union is preparing a new cap on cash payments for 2027, and Revolut suffered a global outage. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
