@@ -1,43 +1,36 @@
 {
-  "fecha": "2026-10-22",
-  "fecha_larga": "Jueves 22 de octubre de 2026",
+  "fecha": "2026-10-23",
+  "fecha_larga": "Viernes 23 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Diputados dio media sanción al proyecto que reemplaza la emergencia en discapacidad por un régimen permanente",
-          "resumen": "Tras un amplio acuerdo, la Cámara aprobó de madrugada el nuevo régimen y el tema pasa ahora al Senado.",
+          "titulo": "Milei recibe hoy a Christopher Landau en Casa Rosada tras acordar cambios en la ley sobre Malvinas",
+          "resumen": "El Gobierno retoma la agenda con EE.UU. luego de ajustar el proyecto sobre Malvinas que Washington había observado.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/la-reaccion-de-la-politica-al-amplio-acuerdo-que-permitio-dar-media-sancion-al-proyecto-de-discapacidad/",
+          "url": "https://www.infobae.com/politica/2026/10/23/javier-milei-recibe-hoy-a-christopher-landau-en-casa-rosada-tras-acordar-cambios-en-la-ley-sobre-malvinas",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las tres discusiones que crisparon a la mesa política mientras Milei se desvelaba por su imagen internacional",
-          "resumen": "Una reunión de cúpula en la Casa Rosada terminó con tensiones internas por el proyecto de discapacidad, el calendario electoral y las disputas en la coalición.",
+          "titulo": "El Gobierno planea recortar otros 20.000 empleos públicos y desata protesta sindical",
+          "resumen": "El plan de retiros voluntarios en el Estado generó el rechazo inmediato de ATE y amenaza de movilizaciones.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/las-tres-discusiones-urgentes-que-crisparon-a-la-mesa-politica-mientras-milei-se-desvelaba-por-su-imagen-internacional/",
+          "url": "https://www.infobae.com/america/agencias/2026/10/19/gobierno-de-milei-planea-recortar-otros-20000-empleos-publicos-y-desata-protesta-sindical/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno declaró al Cártel de Sinaloa, las FARC-EP y otras tres bandas como organizaciones terroristas",
-          "resumen": "Incorporó al RePET a grupos narco e insurgentes de México, Colombia y Ecuador por los riesgos que les atribuye.",
+          "titulo": "Santilli: \"Milei va a ganar las elecciones de 2027 con o sin PASO\"",
+          "resumen": "El jefe de Gabinete defiende la reforma electoral mientras el oficialismo busca votos para eliminar las Primarias.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/el-gobierno-declaro-al-cartel-de-sinaloa-las-farc-ep-y-otras-tres-bandas-como-organizaciones-terroristas/",
+          "url": "https://www.infobae.com/politica/2026/10/19/diego-santilli-javier-milei-va-a-ganar-las-elecciones-de-2027-con-o-sin-paso/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Por falta de consensos, no se aprobó ningún proyecto sobre endeudamiento familiar y el tema volvió a comisión",
-          "resumen": "Sin acuerdo, el oficialismo frenó las propuestas opositoras, que denunciaron la maniobra como una forma de dilatarlas.",
+          "titulo": "Milei hace campaña en Madrid: \"Si reelegimos, los cuatro años siguientes serán inolvidables\"",
+          "resumen": "El Presidente respaldó a aliados de la derecha española en plena gira europea.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/por-falta-de-consensos-no-se-aprobo-ningun-proyecto-sobre-endeudamiento-familiar-y-el-tema-volvio-a-comision/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Kicillof analiza una elección provincial unificada si el Gobierno no logra suspender las PASO",
-          "resumen": "El gobernador bonaerense evalúa unir la elección provincial con la nacional mientras el PJ prepara una nueva cumbre de unidad por las primarias y el Presupuesto.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/22/kicillof-analiza-una-eleccion-provincial-unificada-si-el-gobierno-no-logra-suspender-las-paso/",
+          "url": "https://www.infobae.com/america/agencias/2026/10/21/milei-hace-campana-en-madrid-si-reelegimos-los-cuatro-anos-siguientes-seran-inolvidables/",
           "fuentes_extra": []
         }
       ]
@@ -46,40 +39,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El salto del riesgo país no alteró al dólar, pero empieza a impactar en la brecha cambiaria",
-          "resumen": "El alza del riesgo país no movió el tipo de cambio, aunque ya comienza a reflejarse en la brecha.",
+          "titulo": "Jornada financiera: las acciones argentinas cayeron hasta 6% en Wall Street y el riesgo país superó los 700 puntos",
+          "resumen": "Nueva rueda negativa para los activos locales, con presión sobre bonos y ADRs.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/22/el-salto-del-riesgo-pais-no-altero-al-dolar-pero-empieza-a-impactar-en-la-brecha-cambiaria/",
+          "url": "https://www.infobae.com/economia/2026/10/22/jornada-financiera-las-acciones-argentinas-cayeron-hasta-6-en-wall-street-y-el-riesgo-pais-supero-los-700-puntos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Dólar blue hoy: a cuánto cotiza el jueves 22 de octubre",
-          "resumen": "El oficial del Banco Nación se vende a $1.555 y el blue ronda los $1.565, tras cuatro subas seguidas que marcaron un récord nominal.",
+          "titulo": "Dólar hoy y dólar blue: a cuánto cotizan el oficial y el paralelo",
+          "resumen": "El mayorista tocó máximos nominales en torno a $1.528 y el blue rondó los $1.565 tras cinco subas seguidas.",
           "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-blue-hoy-a-cuanto-cotiza-el-jueves-22-de-octubre-nid22102026/",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "Hay señales positivas para la deuda argentina: por qué el mercado mira más allá del débil dato de actividad de agosto",
-          "resumen": "Los inversores ven favorables a los bonos argentinos pese a la flojedad de la actividad económica.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/22/hay-senales-positivas-para-la-deuda-argentina-por-que-el-mercado-mira-mas-alla-del-debil-dato-de-actividad-de-agosto/",
+          "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22102026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las acciones argentinas avanzaron hasta 5% en Wall Street, pero el riesgo país volvió a subir",
-          "resumen": "Los papeles argentinos ganaron terreno en Nueva York mientras el indicador de riesgo retomaba el alza.",
+          "titulo": "La inflación de octubre podría rozar el 2% y complica la meta oficial del 29% anual",
+          "resumen": "Las consultoras estiman entre 1,6% y 1,9% mensual, tras un septiembre de 1,9% según el INDEC.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/21/jornada-financiera-las-acciones-argentinas-avanzaron-hasta-5-en-wall-street-pero-el-riesgo-pais-volvio-a-subir/",
+          "url": "https://www.infobae.com/economia/2026/10/03/la-inflacion-de-octubre-podria-rozar-el-2-y-complica-la-meta-oficial-del-29-anual/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El indicador preferido del Gobierno muestra que la actividad económica lleva 5 meses estancada",
-          "resumen": "Según la referencia oficial, la economía acumula cinco meses sin crecer.",
+          "titulo": "A cuánto llegarán el dólar y la inflación a fin de año, según los principales analistas",
+          "resumen": "El REM del BCRA proyecta una inflación anual cercana al 30% y un dólar mayorista en torno a $1.614 para diciembre.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/21/el-indicador-preferido-del-gobierno-muestra-que-la-actividad-economica-lleva-5-meses-estancada/",
+          "url": "https://www.infobae.com/economia/2026/10/07/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-ano-segun-los-principales-analistas-del-pais/",
           "fuentes_extra": []
         }
       ]
@@ -88,38 +72,31 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Tras la reunión entre Witkoff y Putin en San Petersburgo, Rusia lanzó un nuevo ataque contra Ucrania: al menos 7 muertos",
-          "resumen": "Un nuevo bombardeo ruso dejó víctimas pese a las gestiones diplomáticas impulsadas por Washington.",
+          "titulo": "Los cancilleres de ocho países piden en Estambul una salida diplomática para frenar la escalada en Medio Oriente",
+          "resumen": "Representantes de Francia, Reino Unido, Alemania e Italia reclamaron reabrir el estrecho de Ormuz.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/22/tras-la-reunion-entre-witkoff-y-putin-en-san-petersburgo-rusia-lanzo-un-nuevo-ataque-contra-ucrania-al-menos-7-muertos-y-15-heridos/",
+          "url": "https://www.infobae.com/america/mundo/2026/10/23/los-cancilleres-de-ocho-paises-piden-en-estambul-una-salida-diplomatica-para-frenar-la-escalada-en-medio-oriente/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Trump descartó negociaciones de paz con Irán, pero aseguró que la guerra en Medio Oriente tendrá una resolución \"muy pronto\"",
-          "resumen": "El presidente de EE. UU. rechazó por ahora negociar con Teherán aunque anticipó una pronta solución al conflicto.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/22/trump-descarto-negociaciones-de-paz-con-iran-pero-aseguro-que-la-guerra-en-medio-oriente-tendra-una-resolucion-muy-pronto/",
+          "titulo": "La UE revisará el pedido de 70.000 millones de euros de Kiev, dice Macron",
+          "resumen": "Von der Leyen confirmó la necesidad de financiamiento adicional para Ucrania el próximo año.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/en/europe/20261016-live-trump-calls-renewed-ukraine-attacks-on-russian-oil-refineries-a-disgrace",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno francés evalúa suspender las redes sociales durante las próximas protestas masivas",
-          "resumen": "El Ministerio del Interior considera cortar temporalmente el acceso para impedir que se organicen saqueos y disturbios.",
+          "titulo": "Marco Rubio habló sobre una posible cumbre trilateral de EEUU, China y Rusia por Ucrania: \"La guerra debe terminar\"",
+          "resumen": "El secretario de Estado aclaró que aún no hay acuerdos definitivos y que Kiev rechaza quedar excluida.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/22/el-gobierno-frances-evalua-suspender-las-redes-sociales-durante-las-proximas-protestas-masivas-para-impedir-que-se-organicen-saqueos/",
+          "url": "https://www.infobae.com/america/mundo/2026/10/19/marco-rubio-hablo-sobre-una-posible-cumbre-trilateral-de-eeuu-china-y-rusia-sobre-ucrania-la-guerra-debe-terminar/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Corea del Norte anunció que retomará las emisiones de propaganda hacia Corea del Sur a través de la frontera",
-          "resumen": "Pyongyang volverá a emitir mensajes por altavoces en medio del refuerzo militar en la zona fronteriza.",
+          "titulo": "Francia refuerza el operativo policial ante nuevas protestas por el costo de vida",
+          "resumen": "El premier Lecornu negocia con los sindicatos de cara a la movilización del 5 de noviembre.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/22/el-regimen-de-corea-del-norte-reanudara-sus-emisiones-de-propaganda-a-traves-de-la-frontera-con-corea-del-sur/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "7 puentes de cuerda y 10 pasos subterráneos: el plan de Brasil para transformar la ruta más letal para la fauna",
-          "resumen": "Brasil instalará cruces seguros y barreras en una carretera donde los atropellos de animales silvestres son frecuentes.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/22/7-puentes-de-cuerda-y-10-pasos-subterraneos-el-plan-de-brasil-para-transformar-la-ruta-mas-letal-para-la-fauna-local/",
+          "url": "https://www.infobae.com/america/agencias/2026/10/21/temas-del-dia-de-efe-internacional-del-miercoles-21-de-octubre-0200-gmt/",
           "fuentes_extra": []
         }
       ]
@@ -128,38 +105,31 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "SpaceX ya gana más con IA que con cohetes: el 52% de sus ingresos vienen de la IA",
-          "resumen": "La inteligencia artificial ya representa más de la mitad de la facturación de la compañía de Elon Musk.",
+          "titulo": "OpenAI llevará sus modelos a Google Cloud y suma novedades de producto",
+          "resumen": "Nuevos acuerdos de distribución y la API de Decisiones amplían el alcance de la compañía.",
+          "fuente": "OpenAI",
+          "url": "https://openai.com/news/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Anthropic avanza con Claude Haiku 5.5 y nuevos agentes personales",
+          "resumen": "La empresa suma un modelo rápido para tareas de alto volumen y expande su presencia internacional.",
+          "fuente": "Anthropic",
+          "url": "https://www.anthropic.com/news",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "\"Van a empeorar mucho más\": el subdirector de ciberseguridad de Anthropic advierte sobre los ataques con IA",
+          "resumen": "Jason Clinton alerta sobre la aceleración de amenazas potenciadas por modelos de IA.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/spacex-gana-ia-que-cohetes-52-sus-ingresos-vienen-ia",
+          "url": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
           "fuentes_extra": []
         },
         {
-          "titulo": "Un juez de California decidirá si Anthropic puede usar letras de canciones para entrenar a Claude",
-          "resumen": "El tribunal evaluará si la empresa puede emplear letras protegidas por derechos de autor en el entrenamiento de su modelo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/22/un-juez-de-california-decidira-si-anthropic-puede-usar-letras-de-canciones-para-entrenar-a-claude/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Qué pasa si subo mi CV a ChatGPT o a cualquier IA: regalar datos personales tiene consecuencias",
-          "resumen": "La nota advierte sobre los riesgos de ceder datos personales al cargar un currículum en un chatbot.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/22/que-pasa-si-subo-mi-cv-a-chatgpt-o-a-cualquier-ia-regalar-datos-personales-tiene-consecuencias/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Avanza la demanda contra xAI de Elon Musk por contaminar con 69 turbinas de gas",
-          "resumen": "La empresa de inteligencia artificial enfrenta un reclamo judicial por las emisiones de sus turbinas.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/22/avanza-la-demanda-contra-xai-de-musk-por-contaminar-con-69-turbinas-de-gas/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Un estudio propone usar agua salada y contaminada para refrigerar los centros de datos que alimentan la IA",
-          "resumen": "Investigadores de la Universidad de Texas evalúan desalinización para refrigerar los data centers con agua no potable.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/22/un-estudio-propone-usar-agua-salada-y-contaminada-para-refrigerar-los-centros-de-datos-que-alimentan-la-ia/",
+          "titulo": "Los LLM son la punta del iceberg: la verdadera revolución está en los \"modelos del mundo\"",
+          "resumen": "Crece el interés por sistemas capaces de predecir y simular entornos, más allá del lenguaje.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/nueva-frontera-ia-intentar-predecir-a-humanos",
           "fuentes_extra": []
         }
       ]
@@ -168,41 +138,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "PHP fue la brecha y Cloudflare el escudo que protegió al otro 40% de internet",
-          "resumen": "Un fallo crítico en PHP puso en alerta a la red y Cloudflare blindó a los sitios bajo su protección.",
+          "titulo": "Apple prepara una nueva ronda de lanzamientos con el MacBook táctil y el iPad Mini OLED, según Gurman",
+          "resumen": "La compañía alistaría los dispositivos que quedaron fuera de la keynote de septiembre.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/seguridad/php-ha-sido-brecha-cloudflare-ha-sido-escudo-que-ha-protegido-al-otro-40-internet-caer",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "Demandan a robots repartidores de comida por escanear rostros y cuerpos sin permiso",
-          "resumen": "Una demanda acusa a los robots de delivery de captar imágenes de personas sin su autorización.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/22/demandan-a-robots-repartidores-de-comida-por-escanear-rostros-y-cuerpos-sin-permiso/",
+          "url": "https://www.xataka.com/ordenadores/apple-prepara-nueva-ronda-lanzamientos-macbook-tactil-ipad-mini-oled-protagonistas-gurman",
           "fuentes_extra": []
         },
         {
-          "titulo": "Subirme al Kia EV2 me ha hecho mirarme al espejo: ¿de verdad necesito un coche más grande?",
-          "resumen": "Primeras impresiones del eléctrico más pequeño de Kia, con una reflexión sobre el tamaño de los autos.",
+          "titulo": "2026 trajo prodigios técnicos en componentes de PC, pero cada vez menos usuarios pueden pagarlos",
+          "resumen": "La crisis de precios en memoria y electrónica encarece los equipos de gama alta.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/kia-ev2-opiniones-primera-toma-contacto-fotos",
+          "url": "https://www.xataka.com/componentes/2026-nos-ha-traido-varios-prodigios-tecnicos-componentes-ordenador-tambien-ano-que-usuarios-pueden-permitirselos",
           "fuentes_extra": []
         },
         {
-          "titulo": "Doble lente, 4K y cero cables: Reolink lanza la OMVI 2i Ultra para vigilar sin depender de enchufes",
-          "resumen": "Reolink presenta una cámara de vigilancia inalámbrica con doble lente y panel solar.",
+          "titulo": "Mejores móviles 2026: cuál comprar según el uso y seis modelos recomendados",
+          "resumen": "La guía anual de Xataka ya marca los 12 GB de RAM como mínimo para correr IA local.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/seleccion/doble-lente-4k-cero-cables-reolink-lanza-omvi-2i-ultra-para-vigilar-cualquier-rincon-depender-enchufes",
+          "url": "https://www.xataka.com/seleccion/mejores-moviles",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Entre los beneficiados por el auge de la IA resalta un nombre europeo: Nokia",
+          "resumen": "La demanda de infraestructura de red para IA reposiciona a la firma finlandesa.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/saco-beneficiados-auge-ia-resalta-nombre-europeo-nokia",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arranca el jueves 22 de octubre. En política, Diputados le dio media sanción al proyecto que reemplaza la emergencia en discapacidad por un régimen permanente, y ahora pasa al Senado; de fondo, la mesa chica de Milei transita un día de tensión interna y el peronismo se reacomoda por las PASO, con Kicillof evaluando una elección provincial unificada. En la economía, el salto del riesgo país todavía no movió al dólar, pero ya empieza a impactar en la brecha: el oficial se vende cerca de los mil quinientos cincuenta y cinco pesos y el blue ronda los mil quinientos sesenta y cinco, tras cuatro subas seguidas. En el plano internacional, Rusia lanzó un nuevo ataque contra Ucrania pese a la reunión entre Witkoff y Putin en San Petersburgo, y Trump descartó por ahora negociar con Irán aunque prometió una pronta resolución en Medio Oriente. En inteligencia artificial, un dato llamativo: SpaceX ya gana más con IA que con cohetes, y en los tribunales de California se definirá si Anthropic puede usar letras de canciones para entrenar a Claude. Y en tecnología, un fallo crítico en PHP sacudió a buena parte de internet, con Cloudflare haciendo de escudo. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. It's Thursday, October 22nd. In politics, Argentina's lower house gave initial approval to a bill replacing the disability emergency with a permanent framework, now heading to the Senate; meanwhile Milei's inner circle is going through a tense day and the Peronist camp is regrouping over the primaries, with Governor Kicillof weighing a unified provincial election. On the economy, the jump in country risk hasn't moved the dollar yet but is starting to widen the exchange gap: the official rate sells near fifteen hundred fifty-five pesos and the blue around fifteen sixty-five, after four straight increases. Internationally, Russia launched a fresh attack on Ukraine despite the Witkoff-Putin meeting in Saint Petersburg, and Trump ruled out talks with Iran for now while promising a quick resolution in the Middle East. In artificial intelligence, a striking figure: SpaceX now earns more from AI than from rockets, and a California court will decide whether Anthropic can use song lyrics to train Claude. In tech, a critical PHP flaw rattled much of the internet, with Cloudflare acting as a shield. Have a great day.",
+    "texto_es": "Buenos días Charly. Arrancamos el viernes con un Gobierno que retoma la agenda con Estados Unidos: Milei recibe hoy a Christopher Landau en Casa Rosada tras acordar cambios en la ley sobre Malvinas, mientras planea recortar otros veinte mil empleos públicos, lo que ya despertó protestas sindicales. En lo económico, jornada tensa: las acciones argentinas cayeron hasta seis por ciento en Wall Street, el riesgo país superó los setecientos puntos y el dólar sigue en máximos, con una inflación de octubre que podría rozar el dos por ciento. En el mundo, ocho cancilleres pidieron en Estambul una salida diplomática para Medio Oriente, y la Unión Europea revisa un pedido de setenta mil millones de euros de Ucrania. En inteligencia artificial, OpenAI llevará sus modelos a Google Cloud y Anthropic avanza con nuevos modelos y agentes personales. Y en tecnología, Apple prepara un MacBook táctil y un iPad Mini OLED, mientras los componentes de PC se vuelven cada vez más caros. Que tengas un buen día.",
+    "texto_en": "Good morning Charly. We kick off Friday with a government back on its agenda with the United States: Milei receives Christopher Landau at the Casa Rosada today after agreeing on changes to the Malvinas bill, while planning to cut another twenty thousand public jobs, already sparking union protests. On the economy, a tense session: Argentine shares fell up to six percent on Wall Street, country risk topped seven hundred points, and the dollar keeps hitting highs, with October inflation possibly nearing two percent. Abroad, eight foreign ministers met in Istanbul calling for a diplomatic exit in the Middle East, and the European Union is reviewing Ukraine's seventy billion euro request. In artificial intelligence, OpenAI will bring its models to Google Cloud while Anthropic pushes new models and personal agents. And in tech, Apple is readying a touchscreen MacBook and an OLED iPad Mini, even as PC components keep getting pricier. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
