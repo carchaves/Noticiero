@@ -1,36 +1,38 @@
 {
-  "fecha": "2026-10-24",
-  "fecha_larga": "Sábado 24 de octubre de 2026",
+  "fecha": "2026-10-25",
+  "fecha_larga": "Domingo 25 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Presupuesto bajo presión: las concesiones en discapacidad le abren al Gobierno un complicado flanco fiscal",
-          "resumen": "Los cambios de la oposición en materia de discapacidad vuelven incompatible el proyecto final con la versión original del Ejecutivo.",
+          "titulo": "La intransigencia de Milei hace estallar la guerra interna",
+          "resumen": "Tensión en la mesa política del oficialismo: la postura inflexible del Presidente profundiza la pelea interna de cara al armado 2027.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/24/el-presupuesto-bajo-presion-las-concesiones-en-discapacidad-le-abren-al-gobierno-un-complicado-flanco-fiscal/",
+          "url": "https://www.infobae.com/politica/2026/10/25/la-intransigencia-de-milei-hace-estallar-la-guerra-interna/",
+          "fuentes_extra": [
+            "Clarín"
+          ]
+        },
+        {
+          "titulo": "Lorenzetti habló del fallo sobre Cristina Kirchner y pidió cubrir las vacantes en la Corte Suprema",
+          "resumen": "El ministro de la Corte se refirió al caso de la expresidenta y reclamó completar los lugares vacantes del máximo tribunal.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/25/lorenzetti-hablo-del-fallo-sobre-cristina-kirchner-y-pidio-cubrir-las-vacantes-en-la-corte-suprema/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Coparticipación: un seminario en el Senado expuso el descalabro impositivo y la falta de acuerdos",
-          "resumen": "Legisladores cuestionaron el sistema de reparto de fondos entre Nación y provincias y la ausencia de consensos para discutirlo.",
+          "titulo": "Obras sociales: tras tres reuniones fallidas entre el Gobierno y la CGT, alertan que la crisis es \"casi terminal\"",
+          "resumen": "Fuentes sindicales advierten que el sistema de salud de los gremios está al borde del colapso tras encuentros secretos sin acuerdo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/24/coparticipacion-un-seminario-en-el-senado-expuso-el-descalabro-impositivo-y-la-falta-de-acuerdos/",
+          "url": "https://www.infobae.com/politica/2026/10/25/obras-sociales-luego-de-tres-reuniones-secretas-y-fallidas-entre-el-gobierno-y-la-cgt-alertan-que-la-crisis-del-sistema-es-casi-terminal/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Una interna inviable y el futuro incierto de un acuerdo electoral: conclusiones de otra cumbre del PJ",
-          "resumen": "La nueva reunión de la cúpula peronista dejó dudas sobre la unidad del partido y su estrategia de cara a las PASO.",
+          "titulo": "Senado: las promesas incumplidas de la Casa Rosada tensan el tramo final de las sesiones ordinarias",
+          "resumen": "El oficialismo llega al cierre del año legislativo con reclamos de aliados por compromisos no cumplidos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/24/una-interna-inviable-y-el-futuro-incierto-de-un-acuerdo-electoral-conclusiones-y-desafios-de-otra-cumbre-del-pj/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Gobierno se ilusiona con un triunfo de Bolsonaro: la apuesta de Milei y qué creen que puede cambiar",
-          "resumen": "El Presidente se involucró en la campaña del candidato de derecha en Brasil, aunque Argentina no tendrá representación en su comando.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/24/el-gobierno-se-ilusiona-con-un-triunfo-de-bolsonaro-la-apuesta-de-milei-y-que-creen-que-puede-cambiar/",
+          "url": "https://www.infobae.com/politica/2026/10/25/senado-las-promesas-incumplidas-de-la-casa-rosada-tensan-el-tramo-final-de-las-sesiones-ordinarias/",
           "fuentes_extra": []
         }
       ]
@@ -39,31 +41,33 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El riesgo país volvió a superar los 700 puntos y la volatilidad internacional golpeó a los bonos argentinos",
-          "resumen": "La turbulencia en los mercados globales presionó a los bonos locales y empujó el riesgo país por encima de 700 puntos.",
+          "titulo": "La \"recesión técnica\" duró un suspiro, pero viene lo más difícil: reactivar en medio de la incertidumbre electoral",
+          "resumen": "La economía esquivó la recesión técnica, aunque la recuperación enfrenta un escenario cargado de dudas políticas.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/24/el-riesgo-pais-volvio-a-superar-los-700-puntos-y-la-volatilidad-internacional-golpeo-a-los-bonos-argentinos/",
+          "url": "https://www.infobae.com/economia/2026/10/25/la-recesion-tecnica-duro-un-suspiro-pero-viene-lo-mas-dificil-reactivar-en-medio-de-la-incertidumbre-electoral/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Clima de Negocios: la industria cruje en medio del contexto recesivo, el dólar y la pulseada por sobrevivir",
+          "resumen": "El sector industrial atraviesa una pulseada por mantenerse a flote entre costos, tipo de cambio y caída de la demanda.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/25/clima-de-negocios-la-industria-cruje-en-medio-del-contexto-recesivo-el-dolar-el-rigi-propio-y-la-pulseada-por-sobrevivir/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El dólar terminó la semana con nuevo récord nominal tras seis alzas consecutivas",
-          "resumen": "La divisa cerró la semana en un máximo nominal histórico, después de seis subas seguidas.",
+          "titulo": "Se desploma el uso de efectivo: las extracciones en cajeros cayeron a la mitad en los últimos dos años",
+          "resumen": "El dinero físico pierde terreno frente a los medios digitales: las extracciones en cajeros se redujeron a la mitad.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/23/el-dolar-termino-la-semana-con-nuevo-record-nominal-tras-seis-alzas-consecutivas/",
+          "url": "https://www.infobae.com/economia/2026/10/25/se-desploma-el-uso-de-efectivo-las-extracciones-en-cajeros-automaticos-cayeron-a-la-mitad-en-los-ultimos-dos-anos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La inflación se resiste a bajar del 2%: qué espera el mercado para el resto del año y los riesgos para 2027",
-          "resumen": "Repasa las expectativas del mercado sobre la inflación de fin de año y los riesgos hacia el año próximo.",
+          "titulo": "Las exportaciones de los últimos 12 meses superaron los USD 100.000 millones y la Argentina recupera participación mundial",
+          "resumen": "El comercio exterior marca un récord interanual y el país gana peso en el total de exportaciones globales.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/24/la-inflacion-se-resiste-a-bajar-del-2-que-espera-el-mercado-para-el-resto-del-ano-y-cuales-son-los-riesgos-para-el-ano-que-viene/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El BCRA ya compró más de USD 1.200 millones en octubre y las reservas se consolidan por encima de USD 50.000 millones",
-          "resumen": "Las compras de dólares del Banco Central en octubre reforzaron sus reservas internacionales.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/23/el-bcra-ya-compro-mas-de-usd-1200-millones-en-octubre-y-las-reservas-se-consolidan-por-encima-de-los-usd-50000-millones/",
+          "url": "https://www.infobae.com/economia/2026/10/25/las-exportaciones-de-los-ultimos-12-meses-superaron-los-usd-100000-millones-y-la-argentina-recupera-participacion-en-el-total-mundial/",
           "fuentes_extra": []
         }
       ]
@@ -72,31 +76,35 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Marco Rubio afirmó que la invasión a Ucrania se reduce al Donbás e instó a Moscú y Kiev a dar concesiones",
-          "resumen": "El secretario de Estado de EEUU sostuvo que Moscú busca cerca del 11% del territorio ucraniano y pidió concesiones para la paz.",
+          "titulo": "Balotaje caliente en Brasil: Lula y Flávio Bolsonaro se enfrentan en la elección más reñida de la historia",
+          "resumen": "Brasil vota en una segunda vuelta polarizada; Lula acusó de mentir a Bolsonaro, que proclamó que \"llegó la hora del cambio\".",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/24/marco-rubio-afirmo-que-la-invasion-a-ucrania-se-reduce-a-la-region-del-donbas-e-insto-a-moscu-y-kiev-a-dar-concesiones-para-la-paz/",
+          "url": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
+          "fuentes_extra": [
+            "Clarín"
+          ]
+        },
+        {
+          "titulo": "Noche de caos en Barcelona: la cifra de detenidos subió a 128, la mayoría menores, y hay 15 policías heridos",
+          "resumen": "Disturbios y vandalismo sacudieron la ciudad española durante la madrugada, con decenas de arrestos y agentes lesionados.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/10/25/noche-de-caos-y-disturbios-en-barcelona-la-cifra-de-detenidos-sube-a-128-la-mayoria-menores-de-edad-y-hay-15-policias-heridos/",
+          "fuentes_extra": [
+            "Clarín"
+          ]
+        },
+        {
+          "titulo": "Más de 1.300 personas fueron detenidas en Francia durante las violentas protestas del sábado",
+          "resumen": "Una jornada de protestas derivó en enfrentamientos y más de mil arrestos en todo el territorio francés.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/10/25/mas-de-1300-personas-fueron-detenidas-en-francia-durante-las-violentas-protestas-del-sabado/",
           "fuentes_extra": []
         },
         {
-          "titulo": "EEUU reducirá su personal en cuatro embajadas de Medio Oriente por el aumento de las amenazas de Irán",
-          "resumen": "Un memo citado por AP indica que las acciones de Irán alcanzaron etapas avanzadas en la región y más allá.",
+          "titulo": "El ejército de Israel cerró los accesos a Hebrón tras un ataque terrorista que dejó dos soldados muertos",
+          "resumen": "Fuerzas israelíes bloquearon la ciudad cisjordana luego de un atentado que costó la vida a dos militares.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/24/eeuu-reducira-su-personal-en-cuatro-embajadas-de-medio-oriente-debido-al-aumento-de-las-amenazas-de-iran/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Los rebeldes hutíes asedian una ciudad en Yemen en plena crisis de agua y alimentos",
-          "resumen": "Una ofensiva sobre Taiz restringe el suministro de agua y comida, y las familias racionan lo que queda.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/24/los-rebeldes-huties-asedian-una-ciudad-en-yeman-en-plena-crisis-por-las-reservas-de-agua-y-alimentos/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El primer ministro de Francia consideró \"elevado\" el nivel de amenazas para las protestas convocadas en todo el país",
-          "resumen": "Sébastien Lecornu responsabilizó a la izquierda radical por el clima hostil en torno a las movilizaciones por el costo de vida.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/24/el-primer-ministro-de-francia-considero-elevado-el-nivel-de-amenazas-para-las-protestas-convocadas-en-todo-el-pais/",
+          "url": "https://www.infobae.com/america/mundo/2026/10/25/el-ejercito-de-israel-cerro-los-accesos-a-hebron-luego-del-ataque-terrorista-que-dejo-dos-soldados-muertos/",
           "fuentes_extra": []
         }
       ]
@@ -105,31 +113,24 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Sam Altman: \"No encuentro una palabra lo bastante dramática para describir el problema que se nos viene encima\"",
-          "resumen": "Altman advierte que los recientes ciberataques potenciados por IA podrían quedar pequeños frente a lo que viene.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/sam-altman-no-encuentro-palabra-bastante-dramatica-para-describir-problema-que-se-nos-viene-encima",
+          "titulo": "Cómo los humanos pueden enamorarse de la IA: una tendencia que ya tiene matrimonios",
+          "resumen": "Crecen los vínculos afectivos con chatbots y asistentes: un fenómeno que ya incluye compromisos y casamientos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/25/como-los-humanos-pueden-enamorarse-de-la-ia-una-tendencia-que-ya-tiene-matrimonios/",
           "fuentes_extra": []
         },
         {
-          "titulo": "IBM desafía a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-          "resumen": "IBM asegura que su enfoque logra casi todo el rendimiento de los modelos cerrados a una fracción del costo por token.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
+          "titulo": "Flavia Costa: \"El desarrollo de la IA aplicado a la guerra no va a poder frenarse con una regulación\"",
+          "resumen": "La investigadora advierte sobre los riesgos del uso militar de la inteligencia artificial y los límites de regularlo.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/cultura/2026/10/25/flavia-costa-el-desarrollo-de-la-ia-aplicado-a-la-guerra-es-peligrosisimo-y-no-va-a-poder-frenarse-con-una-regulacion/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La carrera China-EEUU por los humanoides entra en otra fase: Unitree quiere robots que aprendan a mejorarse solos",
-          "resumen": "La robótica china Unitree planea que sus humanoides usen IA para mejorar sus propias capacidades.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Alemania pone en aprietos el Modo IA de Google: cuando el resumen no tiene enlaces, la opinión es de Google",
-          "resumen": "El Modo IA de Google enfrenta cuestionamientos en Alemania por respuestas que presentan opiniones sin enlazar fuentes.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
+          "titulo": "¿El mayor logro de la IA en matemática? Explicado para todo público",
+          "resumen": "Un repaso accesible sobre el avance más resonante de la inteligencia artificial en el terreno matemático.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/opinion/2026/10/25/el-mayor-logro-de-la-ia-en-matematica-explicado-para-todo-publico/",
           "fuentes_extra": []
         }
       ]
@@ -138,39 +139,32 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Actualización a One UI 9 para los Samsung Galaxy: cuáles están ya actualizados y todos los que van a actualizar",
-          "resumen": "Guía de qué teléfonos Galaxy ya recibieron One UI 9 y cuáles están programados para recibirlo.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/basics/actualizacion-a-one-ui-9-para-samsung-galaxy-cuales-estan-actualizados-todos-que-van-a-actualizar",
+          "titulo": "El Ministerio de Defensa se sube a la guerra de los drones y las Fuerzas Armadas piensan en una flota propia",
+          "resumen": "Argentina evalúa desarrollar una flota de drones militares en línea con la tendencia global en los conflictos modernos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/def/2026/10/24/el-ministerio-de-defensa-se-sube-a-la-guerra-de-los-drones-y-las-fuerzas-armadas-ya-piensan-en-una-flota-propia/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Una paradójica razón por la que millones de discos duros perfectamente funcionales se desechan cada año",
-          "resumen": "Millones de discos en buen estado se descartan anualmente porque destruirlos es la única forma fiable de proteger los datos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/hay-paradojica-razon-que-millones-discos-duros-perfectamente-funcionales-se-desechan-cada-ano",
+          "titulo": "De la nanotecnología a la salud renal: el desarrollo argentino que revoluciona el monitoreo médico",
+          "resumen": "Investigadores locales crearon una tecnología que mejora el seguimiento de pacientes renales.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/def/2026/10/24/de-la-nanotecnologia-a-la-salud-renal-el-desarrollo-argentino-que-revoluciona-el-monitoreo-medico/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La DGT tiene cámaras que multan con 200 euros por saltarse la línea continua, pero no lo pueden demostrar",
-          "resumen": "La autoridad de tráfico española admite que sus cámaras detectan la infracción pero carecen de pruebas para demostrarla.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/dgt-tiene-unas-camaras-que-multan-200-euros-saltarse-linea-continua-unico-problema-que-no-pueden-demostrar",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "TP-Link Deco BE65, análisis: así llevé Ethernet al despacho sin pasar un solo cable por las paredes",
-          "resumen": "Análisis de los nodos mesh de TP-Link, que extienden el Wi-Fi y suman puertos Ethernet sin cablear.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/analisis/tp-link-deco-be65-analisis-caracteristicas-precio-especificaciones",
+          "titulo": "Pymes e IA: el desafío de la adopción digital",
+          "resumen": "Las pequeñas y medianas empresas enfrentan la presión de incorporar inteligencia artificial para no quedar rezagadas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/opinion/2026/10/24/pymes-e-ia-el-desafio-de-la-adopcion-digital/",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el sábado con la política marcada por el Presupuesto: las concesiones de la oposición en discapacidad le abren al Gobierno un flanco fiscal complicado, mientras un seminario en el Senado volvió a exponer el descalabro de la coparticipación y el peronismo sigue sin cerrar su interna de cara a las PASO. En lo económico, semana tensa: el riesgo país volvió a superar los setecientos puntos, el dólar cerró en un nuevo récord nominal tras seis subas seguidas y la inflación se resiste a bajar del dos por ciento, aunque el Banco Central ya compró más de mil doscientos millones de dólares en octubre. En el mundo, Marco Rubio dijo que la invasión a Ucrania se reduce al Donbás y pidió concesiones para la paz, Estados Unidos reduce personal en cuatro embajadas de Medio Oriente por las amenazas de Irán, y Francia eleva el nivel de alerta ante nuevas protestas. En inteligencia artificial, Sam Altman advirtió por los ciberataques que se vienen, IBM asegura rendir casi como los grandes a una fracción del costo, y la robótica china Unitree quiere humanoides que se mejoren solos. Y en tecnología, llega One UI 9 a los Samsung Galaxy y Xataka explica por qué se tiran millones de discos duros que todavía funcionan. Que tengas un buen sábado.",
-    "texto_en": "Good morning Charly. We start Saturday with politics centered on the budget: the opposition's concessions on disability spending open a tricky fiscal flank for the government, while a Senate seminar again exposed the mess in revenue sharing and Peronism still can't settle its primary ahead of the PASO. On the economy, a tense week: country risk again topped seven hundred points, the dollar closed at a new nominal record after six straight gains, and inflation refuses to drop below two percent, though the Central Bank has already bought over one point two billion dollars in October. Abroad, Marco Rubio said the invasion of Ukraine is confined to the Donbas and called for concessions toward peace, the United States is cutting staff at four Middle East embassies over Iranian threats, and France is raising its alert level ahead of new protests. In artificial intelligence, Sam Altman warned about the cyberattacks ahead, IBM claims near top-tier performance at a fraction of the cost, and China's Unitree wants humanoid robots that improve themselves. And in tech, One UI 9 is rolling out to Samsung Galaxy phones, and Xataka explains why millions of still-working hard drives get thrown away. Have a great Saturday.",
+    "texto_es": "Buenos días Charly. Arrancamos el domingo con la interna del oficialismo recalentada: la postura inflexible de Milei hizo estallar la guerra interna de cara al 2027, mientras en el Senado las promesas incumplidas tensan el final de las sesiones ordinarias y alertan que la crisis de las obras sociales es casi terminal. En economía, la recesión técnica duró un suspiro, pero lo difícil ahora es reactivar en medio de la incertidumbre electoral; además, las exportaciones de los últimos doce meses superaron los cien mil millones de dólares y se desploma el uso del efectivo. En el plano internacional, Brasil vive un balotaje caliente entre Lula y Flávio Bolsonaro, hubo una noche de caos en Barcelona con más de cien detenidos y más de mil trescientos arrestos en Francia tras violentas protestas. En tecnología e inteligencia artificial, crece el fenómeno de personas que se enamoran de la IA, y la investigadora Flavia Costa advierte que su uso militar será muy difícil de frenar con regulaciones. Que tengas un buen domingo.",
+    "texto_en": "Good morning Charly. We start Sunday with a heated internal fight within the government: Milei's uncompromising stance has triggered an internal war ahead of 2027, while in the Senate broken promises strain the final stretch of the legislative session and officials warn the health-insurance crisis is nearly terminal. In the economy, the technical recession lasted only a moment, but the hard part now is reactivating amid electoral uncertainty; exports over the past twelve months topped one hundred billion dollars, and cash use is collapsing. Internationally, Brazil is holding a tight runoff between Lula and Flávio Bolsonaro, there was a night of chaos in Barcelona with over a hundred arrests, and more than thirteen hundred people were detained in France after violent protests. In tech and artificial intelligence, more people are falling in love with AI, and researcher Flavia Costa warns that its military use will be very hard to stop through regulation. Have a great Sunday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
