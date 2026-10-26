@@ -1,38 +1,43 @@
 {
-  "fecha": "2026-10-25",
-  "fecha_larga": "Domingo 25 de octubre de 2026",
+  "fecha": "2026-10-26",
+  "fecha_larga": "Lunes 26 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "La intransigencia de Milei hace estallar la guerra interna",
-          "resumen": "Tensión en la mesa política del oficialismo: la postura inflexible del Presidente profundiza la pelea interna de cara al armado 2027.",
+          "titulo": "El triunfo de Lula inquieta al Gobierno y abre interrogantes sobre el escenario electoral de 2027",
+          "resumen": "La victoria de Lula en Brasil genera preocupación en el Gobierno, que evalúa su impacto de cara a 2027; Milei no lo felicitó.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/25/la-intransigencia-de-milei-hace-estallar-la-guerra-interna/",
-          "fuentes_extra": [
-            "Clarín"
-          ]
-        },
-        {
-          "titulo": "Lorenzetti habló del fallo sobre Cristina Kirchner y pidió cubrir las vacantes en la Corte Suprema",
-          "resumen": "El ministro de la Corte se refirió al caso de la expresidenta y reclamó completar los lugares vacantes del máximo tribunal.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/25/lorenzetti-hablo-del-fallo-sobre-cristina-kirchner-y-pidio-cubrir-las-vacantes-en-la-corte-suprema/",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-triunfo-de-lula-inquieta-al-gobierno-y-abre-interrogantes-sobre-el-escenario-electoral-de-2027/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Obras sociales: tras tres reuniones fallidas entre el Gobierno y la CGT, alertan que la crisis es \"casi terminal\"",
-          "resumen": "Fuentes sindicales advierten que el sistema de salud de los gremios está al borde del colapso tras encuentros secretos sin acuerdo.",
+          "titulo": "Las condiciones de Patricia Bullrich en medio de los rumores de una fórmula con Milei",
+          "resumen": "Bullrich fija condiciones sobre el poder de decisión en la gestión y no descarta ninguna opción frente a los rumores de una fórmula con Milei.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/25/obras-sociales-luego-de-tres-reuniones-secretas-y-fallidas-entre-el-gobierno-y-la-cgt-alertan-que-la-crisis-del-sistema-es-casi-terminal/",
+          "url": "https://www.infobae.com/politica/2026/10/26/lugares-y-poder-de-decision-en-la-gestion-las-condiciones-de-patricia-bullrich-en-medio-de-los-rumores-de-una-formula-con-milei/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Senado: las promesas incumplidas de la Casa Rosada tensan el tramo final de las sesiones ordinarias",
-          "resumen": "El oficialismo llega al cierre del año legislativo con reclamos de aliados por compromisos no cumplidos.",
+          "titulo": "El Senado busca consensuar la creación de un registro de deudores alimentarios morosos",
+          "resumen": "Un plenario de comisiones pausó el debate mientras los legisladores intentan unificar proyectos sobre el registro de deudores alimentarios.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/25/senado-las-promesas-incumplidas-de-la-casa-rosada-tensan-el-tramo-final-de-las-sesiones-ordinarias/",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-senado-busca-consensuar-la-creacion-de-un-registro-de-deudores-alimentarios-morosos/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El Gobierno designó a una nueva funcionaria en un área clave de Capital Humano",
+          "resumen": "El Ejecutivo nombró a una nueva funcionaria en un área central de Capital Humano y sumó personal al equipo de comunicación de Jefatura de Gabinete.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/26/el-gobierno-designo-a-una-nueva-funcionaria-en-un-area-clave-de-capital-humano/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Cuánto deja de recaudar el sistema previsional por la menor cantidad de aportantes y la implementación del FAL",
+          "resumen": "Un análisis mide la caída de recaudación previsional por los menores aportantes y el impacto del nuevo fondo de asistencia laboral que arranca el 1 de diciembre.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/26/cuanto-deja-de-recaudar-el-sistema-previsional-por-la-menor-cantidad-de-trabajadores-que-aportan-y-la-implementacion-del-fal/",
           "fuentes_extra": []
         }
       ]
@@ -41,33 +46,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "La \"recesión técnica\" duró un suspiro, pero viene lo más difícil: reactivar en medio de la incertidumbre electoral",
-          "resumen": "La economía esquivó la recesión técnica, aunque la recuperación enfrenta un escenario cargado de dudas políticas.",
+          "titulo": "Por qué la economía argentina llegará a las elecciones con un crecimiento más débil que lo previsto",
+          "resumen": "La actividad económica avanza más lento de lo esperado de cara a los comicios.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/25/la-recesion-tecnica-duro-un-suspiro-pero-viene-lo-mas-dificil-reactivar-en-medio-de-la-incertidumbre-electoral/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Clima de Negocios: la industria cruje en medio del contexto recesivo, el dólar y la pulseada por sobrevivir",
-          "resumen": "El sector industrial atraviesa una pulseada por mantenerse a flote entre costos, tipo de cambio y caída de la demanda.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/25/clima-de-negocios-la-industria-cruje-en-medio-del-contexto-recesivo-el-dolar-el-rigi-propio-y-la-pulseada-por-sobrevivir/",
+          "url": "https://www.infobae.com/economia/2026/10/26/por-que-la-economia-argentina-llegara-a-las-elecciones-con-un-crecimiento-mas-debil-que-lo-previsto/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Se desploma el uso de efectivo: las extracciones en cajeros cayeron a la mitad en los últimos dos años",
-          "resumen": "El dinero físico pierde terreno frente a los medios digitales: las extracciones en cajeros se redujeron a la mitad.",
+          "titulo": "Por qué el riesgo país no da respiro pese al superávit fiscal y el récord exportador",
+          "resumen": "El riesgo país se mantiene alto a pesar del superávit fiscal y las exportaciones récord.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/25/se-desploma-el-uso-de-efectivo-las-extracciones-en-cajeros-automaticos-cayeron-a-la-mitad-en-los-ultimos-dos-anos/",
+          "url": "https://www.infobae.com/economia/2026/10/26/por-que-pese-al-superavit-fiscal-y-el-record-exportador-el-riesgo-pais-no-da-respiro/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las exportaciones de los últimos 12 meses superaron los USD 100.000 millones y la Argentina recupera participación mundial",
-          "resumen": "El comercio exterior marca un récord interanual y el país gana peso en el total de exportaciones globales.",
+          "titulo": "La incertidumbre electoral es el principal freno a las inversiones del campo",
+          "resumen": "La incertidumbre por las elecciones frena las inversiones en el agro, una de las locomotoras de la economía.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/25/las-exportaciones-de-los-ultimos-12-meses-superaron-los-usd-100000-millones-y-la-argentina-recupera-participacion-en-el-total-mundial/",
+          "url": "https://www.infobae.com/economia/2026/10/25/dudas-en-una-de-las-locomotoras-de-la-economia-la-incertidumbre-electoral-es-el-principal-freno-a-las-inversiones-del-campo/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Audiencia por las tarifas de AySA: el nuevo esquema plantea subas para parte de los usuarios",
+          "resumen": "Una audiencia pública debate un esquema de tarifas de agua que subiría la factura a algunos hogares y la bajaría a otros.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/26/audiencia-por-las-tarifas-de-aysa-como-es-el-nuevo-esquema-que-plantea-subas-para-parte-de-los-usuarios/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Súper Niño: la generación hidroeléctrica creció casi un tercio y el costo de la energía se desplomó 43% en un mes",
+          "resumen": "La generación hidroeléctrica saltó casi un tercio y el costo de la energía cayó con fuerza en un solo mes.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/26/super-nino-la-generacion-hidroelectrica-crecio-casi-un-tercio-y-el-costo-de-la-energia-se-desplomo-43-en-un-mes/",
           "fuentes_extra": []
         }
       ]
@@ -76,35 +86,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Balotaje caliente en Brasil: Lula y Flávio Bolsonaro se enfrentan en la elección más reñida de la historia",
-          "resumen": "Brasil vota en una segunda vuelta polarizada; Lula acusó de mentir a Bolsonaro, que proclamó que \"llegó la hora del cambio\".",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/america-latina/2026/10/25/elecciones-en-brasil-en-vivo/",
-          "fuentes_extra": [
-            "Clarín"
-          ]
-        },
-        {
-          "titulo": "Noche de caos en Barcelona: la cifra de detenidos subió a 128, la mayoría menores, y hay 15 policías heridos",
-          "resumen": "Disturbios y vandalismo sacudieron la ciudad española durante la madrugada, con decenas de arrestos y agentes lesionados.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/espana/2026/10/25/noche-de-caos-y-disturbios-en-barcelona-la-cifra-de-detenidos-sube-a-128-la-mayoria-menores-de-edad-y-hay-15-policias-heridos/",
-          "fuentes_extra": [
-            "Clarín"
-          ]
-        },
-        {
-          "titulo": "Más de 1.300 personas fueron detenidas en Francia durante las violentas protestas del sábado",
-          "resumen": "Una jornada de protestas derivó en enfrentamientos y más de mil arrestos en todo el territorio francés.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/25/mas-de-1300-personas-fueron-detenidas-en-francia-durante-las-violentas-protestas-del-sabado/",
+          "titulo": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
+          "resumen": "Lula da Silva gana el balotaje presidencial en Brasil y su rival Flávio Bolsonaro anuncia que buscará anular los resultados.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-lula-da-la-vuelta-a-los-resultados-y-gana-el-balotaje-a-la-presidencia-de-brasil",
           "fuentes_extra": []
         },
         {
-          "titulo": "El ejército de Israel cerró los accesos a Hebrón tras un ataque terrorista que dejó dos soldados muertos",
-          "resumen": "Fuerzas israelíes bloquearon la ciudad cisjordana luego de un atentado que costó la vida a dos militares.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/10/25/el-ejercito-de-israel-cerro-los-accesos-a-hebron-luego-del-ataque-terrorista-que-dejo-dos-soldados-muertos/",
+          "titulo": "El triunfo de Lula frena a la derecha y socava las aspiraciones de Trump en Latinoamérica",
+          "resumen": "Un análisis sobre cómo la victoria de Lula frena a la derecha regional y debilita la influencia de Trump en América Latina.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261026-el-triunfo-de-lula-frena-a-la-derecha-y-socava-la-cruzada-de-trump-en-latinoam%C3%A9rica",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "\"Estoy aquí\": María Corina Machado regresa a Venezuela tras casi un año fuera del país",
+          "resumen": "La líder opositora venezolana María Corina Machado vuelve a Venezuela luego de casi un año en el exterior.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Serbia: el populista Vucic reconoce su derrota ante la Lista de Estudiantes en las legislativas",
+          "resumen": "El presidente serbio Aleksandar Vucic admite la derrota frente a la lista estudiantil en las elecciones legislativas.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/europa/20261025-serbia-el-populista-vucic-reconoce-su-derrota-ante-la-lista-de-estudiantes-en-las-legislativas",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Al menos 1.300 personas detenidas en las protestas del sábado en Francia",
+          "resumen": "El ministro del Interior francés reporta al menos 1.300 detenidos en las protestas nacionales por el costo de vida y la educación.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/francia/20261024-en-directo-i-135-detenidos-e-incautaci%C3%B3n-de-armas-en-protestas-de-este-s%C3%A1bado-ministerio-del-interior-franc%C3%A9s",
           "fuentes_extra": []
         }
       ]
@@ -113,24 +126,38 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Cómo los humanos pueden enamorarse de la IA: una tendencia que ya tiene matrimonios",
-          "resumen": "Crecen los vínculos afectivos con chatbots y asistentes: un fenómeno que ya incluye compromisos y casamientos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/10/25/como-los-humanos-pueden-enamorarse-de-la-ia-una-tendencia-que-ya-tiene-matrimonios/",
+          "titulo": "Joe Tsai (Alibaba): \"La única forma de que Europa alcance la soberanía tecnológica es con la IA open source\"",
+          "resumen": "El presidente de Alibaba ofrece a Europa la vía del open source para su soberanía digital, con el riesgo de cambiar una dependencia por otra.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/presidente-alibaba-tiene-claro-unica-forma-que-europa-alcance-soberania-tecnologica-ia-open-source",
           "fuentes_extra": []
         },
         {
-          "titulo": "Flavia Costa: \"El desarrollo de la IA aplicado a la guerra no va a poder frenarse con una regulación\"",
-          "resumen": "La investigadora advierte sobre los riesgos del uso militar de la inteligencia artificial y los límites de regularlo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/cultura/2026/10/25/flavia-costa-el-desarrollo-de-la-ia-aplicado-a-la-guerra-es-peligrosisimo-y-no-va-a-poder-frenarse-con-una-regulacion/",
+          "titulo": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
+          "resumen": "Dinamarca propone proteger legalmente la voz y la cara de sus ciudadanos frente a las copias generadas por IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
           "fuentes_extra": []
         },
         {
-          "titulo": "¿El mayor logro de la IA en matemática? Explicado para todo público",
-          "resumen": "Un repaso accesible sobre el avance más resonante de la inteligencia artificial en el terreno matemático.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/opinion/2026/10/25/el-mayor-logro-de-la-ia-en-matematica-explicado-para-todo-publico/",
+          "titulo": "Pangram ve un 99% de IA en una novela premiada: el problema es que no hay detector infalible",
+          "resumen": "Un detector marcó como 99% generada por IA a una novela premiada, exponiendo la poca fiabilidad de estas herramientas.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La IA ya está cambiando la predicción del tiempo: acertó la trayectoria del huracán Isaías cuando los modelos tradicionales fallaron",
+          "resumen": "Un modelo de IA predijo la trayectoria del huracán Isaías con más precisión que los modelos meteorológicos clásicos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "IBM desafía a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
+          "resumen": "IBM afirma que sus modelos abiertos ofrecen casi todo el rendimiento de los líderes cerrados a una fracción del costo por token.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
           "fuentes_extra": []
         }
       ]
@@ -139,32 +166,46 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "El Ministerio de Defensa se sube a la guerra de los drones y las Fuerzas Armadas piensan en una flota propia",
-          "resumen": "Argentina evalúa desarrollar una flota de drones militares en línea con la tendencia global en los conflictos modernos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/def/2026/10/24/el-ministerio-de-defensa-se-sube-a-la-guerra-de-los-drones-y-las-fuerzas-armadas-ya-piensan-en-una-flota-propia/",
+          "titulo": "Análisis del Huawei Watch D3, uno de los pocos relojes certificados para medir la presión arterial",
+          "resumen": "El reloj de Huawei mide presión arterial y sorprende por cómo se comporta su correa al inflarse.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/analisis/huawei-watch-d3-analisis-caracteristicas-precio-especificaciones",
           "fuentes_extra": []
         },
         {
-          "titulo": "De la nanotecnología a la salud renal: el desarrollo argentino que revoluciona el monitoreo médico",
-          "resumen": "Investigadores locales crearon una tecnología que mejora el seguimiento de pacientes renales.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/def/2026/10/24/de-la-nanotecnologia-a-la-salud-renal-el-desarrollo-argentino-que-revoluciona-el-monitoreo-medico/",
+          "titulo": "El sistema de telepeaje de Japón dejó de funcionar durante 38 horas y derivó en 1.200 millones de yenes en reembolsos",
+          "resumen": "Una caída de 38 horas en el telepeaje japonés llevó a muchos conductores a pagar a mano y generó unos 1.200 millones de yenes en reembolsos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/movilidad/sistema-telepeaje-japon-dejo-funcionar-durante-38-horas-muchos-conductores-hicieron-que-les-parecio-logico-pagar",
           "fuentes_extra": []
         },
         {
-          "titulo": "Pymes e IA: el desafío de la adopción digital",
-          "resumen": "Las pequeñas y medianas empresas enfrentan la presión de incorporar inteligencia artificial para no quedar rezagadas.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/opinion/2026/10/24/pymes-e-ia-el-desafio-de-la-adopcion-digital/",
+          "titulo": "Ofertas en reacondicionados de MediaMarkt: descuentos en Samsung Galaxy S26, televisores y monitores",
+          "resumen": "MediaMarkt rebaja productos reacondicionados, incluido el Samsung Galaxy S26 de 512 GB, televisores y monitores.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seleccion/ofertas-reacondicionados-mediamarkt-grandes-descuentos-samsung-galaxy-s26-512-gb-televisores-monitores",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "En 1964 la URSS tenía un mineral clave para el nuevo avión espía de EEUU, y EEUU engañó para conseguirlo",
+          "resumen": "Relato de cómo Estados Unidos obtuvo mediante engaños un mineral que la URSS poseía y que necesitaba para fabricar el SR-71.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/magnet/1964-urss-poseia-mineral-clave-para-fabricar-nuevo-avion-espia-eeuu-eeuu-engano-para-conseguirlo",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Lidl pone a la venta un calefactor cerámico tipo split por 29,99 euros ideal para baños y estancias pequeñas",
+          "resumen": "Lidl ofrece un calefactor cerámico de pared pensado para calentar baños y espacios reducidos por 29,99 euros.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seleccion/hoy-llega-a-lidl-este-calefactor-ceramico-tipo-split-29-99-euros-e-ideal-para-calentar-bano-estancias-pequenas",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el domingo con la interna del oficialismo recalentada: la postura inflexible de Milei hizo estallar la guerra interna de cara al 2027, mientras en el Senado las promesas incumplidas tensan el final de las sesiones ordinarias y alertan que la crisis de las obras sociales es casi terminal. En economía, la recesión técnica duró un suspiro, pero lo difícil ahora es reactivar en medio de la incertidumbre electoral; además, las exportaciones de los últimos doce meses superaron los cien mil millones de dólares y se desploma el uso del efectivo. En el plano internacional, Brasil vive un balotaje caliente entre Lula y Flávio Bolsonaro, hubo una noche de caos en Barcelona con más de cien detenidos y más de mil trescientos arrestos en Francia tras violentas protestas. En tecnología e inteligencia artificial, crece el fenómeno de personas que se enamoran de la IA, y la investigadora Flavia Costa advierte que su uso militar será muy difícil de frenar con regulaciones. Que tengas un buen domingo.",
-    "texto_en": "Good morning Charly. We start Sunday with a heated internal fight within the government: Milei's uncompromising stance has triggered an internal war ahead of 2027, while in the Senate broken promises strain the final stretch of the legislative session and officials warn the health-insurance crisis is nearly terminal. In the economy, the technical recession lasted only a moment, but the hard part now is reactivating amid electoral uncertainty; exports over the past twelve months topped one hundred billion dollars, and cash use is collapsing. Internationally, Brazil is holding a tight runoff between Lula and Flávio Bolsonaro, there was a night of chaos in Barcelona with over a hundred arrests, and more than thirteen hundred people were detained in France after violent protests. In tech and artificial intelligence, more people are falling in love with AI, and researcher Flavia Costa warns that its military use will be very hard to stop through regulation. Have a great Sunday.",
+    "texto_es": "Buenos días Charly. Arranca la semana con una noticia que domina el tablero regional: Lula se impuso en el balotaje de Brasil, un resultado que inquieta al Gobierno argentino y abre preguntas sobre el escenario electoral de 2027. En la economía, el país llega a las elecciones con un crecimiento más débil del esperado y con un riesgo país que no afloja pese al superávit fiscal y las exportaciones récord. En el plano internacional, María Corina Machado regresó a Venezuela tras casi un año afuera, y en Serbia el oficialismo reconoció su derrota ante una lista estudiantil. En inteligencia artificial, Dinamarca prepara un plan para blindar la voz y el rostro de sus ciudadanos frente a los deepfakes, mientras IBM asegura que sus modelos abiertos rinden casi igual que los cerrados a una fracción del costo. Que tengas un buen lunes.",
+    "texto_en": "Good morning Charly. The week opens with a story dominating the regional scene: Lula won Brazil's runoff, a result that worries Argentina's government and raises questions about the 2027 electoral landscape. On the economy, the country heads into its elections with weaker growth than expected and a country risk that won't ease despite a fiscal surplus and record exports. Internationally, María Corina Machado returned to Venezuela after nearly a year abroad, and in Serbia the ruling party conceded defeat to a student-led list. In artificial intelligence, Denmark is preparing a plan to shield its citizens' voices and faces from deepfakes, while IBM claims its open models perform nearly as well as closed ones at a fraction of the cost. Have a good Monday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
