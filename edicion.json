@@ -1,33 +1,44 @@
 {
-  "fecha": "2026-10-28",
-  "fecha_larga": "Miércoles 28 de octubre de 2026",
+  "fecha": "2026-10-29",
+  "fecha_larga": "Jueves 29 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Se achica el margen del Gobierno para la reforma electoral y crecen las dudas sobre los votos",
-          "resumen": "El plazo que el oficialismo se fijó para avanzar con la reforma electoral se complica y en la mesa política admiten que, sin dictamen esta semana, la ven difícil.",
+          "titulo": "El Gobierno no denunciará a Lula por fraude, pero endurecerá el discurso contra el Mercosur",
+          "resumen": "La Casa Rosada descarta una denuncia formal por el resultado en Brasil y usa el clima para tensar con el bloque regional.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/28/se-achica-el-margen-del-gobierno-para-la-reforma-electoral-y-crecen-las-dudas-sobre-los-votos/",
+          "url": "https://www.infobae.com/politica/2026/10/29/el-gobierno-no-denunciara-a-lula-por-fraude-pero-aprovechara-para-endurecer-el-discurso-contra-el-mercosur/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Milei visita Catamarca para impulsar el boom del litio y las inversiones del RIGI",
-          "resumen": "El presidente recorre proyectos mineros de litio en la provincia, de la mano del gobernador peronista Raúl Jalil, aliado en el impulso al RIGI.",
-          "fuente": "La Derecha Diario",
-          "url": "https://derechadiario.com.ar/politica/jalil-confirmo-milei-visitara-catamarca-impulsar-boom-litio-inversiones-rigi",
+          "titulo": "Cómo le impactó al Gobierno el caso Bolsonaro, local e internacionalmente",
+          "resumen": "Bullrich opinó antes del comunicado del dirigente brasileño y Milei se mantiene en silencio mientras se miden los costos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/29/especulaciones-ajustes-y-cautela-como-le-impacto-al-gobierno-el-caso-bolsonaro-local-e-internacionalmente/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Procesaron a José Luis Espert por lavado de dinero y le prohibieron salir del país",
-          "resumen": "La Justicia Federal de San Isidro lo procesó en la causa por presunto lavado, con embargo de $1.000 millones y prohibición de salida del país.",
-          "fuente": "Canal 26",
-          "url": "https://www.canal26.com/politica/2026/10/22/jose-luis-espert-fue-procesado-por-lavado-de-dinero-y-no-podra-salir-del-pais/",
-          "fuentes_extra": [
-            "iProfesional",
-            "Perfil"
-          ]
+          "titulo": "Macri y Bullrich desafían a Milei: la línea que vuelve a acercar a los ex aliados",
+          "resumen": "PRO y la senadora coincidieron en reconocer el triunfo de Lula, defender la libertad de prensa y pedir cambios en la Ley de Soberanía.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/29/macri-y-bullrich-desafian-a-milei-la-linea-de-accion-que-vuelve-a-acercar-a-los-ex-aliados/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El Senado sesiona con la ley de salud mental en duda y busca aprobar beneficios fiscales",
+          "resumen": "Desde las 14 se intentará votar incentivos a inversiones desde USD 12 millones y la regulación del mercado de bonos de carbono.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/29/el-senado-sesiona-con-la-ley-de-salud-mental-aun-en-duda-y-buscara-aprobar-beneficios-fiscales-para-inversiones/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El PJ Federal hace pie en la Patagonia y empuja a tres precandidatos a gobernador",
+          "resumen": "El espacio instala a Grasso, Luque y Pérez para pelear el poder en 2027 en Santa Cruz, Chubut y Tierra del Fuego.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/29/el-pj-federal-hace-pie-en-la-patagonia-y-empuja-a-tres-precandidatos-a-gobernador/",
+          "fuentes_extra": []
         }
       ]
     },
@@ -35,33 +46,40 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Dólar hoy: a cuánto cotiza el oficial este miércoles 28 de octubre",
-          "resumen": "El oficial en el Banco Nación se vende a $1.560, unos $80 por encima del cierre de 2025, con el mayorista aún lejos del techo de la banda ($1.947,79).",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/dolar-hoy-cuanto-cotiza-este-miercoles-28-octubre-n6338653",
+          "titulo": "Superávit fiscal: el Gobierno recibió un \"perdón\" del FMI, pero los economistas ven incumplida la meta anual",
+          "resumen": "El Fondo flexibilizó la exigencia aunque analistas anticipan que no se alcanzará el objetivo de todo el año.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/29/superavit-fiscal-el-gobierno-recibio-un-perdon-del-fmi-pero-para-los-economistas-va-a-incumplir-la-meta-anual/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El \"efecto Lula\" sigue pegando: los bonos sintieron el impacto, pero el tipo de cambio aguantó",
+          "resumen": "La deuda en dólares acusó el resultado en Brasil mientras el dólar se mantuvo estable; crece el riesgo para bonos que vencen después de 2027.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/29/el-efecto-lula-sigue-pegando-en-argentina-los-bonos-sintieron-el-impacto-pero-el-tipo-de-cambio-aguanto/",
           "fuentes_extra": [
-            "El Cronista"
+            "Infobae"
           ]
         },
         {
-          "titulo": "Dólar blue hoy: a cuánto opera este miércoles 28 de octubre",
-          "resumen": "El blue cotiza en torno a $1.575 para la venta, con el MEP cerca de $1.560 y el CCL rondando los $1.656.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/dolar-blue-hoy-cuanto-opera-este-miercoles-28-octubre-n6338654",
+          "titulo": "De cuánto serán las jubilaciones, AUH y pensiones de ANSES en noviembre 2026",
+          "resumen": "El organismo actualiza haberes y prestaciones sociales con los nuevos valores del próximo mes.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/29/de-cuanto-seran-las-jubilaciones-auh-y-pensiones-de-anses-en-noviembre-2026-tras-el-aumento/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Tesoro vendió u$s100 millones para contener al dólar oficial",
-          "resumen": "El Cronista reporta intervención del Tesoro para evitar una disparada, mientras la banda cambiaria se actualiza mensualmente por inflación.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/finanzas-mercados/dolar-hoy-a-cuanto-cotiza-el-oficial-en-los-bancos-de-la-city-hoy-miercoles-28-de-octubre/",
+          "titulo": "Uno por uno, todos los aumentos que llegan en noviembre",
+          "resumen": "Transporte, educación y salud encabezan la lista de subas más sensibles para el bolsillo.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/29/uno-por-uno-todos-los-aumentos-que-llegan-en-noviembre-transporte-educacion-y-salud-entre-los-mas-sensibles-para-el-bolsillo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El FMI avanza con la tercera revisión y un desembolso para la Argentina",
-          "resumen": "El organismo concluyó la misión y analiza liberar fondos (en torno a u$s900-980 millones) sujeto al aval del Directorio.",
-          "fuente": "iProfesional",
-          "url": "https://www.iprofesional.com/finanzas/465594-fmi-define-la-tercera-revision-y-un-desembolso-de-us980-millones",
+          "titulo": "La industria del calzado advierte por un nuevo golpe en diciembre",
+          "resumen": "El sector alerta por menos producción, fábricas cerradas y miles de despidos hacia fin de año.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/29/menos-produccion-fabricas-cerradas-y-miles-de-despidos-la-industria-del-calzado-advierte-por-un-nuevo-golpe-en-diciembre/",
           "fuentes_extra": []
         }
       ]
@@ -70,24 +88,44 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Elecciones en Israel: sondeos a pie de urna apuntan al empate entre Eisenkot y Netanyahu",
-          "resumen": "Con participación récord del 77,7%, ningún bloque tiene vía clara para formar gobierno; Netanyahu podría seguir como primer ministro en funciones.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261028-elecciones-en-israel-tras-participaci%C3%B3n-r%C3%A9cord-sondeos-a-pie-de-urna-apuntan-al-empate-de-eisenkot-y-netanyahu",
+          "titulo": "Tragedia ferroviaria en Toledo: suben a 68 los muertos tras el choque de dos trenes de alta velocidad en España",
+          "resumen": "El país está en shock; los audios de la torre de control muestran 17 minutos en los que nadie advirtió el choque inminente.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/dos-trenes-de-alta-velocidad-chocaron-en-toledo-al-menos-10-muertos-nid28102026/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Confirman la muerte de una argentina en el choque de trenes y buscan a otro desaparecido",
+          "resumen": "Murió la podóloga Ana Martina Conte Grand, de 32 años; Agustín Randazzo, de 51, permanece desaparecido.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/confirman-una-victima-argentina-en-el-choque-de-trenes-en-espana-y-otra-permanece-desaparecida-nid28102026/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Por qué la victoria de Lula en Brasil tiene un valor tan especial para la izquierda de América Latina",
+          "resumen": "Tras la derrota, Flavio Bolsonaro se autoproclamó \"líder\" y huyó a EE.UU.; Trump dijo que no se involucrará.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/por-que-la-victoria-de-lula-en-brasil-tiene-un-valor-tan-especial-para-el-y-la-izquierda-de-america-nid26102026/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Elecciones en Israel 2026: números parejos mientras Netanyahu pide esperar los \"resultados reales\"",
+          "resumen": "El escrutinio arroja un resultado muy ajustado y el premier pide cautela antes de confirmar un ganador.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-de-israel-2026-numeros-parejos-mientras-netanyahu-pide-esperar-los-nid28102026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Israel en directo: la oposición a la cabeza pero sin mayoría frente a Netanyahu",
-          "resumen": "Cobertura minuto a minuto del primer comicio israelí desde los ataques del 7 de octubre; los resultados consolidados podrían demorar semanas.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Elecciones en Israel: ¿qué pasa tras el cierre de las urnas?",
-          "resumen": "France 24 analiza los escenarios de negociación de coalición que se abren después del cierre de los comicios.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261027-elecciones-en-israel-qu%C3%A9-pasa-tras-el-cierre-de-las-urnas",
+          "titulo": "Tragedia aérea en Uruguay: un piloto murió tras el choque de dos avionetas cerca de Montevideo",
+          "resumen": "Las aeronaves hacían acrobacias cuando colisionaron en el aire.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/tragedia-aerea-en-uruguay-un-piloto-murio-tras-el-choque-de-dos-avionetas-que-hacian-acrobacias-nid29102026/",
           "fuentes_extra": []
         }
       ]
@@ -96,19 +134,40 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Anthropic presenta papeles para su salida a bolsa con valoración cercana al billón de dólares",
-          "resumen": "La compañía de IA avanza hacia su IPO; su estructura de control busca blindar la misión frente a los accionistas, con Amazon y Google como socios de infraestructura.",
-          "fuente": "InvestmentNews",
-          "url": "https://www.investmentnews.com/equities/anthropic-files-for-ipo-as-ai-giant-nears-1t-valuation/266819",
+          "titulo": "Anthropic y sus rivales desatan la mayor avalancha financiera de la historia de la IA",
+          "resumen": "La compañía busca US$100.000 millones para su desarrollo, aunque admite que podría plantear riesgos \"catastróficos\".",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/anthropic-y-sus-rivales-en-la-ia-desatan-la-mayor-avalancha-financiera-de-la-historia-nid28102026/",
           "fuentes_extra": [
-            "Café con IA"
+            "La Nación"
           ]
         },
         {
-          "titulo": "La IA también tiene sed: el 40% de los centros de datos está en zonas de estrés hídrico",
-          "resumen": "Según la Agencia Internacional de la Energía, buena parte de la capacidad de data centers para IA se ubica en regiones con estrés hídrico alto o extremo.",
-          "fuente": "Excélsior",
-          "url": "https://www.excelsior.com.mx/opinion/ricardo-peraza/inteligencia-artificial-tiene-sed",
+          "titulo": "Exinvestigador de Google DeepMind: \"Hay probabilidad de que una de cada tres IA acabe con la humanidad en diez años\"",
+          "resumen": "Una voz del campo advierte sobre riesgos existenciales en el ritmo actual de desarrollo.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/un-exinvestigador-de-google-deepmind-aseguro-hay-probabilidad-de-que-una-de-cada-tres-ia-acabe-con-nid27102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Google DeepMind presentó Genie 4, su nuevo motor de simulación de mundos en tiempo real",
+          "resumen": "La herramienta genera entornos interactivos a partir de instrucciones, un salto en IA generativa de mundos.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/google-deepmind-presento-genie-4-su-nuevo-motor-de-simulacion-de-mundos-en-tiempo-real-nid27102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Demandan a Anthropic por usar sin permiso canciones de Elvis Presley para entrenar a Claude",
+          "resumen": "El reclamo asciende a US$41 millones por el uso no autorizado del catálogo musical.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/demandan-a-anthropic-por-usar-sin-autorizacion-las-canciones-de-elvis-presley-para-entrenar-a-claude-nid27102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Claude Duet: cómo funciona el agente de IA de Anthropic y qué tareas hace sin que se las pidan",
+          "resumen": "El nuevo agente ejecuta acciones de forma autónoma; quiénes pueden probarlo y para qué sirve.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/claude-duet-como-funciona-el-agente-de-ia-de-anthropic-quienes-pueden-probarlo-y-que-tareas-hace-sin-nid22102026/",
           "fuentes_extra": []
         }
       ]
@@ -117,27 +176,48 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Apple celebra hoy su evento 'Pro and Tell': posible MacBook Pro táctil OLED y chips M6",
-          "resumen": "Las filtraciones apuntan a un MacBook Pro con pantalla OLED táctil, iPad mini renovado y nuevos MacBook Pro de 14\" e iMac con chip M6.",
-          "fuente": "TechRadar",
-          "url": "https://global.techradar.com/es-mx/computing/macbooks/apple-promete-pro-and-tell-para-el-28-de-octubre-y-podria-ser-la-llegada-tan-esperada-de-la-macbook-pro-con-pantalla-tactil",
+          "titulo": "Apple rompe su propio tabú y presenta su primera MacBook Pro con pantalla táctil",
+          "resumen": "La compañía suma una notebook táctil junto a nuevas MacBook Pro de 14 pulgadas e iMac con chip M6 y Siri AI.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/apple-rompe-su-propio-tabu-y-presenta-la-primera-macbook-pro-con-pantalla-tactil-nid28102026/",
           "fuentes_extra": [
-            "Macworld"
+            "La Nación"
           ]
         },
         {
-          "titulo": "Las pantallas rotas del iPhone Duo y los centros de datos en España",
-          "resumen": "El resumen diario de Xataka: Apple admite fallos de pantalla en algunas unidades del iPhone Duo y España suaviza las normas de data centers para no espantar a las empresas de IA.",
-          "fuente": "Xataka",
-          "url": "https://xataka.substack.com/p/las-pantallas-rotas-del-iphone-duo",
+          "titulo": "Crackgate: Apple confirma fallas en el iPhone Duo y reemplazará los plegables con pantallas rotas",
+          "resumen": "Múltiples usuarios denunciaron que la pantalla plegable se agrieta a las pocas horas de uso.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/apple-confirma-las-fallas-del-iphone-duo-y-reemplazara-los-plegables-con-pantallas-rotas-nid27102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Una falla de Cloudflare dejó sin acceso a sitios en todo el mundo",
+          "resumen": "El problema de funcionamiento afectó a buena parte de internet durante horas.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/cloudflare-tiene-problemas-de-funcionamiento-que-afectan-a-media-internet-nid27102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Amazon lanza un despertador inteligente y un parlante que también es repetidor mesh",
+          "resumen": "Los nuevos dispositivos llegan con el asistente Alexa+ integrado.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/amazon-lanza-un-despertador-inteligente-y-un-parlante-que-tambien-es-repetidor-mesh-nid28102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Instagram monetizará los videos largos para pagar a los creadores",
+          "resumen": "Adam Mosseri aclaró que el nuevo formato aún está en pruebas y sin características definitivas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el miércoles 28 de octubre. En política, se achica el margen del Gobierno para la reforma electoral: si no sale el dictamen esta semana, la ven difícil. Milei visita Catamarca para impulsar las inversiones en litio del RIGI, de la mano del gobernador Jalil. En lo económico, el dólar oficial se vende a mil quinientos sesenta pesos, el blue ronda los mil quinientos setenta y cinco, y el Tesoro salió a vender cien millones de dólares para contener la cotización. Además, el Fondo avanza con la tercera revisión y analiza un nuevo desembolso. En el plano internacional, todo el foco está en Israel: tras una participación récord, los sondeos muestran un empate entre Eisenkot y Netanyahu, sin un camino claro para formar gobierno. En inteligencia artificial, Anthropic avanza hacia su salida a bolsa con una valoración cercana al billón de dólares, mientras crece el debate por el consumo de agua de los centros de datos. Y en tecnología, Apple celebra hoy su evento Pro and Tell, donde se espera un MacBook Pro con pantalla táctil y nuevos equipos con chip M6. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. Here's your Wednesday, October 28th brief. In Argentine politics, the government's window to pass electoral reform is narrowing, with doubts over the votes, while President Milei visits Catamarca to promote lithium investments under the RIGI regime alongside Governor Jalil. On the economy, the official dollar sells at fifteen hundred sixty pesos and the blue around fifteen seventy-five, with the Treasury selling a hundred million dollars to contain the rate, as the IMF moves ahead with its third review and a new disbursement. Internationally, all eyes are on Israel: after record turnout, exit polls point to a dead heat between Eisenkot and Netanyahu, with no clear path to a government. In AI, Anthropic moves toward an IPO at a valuation near one trillion dollars, while concerns grow over data centers' water use. And in tech, Apple holds its Pro and Tell event today, where a touchscreen MacBook Pro and new M6 machines are expected. Have a great day.",
+    "texto_es": "Buenos días Charly. Hoy, jueves 29 de octubre, el clima político sigue marcado por Brasil: el Gobierno no denunciará a Lula por fraude pero endurece el discurso contra el Mercosur, mientras Macri y Bullrich vuelven a acercarse y le marcan la cancha a Milei. En el Senado se trata la ley de salud mental y beneficios fiscales para inversiones. En la economía, el Fondo le dio un respiro al Gobierno con la meta fiscal, aunque los economistas creen que no se cumplirá; el efecto Lula golpeó a los bonos pero el dólar aguantó, y en noviembre llegan aumentos en transporte, educación y salud. En el mundo, la tragedia ferroviaria en Toledo ya suma sesenta y ocho muertos, entre ellos una argentina, y las elecciones en Israel quedaron muy parejas. En inteligencia artificial, Anthropic busca cien mil millones de dólares en medio de advertencias sobre riesgos catastróficos. Y en tecnología, Apple presentó su primera MacBook Pro con pantalla táctil. Que tengas un buen día.",
+    "texto_en": "Good morning Charly. Today, Thursday October 29th, politics is still dominated by Brazil: the government won't accuse Lula of fraud but is hardening its tone against Mercosur, while Macri and Bullrich move closer again and push back on Milei. The Senate is debating the mental health law and tax breaks for investment. On the economy, the IMF gave the government some breathing room on its fiscal target, though economists doubt it will be met; the Lula effect hit bonds but the peso held, and November brings price hikes in transport, education and health. Abroad, the train tragedy in Toledo has now claimed sixty-eight lives, including an Argentine, and Israel's election is too close to call. In AI, Anthropic is seeking a hundred billion dollars amid warnings of catastrophic risks. And in tech, Apple unveiled its first touchscreen MacBook Pro. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
