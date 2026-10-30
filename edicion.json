@@ -1,43 +1,43 @@
 {
-  "fecha": "2026-10-29",
-  "fecha_larga": "Jueves 29 de octubre de 2026",
+  "fecha": "2026-10-30",
+  "fecha_larga": "Viernes 30 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Gobierno no denunciará a Lula por fraude, pero endurecerá el discurso contra el Mercosur",
-          "resumen": "La Casa Rosada descarta una denuncia formal por el resultado en Brasil y usa el clima para tensar con el bloque regional.",
+          "titulo": "Kicillof sigue con recorridas en clave electoral: desembarca en Jujuy y prepara su viaje a Santa Fe",
+          "resumen": "El gobernador bonaerense intensifica su gira nacional mientras define su estrategia de construcción propia.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/29/el-gobierno-no-denunciara-a-lula-por-fraude-pero-aprovechara-para-endurecer-el-discurso-contra-el-mercosur/",
+          "url": "https://www.infobae.com/politica/2026/10/30/kicillof-sigue-con-recorridas-en-clave-electoral-desembarca-en-jujuy-y-prepara-su-viaje-a-santa-fe/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Cómo le impactó al Gobierno el caso Bolsonaro, local e internacionalmente",
-          "resumen": "Bullrich opinó antes del comunicado del dirigente brasileño y Milei se mantiene en silencio mientras se miden los costos.",
+          "titulo": "Nuevo foco de malestar con Bullrich y aparecen diferencias en el Gobierno sobre cómo lidiar con sus desmarques",
+          "resumen": "Crecen las tensiones internas en la Casa Rosada por los posicionamientos de la ministra.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/29/especulaciones-ajustes-y-cautela-como-le-impacto-al-gobierno-el-caso-bolsonaro-local-e-internacionalmente/",
+          "url": "https://www.infobae.com/politica/2026/10/30/nuevo-foco-de-malestar-con-bullrich-y-aparecen-diferencias-en-el-gobierno-sobre-como-lidiar-con-sus-desmarques/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Macri y Bullrich desafían a Milei: la línea que vuelve a acercar a los ex aliados",
-          "resumen": "PRO y la senadora coincidieron en reconocer el triunfo de Lula, defender la libertad de prensa y pedir cambios en la Ley de Soberanía.",
+          "titulo": "Milei y el costo de no aflojar: los límites de sus aliados y el malestar de la Iglesia antes de la llegada del Papa",
+          "resumen": "El oficialismo tensiona con socios políticos y con la Iglesia en la antesala de la visita papal.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/29/macri-y-bullrich-desafian-a-milei-la-linea-de-accion-que-vuelve-a-acercar-a-los-ex-aliados/",
+          "url": "https://www.infobae.com/politica/2026/10/30/milei-y-el-costo-de-no-aflojar-los-limites-de-sus-aliados-y-el-malestar-de-la-iglesia-antes-de-la-llegada-del-papa/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Senado sesiona con la ley de salud mental en duda y busca aprobar beneficios fiscales",
-          "resumen": "Desde las 14 se intentará votar incentivos a inversiones desde USD 12 millones y la regulación del mercado de bonos de carbono.",
+          "titulo": "Cuáles serán los nuevos controles sobre el fentanilo si el Senado transforma en ley la iniciativa aprobada en Diputados",
+          "resumen": "El proyecto establece trazabilidad y fiscalización más estricta sobre el opioide tras la crisis sanitaria.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/29/el-senado-sesiona-con-la-ley-de-salud-mental-aun-en-duda-y-buscara-aprobar-beneficios-fiscales-para-inversiones/",
+          "url": "https://www.infobae.com/politica/2026/10/30/cuales-seran-los-nuevos-controles-sobre-el-fentanilo-si-el-senado-transforma-en-ley-la-iniciativa-aprobada-en-diputados/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El PJ Federal hace pie en la Patagonia y empuja a tres precandidatos a gobernador",
-          "resumen": "El espacio instala a Grasso, Luque y Pérez para pelear el poder en 2027 en Santa Cruz, Chubut y Tierra del Fuego.",
+          "titulo": "El Senado aprobó cambios en la ley de salud mental: se modifican criterios de internaciones y equipos médicos",
+          "resumen": "La reforma ajusta los criterios de internación y la conformación de los equipos tratantes.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/29/el-pj-federal-hace-pie-en-la-patagonia-y-empuja-a-tres-precandidatos-a-gobernador/",
+          "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/",
           "fuentes_extra": []
         }
       ]
@@ -46,40 +46,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Superávit fiscal: el Gobierno recibió un \"perdón\" del FMI, pero los economistas ven incumplida la meta anual",
-          "resumen": "El Fondo flexibilizó la exigencia aunque analistas anticipan que no se alcanzará el objetivo de todo el año.",
+          "titulo": "El Banco Central celebró que el dólar subió solo 1% pese al shock de Brasil y volvió a negar atraso cambiario",
+          "resumen": "El BCRA destacó la estabilidad cambiaria frente a la caída del real y defendió su esquema.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/29/superavit-fiscal-el-gobierno-recibio-un-perdon-del-fmi-pero-para-los-economistas-va-a-incumplir-la-meta-anual/",
+          "url": "https://www.infobae.com/economia/2026/10/30/el-banco-central-celebro-que-el-dolar-subio-solo-1-pese-al-shock-de-brasil-y-volvio-a-negar-atraso-cambiario/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El \"efecto Lula\" sigue pegando: los bonos sintieron el impacto, pero el tipo de cambio aguantó",
-          "resumen": "La deuda en dólares acusó el resultado en Brasil mientras el dólar se mantuvo estable; crece el riesgo para bonos que vencen después de 2027.",
+          "titulo": "Los bonos revivieron y bajó el riesgo país en medio de otra caída del real, una crisis cripto y el balance de una bigtech",
+          "resumen": "Rebote de la deuda argentina en una jornada marcada por volatilidad regional y global.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/29/el-efecto-lula-sigue-pegando-en-argentina-los-bonos-sintieron-el-impacto-pero-el-tipo-de-cambio-aguanto/",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "De cuánto serán las jubilaciones, AUH y pensiones de ANSES en noviembre 2026",
-          "resumen": "El organismo actualiza haberes y prestaciones sociales con los nuevos valores del próximo mes.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/29/de-cuanto-seran-las-jubilaciones-auh-y-pensiones-de-anses-en-noviembre-2026-tras-el-aumento/",
+          "url": "https://www.infobae.com/economia/2026/10/30/los-bonos-revivieron-y-bajo-el-riesgo-pais-en-medio-de-otra-caida-del-real-una-crisis-cripto-por-un-hackeo-y-el-balance-de-una-bigtech/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Uno por uno, todos los aumentos que llegan en noviembre",
-          "resumen": "Transporte, educación y salud encabezan la lista de subas más sensibles para el bolsillo.",
+          "titulo": "La consultora que más sigue la City alertó por el esquema cambiario: la contradicción entre el dólar bajo y el riesgo país alto",
+          "resumen": "Advierten sobre la tensión entre un dólar planchado y un riesgo país que no cede.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/29/uno-por-uno-todos-los-aumentos-que-llegan-en-noviembre-transporte-educacion-y-salud-entre-los-mas-sensibles-para-el-bolsillo/",
+          "url": "https://www.infobae.com/economia/2026/10/30/la-consultora-que-mas-sigue-la-city-portena-alerto-por-el-esquema-cambiario-la-contradiccion-entre-el-dolar-bajo-y-el-riesgo-pais-alto/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La industria del calzado advierte por un nuevo golpe en diciembre",
-          "resumen": "El sector alerta por menos producción, fábricas cerradas y miles de despidos hacia fin de año.",
+          "titulo": "Aumentos de luz y gas: oficializaron las subas de las tarifas para el mes de noviembre",
+          "resumen": "El Gobierno publicó los nuevos cuadros tarifarios que regirán desde noviembre.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/29/menos-produccion-fabricas-cerradas-y-miles-de-despidos-la-industria-del-calzado-advierte-por-un-nuevo-golpe-en-diciembre/",
+          "url": "https://www.infobae.com/economia/2026/10/30/aumentos-de-luz-y-gas-oficializaron-las-subas-de-las-tarifas-para-el-mes-de-noviembre/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El hackeo a Binance, valuado en más de USD 6.000 millones, quedó entre los mayores robos de criptomonedas de la historia",
+          "resumen": "El ataque al exchange se ubica entre los más grandes del sector cripto.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/10/30/el-hackeo-a-binance-valuado-en-mas-de-usd-6000-millones-quedo-entre-los-mayores-robos-de-criptomonedas-de-la-historia/",
           "fuentes_extra": []
         }
       ]
@@ -88,44 +86,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Tragedia ferroviaria en Toledo: suben a 68 los muertos tras el choque de dos trenes de alta velocidad en España",
-          "resumen": "El país está en shock; los audios de la torre de control muestran 17 minutos en los que nadie advirtió el choque inminente.",
+          "titulo": "Choque de trenes en España: crece la angustia por los desaparecidos y se multiplican las críticas",
+          "resumen": "El accidente ferroviario deja heridos y desaparecidos, y abre cuestionamientos sobre la seguridad.",
           "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/dos-trenes-de-alta-velocidad-chocaron-en-toledo-al-menos-10-muertos-nid28102026/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Confirman la muerte de una argentina en el choque de trenes y buscan a otro desaparecido",
-          "resumen": "Murió la podóloga Ana Martina Conte Grand, de 32 años; Agustín Randazzo, de 51, permanece desaparecido.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/confirman-una-victima-argentina-en-el-choque-de-trenes-en-espana-y-otra-permanece-desaparecida-nid28102026/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Por qué la victoria de Lula en Brasil tiene un valor tan especial para la izquierda de América Latina",
-          "resumen": "Tras la derrota, Flavio Bolsonaro se autoproclamó \"líder\" y huyó a EE.UU.; Trump dijo que no se involucrará.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/por-que-la-victoria-de-lula-en-brasil-tiene-un-valor-tan-especial-para-el-y-la-izquierda-de-america-nid26102026/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Elecciones en Israel 2026: números parejos mientras Netanyahu pide esperar los \"resultados reales\"",
-          "resumen": "El escrutinio arroja un resultado muy ajustado y el premier pide cautela antes de confirmar un ganador.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/quien-gano-las-elecciones-de-israel-2026-numeros-parejos-mientras-netanyahu-pide-esperar-los-nid28102026/",
+          "url": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-crece-la-angustia-por-los-desaparecidos-y-se-multiplican-las-criticas-a-nid29102026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Tragedia aérea en Uruguay: un piloto murió tras el choque de dos avionetas cerca de Montevideo",
-          "resumen": "Las aeronaves hacían acrobacias cuando colisionaron en el aire.",
+          "titulo": "Lagarde dejará la presidencia del BCE antes de concluir su mandato: por qué renuncia",
+          "resumen": "La titular del Banco Central Europeo anuncia una salida anticipada de su cargo.",
           "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/tragedia-aerea-en-uruguay-un-piloto-murio-tras-el-choque-de-dos-avionetas-que-hacian-acrobacias-nid29102026/",
+          "url": "https://www.lanacion.com.ar/el-mundo/christine-lagarde-anuncia-que-dejara-la-presidencia-del-bce-antes-de-concluir-su-mandato-nid29102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Rusia atacó una estación de trenes en Ucrania con un dron y dejó 14 muertos; Zelensky le envió un mensaje a Trump",
+          "resumen": "Nuevo bombardeo ruso sobre infraestructura civil ucraniana en medio de la presión diplomática.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/un-ataque-ruso-con-un-dron-en-una-estacion-de-trenes-en-ucrania-deja-14-muertos-nid29102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Elecciones en Israel 2026: quién gana en una votación reñida entre Netanyahu y Eisenkot",
+          "resumen": "Comicios muy ajustados definen el futuro político israelí, con fuerte avance de partidos árabes.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Lula apuesta a evitar el conflicto y no confrontar con Milei y Trump",
+          "resumen": "El presidente de Brasil opta por bajar el tono frente a las provocaciones regionales.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/lula-apuesta-a-evitar-el-conflicto-y-no-confrontar-con-milei-y-trump-nid29102026/",
           "fuentes_extra": []
         }
       ]
@@ -134,40 +126,31 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Anthropic y sus rivales desatan la mayor avalancha financiera de la historia de la IA",
-          "resumen": "La compañía busca US$100.000 millones para su desarrollo, aunque admite que podría plantear riesgos \"catastróficos\".",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/anthropic-y-sus-rivales-en-la-ia-desatan-la-mayor-avalancha-financiera-de-la-historia-nid28102026/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Exinvestigador de Google DeepMind: \"Hay probabilidad de que una de cada tres IA acabe con la humanidad en diez años\"",
-          "resumen": "Una voz del campo advierte sobre riesgos existenciales en el ritmo actual de desarrollo.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/un-exinvestigador-de-google-deepmind-aseguro-hay-probabilidad-de-que-una-de-cada-tres-ia-acabe-con-nid27102026/",
+          "titulo": "SK Hynix dispara sus beneficios por el gigantesco cuello de botella en torno a la memoria y la IA",
+          "resumen": "El fabricante de chips multiplica ganancias por la escasez de memoria que impulsa la demanda de IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/memoria-se-convierte-cuello-botella-gran-negocio-ia-sk-hynix-incrementa-632-su-beneficio-operativo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Google DeepMind presentó Genie 4, su nuevo motor de simulación de mundos en tiempo real",
-          "resumen": "La herramienta genera entornos interactivos a partir de instrucciones, un salto en IA generativa de mundos.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/google-deepmind-presento-genie-4-su-nuevo-motor-de-simulacion-de-mundos-en-tiempo-real-nid27102026/",
+          "titulo": "GitHub tuvo que hacer algo a gran escala para seguir el ritmo de la IA, y sus cifras lo explican",
+          "resumen": "La plataforma de código escaló su infraestructura frente al crecimiento acelerado del desarrollo con IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
           "fuentes_extra": []
         },
         {
-          "titulo": "Demandan a Anthropic por usar sin permiso canciones de Elvis Presley para entrenar a Claude",
-          "resumen": "El reclamo asciende a US$41 millones por el uso no autorizado del catálogo musical.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/demandan-a-anthropic-por-usar-sin-autorizacion-las-canciones-de-elvis-presley-para-entrenar-a-claude-nid27102026/",
+          "titulo": "La IA ya empieza a dejar huella en el paro español: los más expuestos, programadores y diseñadores",
+          "resumen": "Los primeros efectos de la automatización golpean a perfiles técnicos y creativos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
           "fuentes_extra": []
         },
         {
-          "titulo": "Claude Duet: cómo funciona el agente de IA de Anthropic y qué tareas hace sin que se las pidan",
-          "resumen": "El nuevo agente ejecuta acciones de forma autónoma; quiénes pueden probarlo y para qué sirve.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/claude-duet-como-funciona-el-agente-de-ia-de-anthropic-quienes-pueden-probarlo-y-que-tareas-hace-sin-nid22102026/",
+          "titulo": "OpenAI ya supone el 11% de los ingresos de Microsoft, y eso es una buena y una mala noticia",
+          "resumen": "La dependencia entre ambas compañías crece y abre interrogantes sobre el negocio de la IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
           "fuentes_extra": []
         }
       ]
@@ -176,48 +159,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Apple rompe su propio tabú y presenta su primera MacBook Pro con pantalla táctil",
-          "resumen": "La compañía suma una notebook táctil junto a nuevas MacBook Pro de 14 pulgadas e iMac con chip M6 y Siri AI.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/apple-rompe-su-propio-tabu-y-presenta-la-primera-macbook-pro-con-pantalla-tactil-nid28102026/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Crackgate: Apple confirma fallas en el iPhone Duo y reemplazará los plegables con pantallas rotas",
-          "resumen": "Múltiples usuarios denunciaron que la pantalla plegable se agrieta a las pocas horas de uso.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/apple-confirma-las-fallas-del-iphone-duo-y-reemplazara-los-plegables-con-pantallas-rotas-nid27102026/",
+          "titulo": "El Trump Mobile ya está aquí y presume de ser 100% hecho en EEUU: literalmente es un HTC chino de 2024",
+          "resumen": "El teléfono de marca Trump resulta ser un dispositivo reetiquetado y no fabricado en Estados Unidos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/moviles/trump-phone-esta-aqui-presume-ser-100-hecho-eeuu-literalmente-htc-chino-2024",
           "fuentes_extra": []
         },
         {
-          "titulo": "Una falla de Cloudflare dejó sin acceso a sitios en todo el mundo",
-          "resumen": "El problema de funcionamiento afectó a buena parte de internet durante horas.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/cloudflare-tiene-problemas-de-funcionamiento-que-afectan-a-media-internet-nid27102026/",
+          "titulo": "La herramienta 'Llamadas spam' le funciona tan bien a Movistar que ya piensa en llevarla a los SMS",
+          "resumen": "La operadora bloquea más de un millón de llamadas fraudulentas por día y quiere ampliar el filtro.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/servicios/movistar-bloquea-millon-llamadas-fraudulentas-al-dia-su-proximo-objetivo-sms",
           "fuentes_extra": []
         },
         {
-          "titulo": "Amazon lanza un despertador inteligente y un parlante que también es repetidor mesh",
-          "resumen": "Los nuevos dispositivos llegan con el asistente Alexa+ integrado.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/amazon-lanza-un-despertador-inteligente-y-un-parlante-que-tambien-es-repetidor-mesh-nid28102026/",
+          "titulo": "Vi al nuevo MacBook Pro táctil trabajar en un rodaje, un estudio de música y una sesión de fotos",
+          "resumen": "Primeras impresiones del portátil de Apple con pantalla táctil en escenarios profesionales.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/eventos/he-visto-al-nuevo-macbook-pro-tactil-trabajar-rodaje-estudio-musica-sesion-fotos-asi-encaja-cada-uno",
           "fuentes_extra": []
         },
         {
-          "titulo": "Instagram monetizará los videos largos para pagar a los creadores",
-          "resumen": "Adam Mosseri aclaró que el nuevo formato aún está en pruebas y sin características definitivas.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/",
+          "titulo": "Lo nuevo de Braun suma microprocesador y pantalla a su afeitadora, que cuesta casi 700 euros",
+          "resumen": "La compañía incorpora electrónica avanzada y recomendaciones para el cuidado de la barba.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seleccion/braun-introduce-microprocesador-pantalla-su-nueva-afeitadora-asi-braun-nevo-que-cuesta-casi-700-euros",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Hoy, jueves 29 de octubre, el clima político sigue marcado por Brasil: el Gobierno no denunciará a Lula por fraude pero endurece el discurso contra el Mercosur, mientras Macri y Bullrich vuelven a acercarse y le marcan la cancha a Milei. En el Senado se trata la ley de salud mental y beneficios fiscales para inversiones. En la economía, el Fondo le dio un respiro al Gobierno con la meta fiscal, aunque los economistas creen que no se cumplirá; el efecto Lula golpeó a los bonos pero el dólar aguantó, y en noviembre llegan aumentos en transporte, educación y salud. En el mundo, la tragedia ferroviaria en Toledo ya suma sesenta y ocho muertos, entre ellos una argentina, y las elecciones en Israel quedaron muy parejas. En inteligencia artificial, Anthropic busca cien mil millones de dólares en medio de advertencias sobre riesgos catastróficos. Y en tecnología, Apple presentó su primera MacBook Pro con pantalla táctil. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. Today, Thursday October 29th, politics is still dominated by Brazil: the government won't accuse Lula of fraud but is hardening its tone against Mercosur, while Macri and Bullrich move closer again and push back on Milei. The Senate is debating the mental health law and tax breaks for investment. On the economy, the IMF gave the government some breathing room on its fiscal target, though economists doubt it will be met; the Lula effect hit bonds but the peso held, and November brings price hikes in transport, education and health. Abroad, the train tragedy in Toledo has now claimed sixty-eight lives, including an Argentine, and Israel's election is too close to call. In AI, Anthropic is seeking a hundred billion dollars amid warnings of catastrophic risks. And in tech, Apple unveiled its first touchscreen MacBook Pro. Have a great day.",
+    "texto_es": "Buenos días Charly. Arrancamos el viernes con la política en modo electoral: Kicillof sigue de gira, ahora por Jujuy y Santa Fe, mientras en el Gobierno crece el malestar con Bullrich y Milei tensiona con sus aliados y con la Iglesia antes de la llegada del Papa. En el Senado avanzan nuevos controles sobre el fentanilo y cambios en la ley de salud mental. En lo económico, el Banco Central festejó que el dólar subió apenas uno por ciento pese al sacudón de Brasil, los bonos revivieron y bajó el riesgo país, aunque una consultora alerta por la contradicción entre un dólar bajo y un riesgo país alto. Además, oficializaron subas de luz y gas para noviembre. En el mundo, hay angustia por un choque de trenes en España, Lagarde deja el Banco Central Europeo antes de tiempo, Rusia atacó una estación de trenes en Ucrania con catorce muertos, e Israel define una elección muy reñida entre Netanyahu y Eisenkot. En tecnología e inteligencia artificial, SK Hynix dispara ganancias por la escasez de memoria, OpenAI ya pesa el once por ciento de los ingresos de Microsoft, y el flamante Trump Mobile resultó ser un HTC chino reetiquetado. Buen día.",
+    "texto_en": "Good morning Charly. We start Friday with politics in full campaign mode: Kicillof keeps touring the country, now Jujuy and Santa Fe, while inside the government tensions grow with Bullrich and Milei clashes with his allies and the Church ahead of the Pope's visit. In the Senate, new controls on fentanyl and changes to the mental health law are moving forward. On the economy, the Central Bank celebrated that the dollar rose just one percent despite the shock from Brazil, bonds rebounded and country risk fell, though one consultancy warns about the contradiction between a low dollar and high country risk. Electricity and gas hikes were also made official for November. Around the world, there's anguish over a train crash in Spain, Lagarde is leaving the European Central Bank early, Russia struck a train station in Ukraine killing fourteen, and Israel is deciding a very tight election between Netanyahu and Eisenkot. In tech and AI, SK Hynix profits soar on the memory shortage, OpenAI now accounts for eleven percent of Microsoft's revenue, and the brand-new Trump Mobile turned out to be a rebadged Chinese HTC. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
