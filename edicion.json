@@ -1,43 +1,40 @@
 {
-  "fecha": "2026-10-30",
-  "fecha_larga": "Viernes 30 de octubre de 2026",
+  "fecha": "2026-10-31",
+  "fecha_larga": "Sábado 31 de octubre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Kicillof sigue con recorridas en clave electoral: desembarca en Jujuy y prepara su viaje a Santa Fe",
-          "resumen": "El gobernador bonaerense intensifica su gira nacional mientras define su estrategia de construcción propia.",
+          "titulo": "Milei dio una charla de dos horas ante estudiantes: críticas al arco político y guiños a Karina",
+          "resumen": "El Presidente defendió su plan económico, adelantó detalles de su próximo libro y volvió a cargar contra periodistas y políticos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/30/kicillof-sigue-con-recorridas-en-clave-electoral-desembarca-en-jujuy-y-prepara-su-viaje-a-santa-fe/",
+          "url": "https://www.infobae.com/politica/2026/10/31/con-criticas-al-arco-politico-y-bajo-un-fuerte-hermetismo-javier-milei-brindo-una-charla-ante-estudiantes/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "León XIV llega a la Argentina: expondrá su mirada sobre pobreza y desarrollo que cuestiona el ajuste",
+          "resumen": "El Papa rendirá tributo al legado de Francisco en medio de la tensión social por la crisis económica; los Milei refuerzan su vínculo con la iglesia evangélica antes de la visita.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/31/durante-la-visita-a-la-argentina-leon-xiv-expondra-su-mirada-sobre-la-pobreza-el-desarrollo-y-la-educacion-que-cuestiona-los-planes-de-ajuste/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Tras reclamar una PASO, Kicillof convocó al PJ bonaerense y reabrió la disputa con Máximo Kirchner",
+          "resumen": "El Consejo Provincial se reunirá el 4 de noviembre para avanzar con el llamado al Congreso partidario, en medio de diferencias internas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/10/31/tras-reclamar-una-paso-axel-kicillof-convoco-al-pj-bonaerense-y-reabre-la-disputa-con-maximo-kirchner/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Nuevo foco de malestar con Bullrich y aparecen diferencias en el Gobierno sobre cómo lidiar con sus desmarques",
-          "resumen": "Crecen las tensiones internas en la Casa Rosada por los posicionamientos de la ministra.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/30/nuevo-foco-de-malestar-con-bullrich-y-aparecen-diferencias-en-el-gobierno-sobre-como-lidiar-con-sus-desmarques/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Milei y el costo de no aflojar: los límites de sus aliados y el malestar de la Iglesia antes de la llegada del Papa",
-          "resumen": "El oficialismo tensiona con socios políticos y con la Iglesia en la antesala de la visita papal.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/30/milei-y-el-costo-de-no-aflojar-los-limites-de-sus-aliados-y-el-malestar-de-la-iglesia-antes-de-la-llegada-del-papa/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Cuáles serán los nuevos controles sobre el fentanilo si el Senado transforma en ley la iniciativa aprobada en Diputados",
-          "resumen": "El proyecto establece trazabilidad y fiscalización más estricta sobre el opioide tras la crisis sanitaria.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/30/cuales-seran-los-nuevos-controles-sobre-el-fentanilo-si-el-senado-transforma-en-ley-la-iniciativa-aprobada-en-diputados/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Senado aprobó cambios en la ley de salud mental: se modifican criterios de internaciones y equipos médicos",
-          "resumen": "La reforma ajusta los criterios de internación y la conformación de los equipos tratantes.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/10/30/el-senado-aprobo-cambios-en-la-ley-de-salud-mental-se-modifican-criterios-de-internaciones-y-equipos-medicos/",
+          "titulo": "Bullrich celebró la aprobación del RIIR en el Senado: atraerá “oportunidades de invertir y crecer”",
+          "resumen": "La ministra respaldó la media sanción mientras la oposición, con Máximo Kirchner a la cabeza, cuestiona el modelo de inversiones.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-bullrich-celebro-la-aprobacion-del-riir-en-el-senado-nid30102026/",
           "fuentes_extra": []
         }
       ]
@@ -46,38 +43,40 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El Banco Central celebró que el dólar subió solo 1% pese al shock de Brasil y volvió a negar atraso cambiario",
-          "resumen": "El BCRA destacó la estabilidad cambiaria frente a la caída del real y defendió su esquema.",
+          "titulo": "El Banco Central compró USD 1.395 millones en octubre y reforzó las reservas",
+          "resumen": "Fue el mejor mes de compras de divisas desde julio, en un escenario de volatilidad cambiaria tras las elecciones en Brasil.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/30/el-banco-central-celebro-que-el-dolar-subio-solo-1-pese-al-shock-de-brasil-y-volvio-a-negar-atraso-cambiario/",
+          "url": "https://www.infobae.com/economia/2026/10/31/el-banco-central-compro-usd-1395-millones-en-octubre-y-reforzo-las-reservas/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los bonos revivieron y bajó el riesgo país en medio de otra caída del real, una crisis cripto y el balance de una bigtech",
-          "resumen": "Rebote de la deuda argentina en una jornada marcada por volatilidad regional y global.",
+          "titulo": "Efecto Brasil: los tres sectores argentinos más amenazados y los que podrían salir favorecidos",
+          "resumen": "La reelección de Lula y la devaluación del real generan riesgos para algunas actividades, pero abren oportunidades para otras.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/30/los-bonos-revivieron-y-bajo-el-riesgo-pais-en-medio-de-otra-caida-del-real-una-crisis-cripto-por-un-hackeo-y-el-balance-de-una-bigtech/",
+          "url": "https://www.infobae.com/economia/2026/10/31/ganadores-y-perdedores-del-efecto-brasil-los-tres-sectores-argentinos-mas-amenazados-y-los-que-podrian-salir-favorecidos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La consultora que más sigue la City alertó por el esquema cambiario: la contradicción entre el dólar bajo y el riesgo país alto",
-          "resumen": "Advierten sobre la tensión entre un dólar planchado y un riesgo país que no cede.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/30/la-consultora-que-mas-sigue-la-city-portena-alerto-por-el-esquema-cambiario-la-contradiccion-entre-el-dolar-bajo-y-el-riesgo-pais-alto/",
+          "titulo": "Dura crítica de Melconian a Milei: “cada vez que habla le creen poco” y el problema del consumo",
+          "resumen": "El economista y extitular del Banco Nación consideró que el Gobierno tendrá que poner “parches” antes de las elecciones.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/dura-critica-de-melconian-a-milei-del-cada-vez-que-habla-le-creen-poco-al-problema-del-consumo-nid31102026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Aumentos de luz y gas: oficializaron las subas de las tarifas para el mes de noviembre",
-          "resumen": "El Gobierno publicó los nuevos cuadros tarifarios que regirán desde noviembre.",
+          "titulo": "Plantium-Gentec, ícono de la innovación en el agro, despidió a casi 100 empleados y se achica",
+          "resumen": "La firma de Villa Constitución (Santa Fe) atraviesa una crisis financiera por la caída de ventas y las dificultades para cobrar.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/30/aumentos-de-luz-y-gas-oficializaron-las-subas-de-las-tarifas-para-el-mes-de-noviembre/",
-          "fuentes_extra": []
+          "url": "https://www.infobae.com/economia/2026/10/31/ya-no-puedo-seguir-una-reconocida-empresa-de-tecnologia-para-el-agro-cerro-su-planta-y-despidio-a-casi-100-empleados/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
         },
         {
-          "titulo": "El hackeo a Binance, valuado en más de USD 6.000 millones, quedó entre los mayores robos de criptomonedas de la historia",
-          "resumen": "El ataque al exchange se ubica entre los más grandes del sector cripto.",
+          "titulo": "Desde que asumió Milei, más de 23.400 personas dejaron de trabajar para empresas del Estado",
+          "resumen": "Algunas compañías desaparecieron, otras se fusionaron y la mayoría se achicó desde noviembre de 2023.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/10/30/el-hackeo-a-binance-valuado-en-mas-de-usd-6000-millones-quedo-entre-los-mayores-robos-de-criptomonedas-de-la-historia/",
+          "url": "https://www.infobae.com/economia/2026/10/31/desde-que-asumio-el-gobierno-de-javier-milei-mas-de-23400-personas-dejaron-de-trabajar-para-empresas-del-estado/",
           "fuentes_extra": []
         }
       ]
@@ -86,38 +85,40 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Choque de trenes en España: crece la angustia por los desaparecidos y se multiplican las críticas",
-          "resumen": "El accidente ferroviario deja heridos y desaparecidos, y abre cuestionamientos sobre la seguridad.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-crece-la-angustia-por-los-desaparecidos-y-se-multiplican-las-criticas-a-nid29102026/",
+          "titulo": "Bolsonaro huyó a EEUU alegando “persecución” y Brasil exige explicaciones a la Argentina",
+          "resumen": "Itamaraty investiga el paso del senador por Puerto Iguazú; Lula evitó profundizar oficialmente la crisis con Buenos Aires.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-bolsonaro-afirma-que-abandon%C3%B3-su-pa%C3%ADs-por-una-persecuci%C3%B3n-brasil-exige-explicaciones-a-argentina-tras-la-hu%C3%ADda",
+          "fuentes_extra": [
+            "Infobae"
+          ]
+        },
+        {
+          "titulo": "Francia vive su tercera jornada de protestas “de alto riesgo” con 70.000 agentes desplegados",
+          "resumen": "El Ministerio del Interior reforzó la seguridad ante la movilización social, la tercera en tres semanas.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/francia/20261031-en-directo-tercera-jornada-de-protestas-de-alto-riesgo-en-francia-con-70-000-polic%C3%ADas-desplegados",
           "fuentes_extra": []
         },
         {
-          "titulo": "Lagarde dejará la presidencia del BCE antes de concluir su mandato: por qué renuncia",
-          "resumen": "La titular del Banco Central Europeo anuncia una salida anticipada de su cargo.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/christine-lagarde-anuncia-que-dejara-la-presidencia-del-bce-antes-de-concluir-su-mandato-nid29102026/",
+          "titulo": "España afronta el tercer día de luto nacional por el accidente ferroviario de Urda",
+          "resumen": "34 personas siguen hospitalizadas, quince en cuidados intensivos, tres días después del siniestro en Toledo.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/europa/20261031-espa%C3%B1a-afronta-el-tercer-d%C3%ADa-de-luto-nacional-mientras-34-heridos-del-accidente-de-urda-siguen-hospitalizados",
           "fuentes_extra": []
         },
         {
-          "titulo": "Rusia atacó una estación de trenes en Ucrania con un dron y dejó 14 muertos; Zelensky le envió un mensaje a Trump",
-          "resumen": "Nuevo bombardeo ruso sobre infraestructura civil ucraniana en medio de la presión diplomática.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/un-ataque-ruso-con-un-dron-en-una-estacion-de-trenes-en-ucrania-deja-14-muertos-nid29102026/",
+          "titulo": "Polonia: crisis institucional tras la suspensión del presidente del Tribunal Constitucional",
+          "resumen": "La decisión de la jueza Korwin-Piotrowska desató una noche de protestas de la ultraderecha.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/europa/20261031-qu%C3%A9-est%C3%A1-pasando-en-polonia-abc-de-la-crisis-institucional-tras-suspensi%C3%B3n-del-presidente-del-constitucional",
           "fuentes_extra": []
         },
         {
-          "titulo": "Elecciones en Israel 2026: quién gana en una votación reñida entre Netanyahu y Eisenkot",
-          "resumen": "Comicios muy ajustados definen el futuro político israelí, con fuerte avance de partidos árabes.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/resultado-de-las-elecciones-en-israel-2026-quien-gana-en-una-eleccion-renida-entre-netanyahu-y-nid29102026/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Lula apuesta a evitar el conflicto y no confrontar con Milei y Trump",
-          "resumen": "El presidente de Brasil opta por bajar el tono frente a las provocaciones regionales.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/lula-apuesta-a-evitar-el-conflicto-y-no-confrontar-con-milei-y-trump-nid29102026/",
+          "titulo": "Chile: renuncia el viceministro de Justicia en medio de la crisis por la reducción de penas a pederastas",
+          "resumen": "Luis Silva dejó su cargo tras conocerse que se rebajarían condenas a medio centenar de abusadores.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/video/20261031-chile-renuncia-viceministro-de-justicia-en-medio-de-crisis-por-reducci%C3%B3n-de-penas-a-pederastas",
           "fuentes_extra": []
         }
       ]
@@ -126,31 +127,40 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "SK Hynix dispara sus beneficios por el gigantesco cuello de botella en torno a la memoria y la IA",
-          "resumen": "El fabricante de chips multiplica ganancias por la escasez de memoria que impulsa la demanda de IA.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/memoria-se-convierte-cuello-botella-gran-negocio-ia-sk-hynix-incrementa-632-su-beneficio-operativo",
+          "titulo": "OpenAI recortó USD 10.000 millones la ronda de inversión que busca, en plena caída de las tecnológicas",
+          "resumen": "Algunos inversores redujeron su aporte y la primera tanda quedará por debajo de los USD 20.000 millones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/openai-recorto-usd-10000-millones-la-ronda-de-inversion-que-busca-en-plena-caida-de-las-tecnologicas/",
           "fuentes_extra": []
         },
         {
-          "titulo": "GitHub tuvo que hacer algo a gran escala para seguir el ritmo de la IA, y sus cifras lo explican",
-          "resumen": "La plataforma de código escaló su infraestructura frente al crecimiento acelerado del desarrollo con IA.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
+          "titulo": "Anthropic advirtió a los inversores que su IA es un riesgo para la humanidad antes de salir a bolsa",
+          "resumen": "El prospecto de la IPO dedica 94 páginas a los riesgos; Blackstone alertó que la empresa se arriesga a cotizar sin buena calificación crediticia.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/estados-unidos/2026/10/28/anthropic-advirtio-a-los-inversores-que-su-ia-es-un-riesgo-para-la-humanidad-cuatro-de-sus-modelos-ya-se-escaparon-de-una-prueba/",
+          "fuentes_extra": [
+            "Xataka"
+          ]
+        },
+        {
+          "titulo": "S&P advirtió que la calificación de crédito de Meta podría bajar por su gasto en IA",
+          "resumen": "La agencia calcula un déficit de caja de USD 39.000 millones este año y de USD 71.000 millones en 2027.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/sp-advirtio-que-la-calificacion-de-credito-de-meta-podria-bajar-por-su-gasto-en-ia/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La IA ya empieza a dejar huella en el paro español: los más expuestos, programadores y diseñadores",
-          "resumen": "Los primeros efectos de la automatización golpean a perfiles técnicos y creativos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/ia-empieza-a-dejar-huella-paro-espanol-expuestos-programadores-disenadores",
+          "titulo": "Los sitios web podrán prohibir en un solo paso que OpenAI, Google y Anthropic entrenen IA con su contenido",
+          "resumen": "Anthropic ya adoptó la señal; Google y Microsoft la aplicarán en 2027 y Meta la apoya sin comprometerse.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/los-sitios-web-podran-prohibir-en-un-solo-paso-que-openai-google-y-anthropic-entrenen-ia-con-su-contenido/",
           "fuentes_extra": []
         },
         {
-          "titulo": "OpenAI ya supone el 11% de los ingresos de Microsoft, y eso es una buena y una mala noticia",
-          "resumen": "La dependencia entre ambas compañías crece y abre interrogantes sobre el negocio de la IA.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/openai-supone-11-ingresos-microsoft-eso-buena-mala-noticia",
+          "titulo": "Wikipedia pidió a un tribunal que la IA deje de reproducir sus artículos",
+          "resumen": "La Fundación Wikimedia intervino en la causa que enfrenta a OpenAI y Microsoft con The New York Times.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/30/wikipedia-pidio-a-un-tribunal-que-la-ia-deje-de-reproducir-sus-articulos/",
           "fuentes_extra": []
         }
       ]
@@ -159,39 +169,46 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "El Trump Mobile ya está aquí y presume de ser 100% hecho en EEUU: literalmente es un HTC chino de 2024",
-          "resumen": "El teléfono de marca Trump resulta ser un dispositivo reetiquetado y no fabricado en Estados Unidos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/moviles/trump-phone-esta-aqui-presume-ser-100-hecho-eeuu-literalmente-htc-chino-2024",
+          "titulo": "Nvidia retiró la RTX 5080 de su tienda en EEUU y la gráfica ya cuesta más del doble que al lanzarse",
+          "resumen": "La escasez de memoria y de chips deja sin stock a los compradores; la empresa dice que la RTX 5090 sigue en producción.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/nvidia-retiro-la-rtx-5080-de-su-tienda-en-estados-unidos-y-la-tarjeta-grafica-ya-cuesta-mas-del-doble-que-al-lanzarse/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La herramienta 'Llamadas spam' le funciona tan bien a Movistar que ya piensa en llevarla a los SMS",
-          "resumen": "La operadora bloquea más de un millón de llamadas fraudulentas por día y quiere ampliar el filtro.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/servicios/movistar-bloquea-millon-llamadas-fraudulentas-al-dia-su-proximo-objetivo-sms",
+          "titulo": "Binance devolverá los USD 6.340 millones robados en un hackeo: “Vamos a cubrir todas las pérdidas”",
+          "resumen": "El CEO Richard Teng afirmó que los fondos de clientes no se vieron afectados y presentará una prueba de reservas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/30/vamos-a-cubrir-todas-las-perdidas-richard-teng-ceo-de-binance-devolvera-los-6340-millones-de-dolares-robados-en-hackeo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Vi al nuevo MacBook Pro táctil trabajar en un rodaje, un estudio de música y una sesión de fotos",
-          "resumen": "Primeras impresiones del portátil de Apple con pantalla táctil en escenarios profesionales.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/eventos/he-visto-al-nuevo-macbook-pro-tactil-trabajar-rodaje-estudio-musica-sesion-fotos-asi-encaja-cada-uno",
+          "titulo": "Larry Page, cofundador de Google, se convierte en la tercera persona más rica del mundo",
+          "resumen": "La caída bursátil de Dell Technologies modificó el ranking de las mayores fortunas, mientras Alphabet también registró pérdidas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/larry-page-cofundador-de-google-se-convierte-en-la-tercera-persona-mas-rica-del-mundo-y-desplaza-a-michael-dell/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Lo nuevo de Braun suma microprocesador y pantalla a su afeitadora, que cuesta casi 700 euros",
-          "resumen": "La compañía incorpora electrónica avanzada y recomendaciones para el cuidado de la barba.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/seleccion/braun-introduce-microprocesador-pantalla-su-nueva-afeitadora-asi-braun-nevo-que-cuesta-casi-700-euros",
+          "titulo": "Amazon cayó en bolsa por ventas previstas bajo lo esperado y un gasto en IA que consume su caja",
+          "resumen": "Amazon Web Services facturó USD 46.000 millones, 39% más interanual, su mayor crecimiento en casi cinco años.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/30/amazon-cayo-en-bolsa-por-ventas-previstas-bajo-lo-esperado-y-un-gasto-en-ia-que-consume-su-caja/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Alphabet apuesta por los robotaxis de Waymo, que usará autos Toyota para expandirse a Japón y Reino Unido",
+          "resumen": "El negocio todavía representa menos del 1% de los ingresos de Alphabet; las pruebas con Toyota comenzarán en 2027.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/10/31/alphabet-apuesta-por-los-robotaxis-de-waymo-pero-el-negocio-todavia-representa-menos-del-1-de-sus-ingresos/",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el viernes con la política en modo electoral: Kicillof sigue de gira, ahora por Jujuy y Santa Fe, mientras en el Gobierno crece el malestar con Bullrich y Milei tensiona con sus aliados y con la Iglesia antes de la llegada del Papa. En el Senado avanzan nuevos controles sobre el fentanilo y cambios en la ley de salud mental. En lo económico, el Banco Central festejó que el dólar subió apenas uno por ciento pese al sacudón de Brasil, los bonos revivieron y bajó el riesgo país, aunque una consultora alerta por la contradicción entre un dólar bajo y un riesgo país alto. Además, oficializaron subas de luz y gas para noviembre. En el mundo, hay angustia por un choque de trenes en España, Lagarde deja el Banco Central Europeo antes de tiempo, Rusia atacó una estación de trenes en Ucrania con catorce muertos, e Israel define una elección muy reñida entre Netanyahu y Eisenkot. En tecnología e inteligencia artificial, SK Hynix dispara ganancias por la escasez de memoria, OpenAI ya pesa el once por ciento de los ingresos de Microsoft, y el flamante Trump Mobile resultó ser un HTC chino reetiquetado. Buen día.",
-    "texto_en": "Good morning Charly. We start Friday with politics in full campaign mode: Kicillof keeps touring the country, now Jujuy and Santa Fe, while inside the government tensions grow with Bullrich and Milei clashes with his allies and the Church ahead of the Pope's visit. In the Senate, new controls on fentanyl and changes to the mental health law are moving forward. On the economy, the Central Bank celebrated that the dollar rose just one percent despite the shock from Brazil, bonds rebounded and country risk fell, though one consultancy warns about the contradiction between a low dollar and high country risk. Electricity and gas hikes were also made official for November. Around the world, there's anguish over a train crash in Spain, Lagarde is leaving the European Central Bank early, Russia struck a train station in Ukraine killing fourteen, and Israel is deciding a very tight election between Netanyahu and Eisenkot. In tech and AI, SK Hynix profits soar on the memory shortage, OpenAI now accounts for eleven percent of Microsoft's revenue, and the brand-new Trump Mobile turned out to be a rebadged Chinese HTC. Have a great day.",
+    "texto_es": "Buenos días Charly. Hoy, sábado 31 de octubre. En política, Milei dio una charla de dos horas ante estudiantes, con críticas al arco político, mientras crece la expectativa por la llegada del papa León XIV a la Argentina y su mensaje sobre la pobreza y el ajuste. En el peronismo, Kicillof convocó al PJ bonaerense y reabrió la pelea con Máximo Kirchner. En economía, el Banco Central compró casi mil cuatrocientos millones de dólares en octubre y reforzó reservas, aunque Melconian cargó fuerte contra el Gobierno y crece la preocupación por el efecto de la reelección de Lula en Brasil. En el mundo, Bolsonaro huyó a Estados Unidos alegando persecución y Brasil le pide explicaciones a la Argentina; además, Francia vive su tercera jornada de protestas y España afronta el tercer día de luto por el accidente de tren en Urda. Y en tecnología e inteligencia artificial, OpenAI recortó diez mil millones de su ronda de inversión, Anthropic advirtió a sus inversores que su IA es un riesgo antes de salir a bolsa, y Binance promete devolver los seis mil millones de dólares robados en un hackeo. Buen fin de semana.",
+    "texto_en": "Good morning Charly. Today is Saturday, October 31st. In Argentine politics, Milei gave a two-hour talk to students, full of jabs at the political establishment, while anticipation builds for Pope Leo the Fourteenth's visit and his message on poverty and austerity. Within Peronism, Kicillof called a meeting of the Buenos Aires party, reopening his feud with Máximo Kirchner. On the economy, the Central Bank bought nearly one point four billion dollars in October to rebuild reserves, though economist Melconian sharply criticized the government, and there's growing concern over the fallout from Lula's reelection in Brazil. Internationally, Bolsonaro fled to the United States claiming persecution, and Brazil is demanding explanations from Argentina; France is facing its third day of high-risk protests, and Spain marks a third day of mourning after the Urda train crash. In tech and AI, OpenAI cut ten billion dollars from its funding round, Anthropic warned investors its AI is a risk ahead of its IPO, and Binance pledged to return the six billion dollars stolen in a hack. Have a great weekend.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
