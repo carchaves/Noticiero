@@ -1,36 +1,43 @@
 {
-  "fecha": "2026-11-02",
-  "fecha_larga": "Lunes 2 de noviembre de 2026",
+  "fecha": "2026-11-03",
+  "fecha_larga": "Martes 3 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "La visita del papa León XIV altera los tiempos legislativos y expone las distintas posturas del Gobierno sobre la reforma electoral",
-          "resumen": "La gira papal reacomoda la agenda del Congreso y deja al descubierto las diferencias internas del oficialismo frente a la reforma electoral.",
+          "titulo": "El Gobierno se prepara para una derrota de Trump, pero no cree que esté en riesgo el respaldo y tiende puentes",
+          "resumen": "La Casa Rosada anticipa una posible derrota de Trump en las legislativas de EE.UU., pero confía en sostener el respaldo financiero y envía funcionarios a Washington.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/02/la-visita-del-papa-leon-xiv-altera-los-tiempos-legislativos-y-expone-las-distintas-posturas-del-gobierno-sobre-la-reforma-electoral/",
+          "url": "https://www.infobae.com/politica/2026/11/03/el-gobierno-se-prepara-para-una-derrota-de-trump-pero-no-cree-que-este-en-riesgo-el-respaldo-y-tiende-puentes/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Consejo de la Magistratura: las claves que se suman en la feroz guerra por bancas del Senado",
-          "resumen": "Cuántos cargos y cuándo se definen, en medio de la pulseada política por la integración del Consejo y las bancas del Senado.",
+          "titulo": "El Senado debate la nueva ley de discapacidad y hay dudas por el número para el dictamen",
+          "resumen": "El Senado trata la nueva ley de discapacidad, pero no está claro si hay votos suficientes para firmar el dictamen.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/02/consejo-de-la-magistratura-cuantos-y-cuando-las-claves-que-se-suman-en-la-feroz-guerra-por-bancas-del-senado/",
+          "url": "https://www.infobae.com/politica/2026/11/03/el-senado-debate-la-nueva-ley-de-discapacidad-y-hay-dudas-por-el-numero-para-el-dictamen/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El empleo público provincial bajo la lupa: qué provincias tienen más cargos por habitante",
-          "resumen": "Un relevamiento compara la cantidad de empleados estatales por habitante en cada provincia.",
+          "titulo": "El peronismo oficializó su disputa electoral: del anuncio de Cristina Kirchner a la postura inquebrantable de Kicillof",
+          "resumen": "El peronismo empieza a ordenar su camino hacia 2027 con internas por el liderazgo entre Cristina Kirchner y Kicillof.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/02/el-empleo-publico-provincial-bajo-la-lupa-cuales-son-las-provincias-que-tienen-mas-cargos-por-habitante/",
+          "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno nombró al nuevo director ejecutivo del Centro Nacional de Ciberseguridad",
-          "resumen": "El Ejecutivo designó a la nueva cabeza del organismo encargado de la ciberseguridad estatal.",
+          "titulo": "La visita del Papa también impacta en el Congreso: apuran el tema de discapacidad y renace el proyecto sobre ludopatía",
+          "resumen": "El Congreso acelera la ley de discapacidad antes de la visita del Papa y revive un proyecto para regular el juego online.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/02/el-gobierno-nombro-al-nuevo-director-ejecutivo-del-centro-nacional-de-ciberseguridad/",
+          "url": "https://www.infobae.com/politica/2026/11/03/la-visita-del-papa-tambien-impacta-en-el-congreso-apuran-el-tema-de-discapacidad-y-renace-el-proyecto-sobre-ludopatia/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Milei volvió a felicitar a Netanyahu y cuestionó a la izquierda internacional",
+          "resumen": "Milei recibió un premio de una coalición proisrael, respaldó a Netanyahu y elogió la próxima visita del Papa.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/03/milei-volvio-a-felicitar-a-netanyahu-y-cuestiono-a-la-izquierda-internacional-no-defendemos-a-israel-por-un-capricho-personal/",
           "fuentes_extra": []
         }
       ]
@@ -39,31 +46,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El Gobierno deberá cubrir hoy un vencimiento de USD 800 millones con el FMI",
-          "resumen": "Argentina enfrenta este lunes un pago clave al Fondo Monetario Internacional por 800 millones de dólares.",
+          "titulo": "Mercados volátiles: los tres factores que impulsaron el riesgo país y sacudieron a los activos argentinos",
+          "resumen": "El riesgo país superó los 800 puntos y las acciones cayeron por sexta rueda seguida; análisis de las tres causas detrás de la baja.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/el-gobierno-debera-cubrir-hoy-un-vencimiento-de-usd-800-millones-con-el-fmi/",
+          "url": "https://www.infobae.com/economia/2026/11/03/mercados-volatiles-los-tres-factores-que-impulsaron-el-riesgo-pais-y-sacudieron-a-los-activos-argentinos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Guerra, tasas y riesgo país: qué efectos pueden tener en la Argentina las elecciones de medio término de EE.UU.",
-          "resumen": "Analistas evalúan cómo las midterms estadounidenses podrían impactar en las tasas, el riesgo país y el escenario local.",
+          "titulo": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
+          "resumen": "Las acciones bancarias se desplomaron con la suba del riesgo país, aunque algunos analistas ven valuaciones atractivas de largo plazo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/guerra-tasas-y-riesgo-pais-que-efectos-pueden-tener-en-la-argentina-las-elecciones-de-medio-termino-de-estados-unidos/",
+          "url": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Noviembre llega con aumentos en transporte, salud, alquileres y servicios",
-          "resumen": "El nuevo mes arranca con subas en varios rubros que golpean el bolsillo de los hogares.",
+          "titulo": "La UIA reúne a Caputo y los gobernadores en el mayor evento industrial, mientras la actividad acumula nueve meses de baja",
+          "resumen": "El gran encuentro de la UIA junta al ministro de Economía y a gobernadores en medio de nueve meses de caída industrial.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/noviembre-llega-con-aumentos-en-transporte-salud-alquileres-y-servicios/",
+          "url": "https://www.infobae.com/economia/2026/11/03/la-uia-reune-a-caputo-y-los-gobernadores-en-el-mayor-evento-industrial-mientras-la-actividad-acumula-nueve-meses-de-baja/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Plazo fijo: cuánto pagan los principales bancos por depósitos a 30 días",
-          "resumen": "Comparativa de las tasas que ofrecen los principales bancos para colocaciones a 30 días.",
+          "titulo": "El dólar volvió a subir y la cotización en el Banco Nación alcanzó un nuevo máximo histórico",
+          "resumen": "El dólar oficial del Banco Nación marcó un nuevo récord en su cotización.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/plazo-fijo-cuanto-pagan-los-principales-bancos-por-depositos-a-30-dias/",
+          "url": "https://www.infobae.com/economia/2026/11/02/el-dolar-volvio-a-subir-y-la-cotizacion-en-el-banco-nacion-alcanzo-un-nuevo-maximo-historico/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La recaudación tributaria creció por segundo mes consecutivo por encima de la inflación en octubre",
+          "resumen": "En octubre la recaudación volvió a crecer por encima de la inflación, por segundo mes seguido.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/02/la-recaudacion-tributaria-crecio-por-segundo-mes-consecutivo-por-encima-de-la-inflacion-en-octubre/",
           "fuentes_extra": []
         }
       ]
@@ -72,38 +86,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Midterms 2026: tormenta en la campaña demócrata de Michigan, ¿peligran las opciones de El-Sayed?",
-          "resumen": "La recta final de las elecciones de medio término en EE.UU. sacude la interna demócrata en Michigan.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
+          "titulo": "Estados Unidos destacó progresos en las negociaciones con Irán para evitar una nueva escalada en Medio Oriente",
+          "resumen": "Washington asegura que avanzan las conversaciones mientras Teherán condiciona la reapertura del estrecho de Ormuz.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/03/estados-unidos-destaco-progresos-en-las-negociaciones-con-iran-para-evitar-una-nueva-escalada-de-violencia-en-medio-oriente/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Fracasa el intento de Trump de impedir la certificación de una derrota republicana en Alaska",
-          "resumen": "La Justicia rechaza la maniobra de Trump para frenar la certificación de un resultado adverso en Alaska.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-fracasa-intento-de-trump-de-impedir-la-certificaci%C3%B3n-de-una-derrota-republicana-en-alaska",
+          "titulo": "Estados Unidos mediará en nuevas conversaciones entre Rusia y Ucrania en Abu Dhabi para intentar poner fin a la guerra",
+          "resumen": "Las negociaciones del 10 y 11 de noviembre abordarán garantías de seguridad, reducción de hostilidades y ayuda humanitaria.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/estados-unidos/2026/11/03/estados-unidos-mediara-en-nuevas-conversaciones-entre-rusia-y-ucrania-en-abu-dhabi-para-intentar-poner-fin-a-la-guerra/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El alto el fuego en la región de Jersón llegó a su fin tras la negativa de Rusia a prorrogarlo",
-          "resumen": "Rusia se niega a extender la tregua y se reanudan los combates en la región ucraniana de Jersón.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/europa/20261102-el-alto-el-fuego-en-la-regi%C3%B3n-de-jers%C3%B3n-lleg%C3%B3-a-su-fin-tras-la-negativa-de-rusia-a-prorrogarlo",
+          "titulo": "Ucrania denunció que Rusia utilizó la tregua humanitaria para reforzar sus tropas en el frente de Kherson",
+          "resumen": "Kiev acusa a Moscú de aprovechar la pausa en los combates para reorganizar posiciones y luego reanudar los ataques.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/03/ucrania-denuncio-que-rusia-utilizo-la-tregua-humanitaria-para-reforzar-sus-tropas-en-el-frente-de-kherson/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Bolsonaro afirma que abandonó su país por una \"persecución\" y Brasil exige explicaciones a Argentina tras la huida",
-          "resumen": "La salida de Bolsonaro de Brasil hacia Argentina desata un cruce diplomático entre ambos países.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-bolsonaro-afirma-que-abandon%C3%B3-su-pa%C3%ADs-por-una-persecuci%C3%B3n-brasil-exige-explicaciones-a-argentina-tras-la-hu%C3%ADda",
+          "titulo": "Netanyahu pidió formar una coalición amplia en Israel sin los partidos árabes",
+          "resumen": "El primer ministro saliente reclama liderar las negociaciones de gobierno por ser el partido más votado, mientras la oposición busca una mayoría alternativa.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/03/netanyahu-pidio-formar-una-coalicion-amplia-en-israel-sin-los-partidos-arabes-estoy-abierto-al-dialogo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Gaza: ataques israelíes en Khan Younis dejan muertos y heridos cerca de campamentos de desplazados",
-          "resumen": "Nuevos bombardeos israelíes en Khan Younis provocan víctimas en zonas próximas a campamentos de desplazados.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/video/20261101-gaza-ataques-israel%C3%ADes-en-khan-younis-dejan-muertos-y-heridos-cerca-de-campamentos-de-desplazados",
+          "titulo": "El petróleo se desploma más de un 7% ante el optimismo por un posible acuerdo entre Estados Unidos e Irán",
+          "resumen": "El barril de Brent registró su mayor caída diaria en meses, impulsado por las expectativas de un acuerdo diplomático.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/02/el-petroleo-brent-cayo-mas-de-7-ante-las-expectativas-de-dialogo-entre-estados-unidos-e-iran/",
           "fuentes_extra": []
         }
       ]
@@ -112,38 +126,31 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "OpenAI va a comprar chips de IA a Google: la carrera por la computación no entiende de rivales",
-          "resumen": "OpenAI recurre a chips de Google para sostener su capacidad de cómputo, pese a la rivalidad entre ambas.",
+          "titulo": "Google dio un paso clave hacia los centros de datos espaciales: ejecutó IA en órbita",
+          "resumen": "Google explora infraestructura espacial para la IA tras lograr ejecutar un modelo en órbita.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/openai-va-a-comprar-chips-ia-a-google-carrera-computacion-no-entiende-rivales",
+          "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
           "fuentes_extra": []
         },
         {
-          "titulo": "Una operación de espionaje de China tiene como objetivos a Jensen Huang y a Nvidia, según The New York Times",
-          "resumen": "Según el NYT, una campaña de espionaje china apunta al CEO de Nvidia y a la compañía de chips de IA.",
+          "titulo": "OpenAI combinará Chat y Work: ChatGPT y Codex compartirán los límites de uso",
+          "resumen": "OpenAI unificará sus productos Chat y Work, de modo que ChatGPT y Codex pasarán a compartir los límites de uso.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/operacion-espionaje-china-tiene-como-objetivos-a-jensen-huang-nvidia-the-new-york-times",
+          "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
           "fuentes_extra": []
         },
         {
-          "titulo": "Anthropic ya es el mayor cliente de SpaceX y le aportó el 34,5% de sus ingresos del trimestre",
-          "resumen": "La empresa de IA Anthropic se convirtió en el principal cliente de SpaceX, con un tercio de sus ingresos trimestrales.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/01/anthropic-ya-es-el-mayor-cliente-de-spacex-y-le-aporto-el-345-de-sus-ingresos-del-trimestre/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "OpenAI lanzó una IA para biología y solo la dará a laboratorios aprobados",
-          "resumen": "El nuevo modelo biológico de OpenAI responde consultas de mayor riesgo y tendrá acceso restringido a labs aprobados.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/01/openai-lanzo-una-ia-para-biologia-que-responde-mas-consultas-de-riesgo-y-solo-la-daran-a-laboratorios-aprobados/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "OpenAI asegura haber logrado avances en tres problemas científicos muy complejos",
-          "resumen": "La compañía dice haber avanzado en tres problemas científicos difíciles, aunque la academia deberá validarlo.",
+          "titulo": "Google por fin te da la respuesta a la primera, y ese es justo su problema",
+          "resumen": "El buscador mejorado con IA responde mejor, pero le hace ganar menos dinero con las búsquedas.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/openai-asegura-haber-logrado-avances-tres-problemas-cientificos-muy-complejos-academia-tendra-ultima-palabra",
+          "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
+          "resumen": "Financiar el desarrollo de la IA sigue siendo posible, pero endeudarse resulta cada vez más caro.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
           "fuentes_extra": []
         }
       ]
@@ -152,39 +159,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Nvidia está financiando a sus proveedores para garantizar que podrá fabricar todos los chips de IA que quiere vender",
-          "resumen": "Nvidia inyecta dinero en su cadena de suministro para asegurar la producción de chips ante la enorme demanda.",
+          "titulo": "Una nueva oleada de ciberataques hace que las neveras suban hasta 50 grados en Bélgica y Suecia",
+          "resumen": "Ataques a heladeras conectadas de varios supermercados en Bélgica y Suecia llegaron a elevar su temperatura hasta 50 ºC.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/nvidia-esta-financiando-a-sus-proveedores-para-garantizar-que-podra-fabricar-todos-chips-ia-que-quiere-vender",
+          "url": "https://www.xataka.com/seguridad/tener-neveras-conectadas-puede-hacer-que-alguien-suba-a-50-grados-esta-pasando-belgica-suecia",
           "fuentes_extra": []
         },
         {
-          "titulo": "Microsoft hará que abrir aplicaciones en Windows 11 sea más rápido: Edge será la primera",
-          "resumen": "Windows 11 estrenará una mejora de arranque de apps que debutará con el navegador Edge.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/01/microsoft-permitira-que-abrir-aplicaciones-en-windows-11-sea-mas-rapido-edge-sera-la-primera/",
+          "titulo": "Corea del Norte se convirtió en una superpotencia del ciberataque y lo usa para autofinanciarse",
+          "resumen": "Pyongyang utiliza sus ciberataques como fuente de financiación para su economía.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seguridad/corea-norte-se-ha-convertido-superpotencia-ciberataque-esta-utilizando-para-autofinanciarse",
           "fuentes_extra": []
         },
         {
-          "titulo": "La Luna tendrá su propio superordenador: procesar datos en la Tierra no es una opción",
-          "resumen": "Un proyecto busca instalar capacidad de cómputo en la Luna para procesar datos sin depender de la Tierra.",
+          "titulo": "Binance sufrió el mayor robo de criptomonedas de la historia, y el verdadero examen llegó después: la confianza",
+          "resumen": "Tras el robo, las retiradas de fondos reabren las dudas sobre la seguridad de los intermediarios cripto.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/espacio/luna-tendra-su-propio-superordenador-procesar-datos-tierra-no-opcion",
+          "url": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno español da marcha atrás y suaviza las normas de los centros de datos para no espantar a las empresas de IA",
-          "resumen": "España flexibiliza la regulación de centros de datos para no ahuyentar la inversión de compañías de IA.",
+          "titulo": "Un robot de reparto provocó un accidente con nueve heridos en Tallin y siguió su camino",
+          "resumen": "Un robot de reparto de Bolt causó un accidente con nueve heridos en Tallin y se alejó del lugar: técnicamente, un conductor a la fuga.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/gobierno-espanol-da-marcha-atras-suaviza-normas-centros-datos-para-no-espantar-a-empresas-ia",
+          "url": "https://www.xataka.com/movilidad/robot-reparto-provoca-accidente-nueve-heridos-tallin-sigue-su-camino-tecnicamente-conductor-a-fuga",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el lunes 2 de noviembre. En política, la visita del papa León XIV reacomoda la agenda del Congreso y deja al descubierto las diferencias del Gobierno sobre la reforma electoral, mientras se calienta la pelea por las bancas del Senado en el Consejo de la Magistratura. En economía, el Gobierno enfrenta hoy un vencimiento de ochocientos millones de dólares con el Fondo, y noviembre arranca con aumentos en transporte, salud, alquileres y servicios. En el plano internacional, se recalienta la recta final de las elecciones de medio término en Estados Unidos, se cae el alto el fuego en Jersón tras la negativa de Rusia, y crece la tensión entre Brasil y Argentina por la salida de Bolsonaro. En inteligencia artificial, OpenAI sorprende comprándole chips a Google, Anthropic ya es el mayor cliente de SpaceX, y aparece una supuesta operación de espionaje chino contra Nvidia. Y en tecnología, Nvidia financia a sus proveedores para asegurar la producción de chips, Microsoft promete abrir apps más rápido en Windows 11, y hasta se habla de poner un superordenador en la Luna. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. It's Monday, November 2nd. In Argentine politics, Pope Leo the Fourteenth's visit is reshuffling the congressional agenda and exposing the government's internal divisions over electoral reform, while the fight over Senate seats on the Magistracy Council heats up. In the economy, the government faces an eight-hundred-million-dollar payment to the IMF today, and November opens with price hikes in transport, health, rent and utilities. Internationally, the final stretch of the US midterm elections is turning stormy, the ceasefire in Kherson collapses after Russia refuses to extend it, and tension grows between Brazil and Argentina over Bolsonaro's departure. In artificial intelligence, OpenAI surprises everyone by buying chips from Google, Anthropic is now SpaceX's biggest customer, and a reported Chinese spying operation is targeting Nvidia. And in tech, Nvidia is funding its suppliers to secure chip production, Microsoft promises faster app launches on Windows 11, and there's even talk of putting a supercomputer on the Moon. Have a great day.",
+    "texto_es": "Buenos días Charly. Arranca el martes con la mira puesta en Estados Unidos: el Gobierno se prepara para una posible derrota de Trump en las legislativas, aunque confía en que no peligra el respaldo financiero. En el Congreso, el Senado debate la nueva ley de discapacidad sin tener asegurado el número, y todo se acelera por la inminente visita del Papa. En lo económico, el clima sigue tenso: el riesgo país superó los ochocientos puntos, las acciones cayeron por sexta rueda seguida y el dólar en el Banco Nación tocó un nuevo máximo histórico. En el plano internacional, Estados Unidos destacó avances en las negociaciones con Irán y mediará en nuevas conversaciones entre Rusia y Ucrania en Abu Dhabi; el optimismo por un acuerdo hizo caer el petróleo más de un siete por ciento. Y en tecnología, Google logró ejecutar inteligencia artificial en órbita, un primer paso hacia los centros de datos en el espacio, mientras OpenAI anuncia que ChatGPT y Codex pasarán a compartir sus límites de uso. Que tengas un buen día.",
+    "texto_en": "Good morning Charly. Tuesday opens with eyes on the United States: the Argentine government is bracing for a possible Trump defeat in the midterms, though it trusts its financial backing will hold. In Congress, the Senate is debating a new disability law without a guaranteed majority, and everything is speeding up ahead of the Pope's upcoming visit. On the economy, the mood stays tense: country risk topped eight hundred points, stocks fell for a sixth straight session, and the official dollar hit a new record high. Internationally, the U.S. highlighted progress in talks with Iran and will mediate new Russia-Ukraine negotiations in Abu Dhabi; optimism over a deal sent oil down more than seven percent. And in tech, Google managed to run artificial intelligence in orbit, a first step toward space data centers, while OpenAI says ChatGPT and Codex will start sharing usage limits. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
