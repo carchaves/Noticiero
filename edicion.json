@@ -1,43 +1,43 @@
 {
-  "fecha": "2026-11-03",
-  "fecha_larga": "Martes 3 de noviembre de 2026",
+  "fecha": "2026-11-04",
+  "fecha_larga": "Miércoles 4 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Gobierno se prepara para una derrota de Trump, pero no cree que esté en riesgo el respaldo y tiende puentes",
-          "resumen": "La Casa Rosada anticipa una posible derrota de Trump en las legislativas de EE.UU., pero confía en sostener el respaldo financiero y envía funcionarios a Washington.",
+          "titulo": "León XIV, en la previa de su visita a Latinoamérica: \"Me encomiendo a sus oraciones\"",
+          "resumen": "El Papa dejó un mensaje antes de su gira regional y el Gobierno amplió el control aéreo y autorizó el uso de la fuerza ante un eventual acto hostil.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/03/el-gobierno-se-prepara-para-una-derrota-de-trump-pero-no-cree-que-este-en-riesgo-el-respaldo-y-tiende-puentes/",
+          "url": "https://www.infobae.com/politica/2026/11/04/me-encomiendo-a-sus-oraciones-el-mensaje-del-papa-leon-xiv-en-la-previa-a-su-visita-latinoamerica/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Senado debate la nueva ley de discapacidad y hay dudas por el número para el dictamen",
-          "resumen": "El Senado trata la nueva ley de discapacidad, pero no está claro si hay votos suficientes para firmar el dictamen.",
+          "titulo": "Por la visita del Papa, el Gobierno amplió el control aéreo y autorizó el uso de la fuerza ante un acto hostil",
+          "resumen": "El Ejecutivo reforzó el operativo de seguridad aérea por la llegada de León XIV.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/03/el-senado-debate-la-nueva-ley-de-discapacidad-y-hay-dudas-por-el-numero-para-el-dictamen/",
+          "url": "https://www.infobae.com/politica/2026/11/04/por-la-visita-del-papa-el-gobierno-amplio-el-control-aereo-y-autorizo-el-uso-de-la-fuerza-ante-un-acto-hostil/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El peronismo oficializó su disputa electoral: del anuncio de Cristina Kirchner a la postura inquebrantable de Kicillof",
-          "resumen": "El peronismo empieza a ordenar su camino hacia 2027 con internas por el liderazgo entre Cristina Kirchner y Kicillof.",
+          "titulo": "Sindicatos del transporte y la industria se diferencian de la CGT y deciden acciones propias",
+          "resumen": "Gremios clave marcan distancia de la conducción de la central obrera y definen su propia estrategia.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/",
+          "url": "https://www.infobae.com/politica/2026/11/04/sindicatos-del-transporte-y-de-la-industria-se-diferencian-de-la-estrategia-de-la-cgt-y-deciden-acciones-propias/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La visita del Papa también impacta en el Congreso: apuran el tema de discapacidad y renace el proyecto sobre ludopatía",
-          "resumen": "El Congreso acelera la ley de discapacidad antes de la visita del Papa y revive un proyecto para regular el juego online.",
+          "titulo": "Las elecciones en EEUU y la visita de León XIV demoran las negociaciones del Presupuesto en Diputados",
+          "resumen": "La agenda internacional posterga las conversaciones por el Presupuesto en el Congreso.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/03/la-visita-del-papa-tambien-impacta-en-el-congreso-apuran-el-tema-de-discapacidad-y-renace-el-proyecto-sobre-ludopatia/",
+          "url": "https://www.infobae.com/politica/2026/11/04/las-elecciones-en-eeuu-y-la-visita-de-leon-xiv-demoran-las-negociaciones-del-presupuesto-en-diputados/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Milei volvió a felicitar a Netanyahu y cuestionó a la izquierda internacional",
-          "resumen": "Milei recibió un premio de una coalición proisrael, respaldó a Netanyahu y elogió la próxima visita del Papa.",
+          "titulo": "El Gobierno se vuelca a polarizar con el kirchnerismo mientras enfrenta cada vez más conflictos internos",
+          "resumen": "La Casa Rosada apuesta a la polarización en medio de tensiones dentro de la coalición oficialista.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/03/milei-volvio-a-felicitar-a-netanyahu-y-cuestiono-a-la-izquierda-internacional-no-defendemos-a-israel-por-un-capricho-personal/",
+          "url": "https://www.infobae.com/politica/2026/11/04/el-gobierno-se-vuelca-a-polarizar-con-el-kirchnerismo-mientras-enfrenta-cada-vez-mas-conflictos-internos/",
           "fuentes_extra": []
         }
       ]
@@ -46,38 +46,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Mercados volátiles: los tres factores que impulsaron el riesgo país y sacudieron a los activos argentinos",
-          "resumen": "El riesgo país superó los 800 puntos y las acciones cayeron por sexta rueda seguida; análisis de las tres causas detrás de la baja.",
+          "titulo": "El dólar volvió a trepar en Brasil, contagió al mercado argentino y el riesgo país se despegó de los 800 puntos",
+          "resumen": "La suba del dólar en Brasil se trasladó a los activos locales y el riesgo país se alejó del piso reciente.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/03/mercados-volatiles-los-tres-factores-que-impulsaron-el-riesgo-pais-y-sacudieron-a-los-activos-argentinos/",
+          "url": "https://www.infobae.com/economia/2026/11/04/el-dolar-volvio-a-trepar-en-brasil-contagio-al-mercado-argentino-y-el-riesgo-pais-se-despego-de-los-800-puntos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Por la suba del riesgo país las acciones de un sector clave acumulan caídas de hasta 46% y cotizan en mínimos del año",
-          "resumen": "Las acciones bancarias se desplomaron con la suba del riesgo país, aunque algunos analistas ven valuaciones atractivas de largo plazo.",
+          "titulo": "Caputo busca impulsar la actividad con cuatro medidas: lo que celebran los economistas y las dudas que persisten",
+          "resumen": "El ministro de Economía anunció un paquete de cuatro medidas para reactivar la actividad.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/03/por-la-suba-del-riesgo-pais-las-acciones-de-un-sector-clave-acumulan-caidas-de-hasta-46-y-cotizan-en-minimos-del-ano/",
+          "url": "https://www.infobae.com/economia/2026/11/04/caputo-busca-impulsar-la-actividad-con-cuatro-medidas-los-puntos-que-celebran-los-economistas-y-las-dudas-que-persisten/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La UIA reúne a Caputo y los gobernadores en el mayor evento industrial, mientras la actividad acumula nueve meses de baja",
-          "resumen": "El gran encuentro de la UIA junta al ministro de Economía y a gobernadores en medio de nueve meses de caída industrial.",
+          "titulo": "Cómo funcionará el nuevo plan para cancelar deudas con ARCA que anunció Caputo",
+          "resumen": "Detalles de tasas, cuotas y pagos a cuenta del nuevo régimen para regularizar deudas impositivas.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/03/la-uia-reune-a-caputo-y-los-gobernadores-en-el-mayor-evento-industrial-mientras-la-actividad-acumula-nueve-meses-de-baja/",
+          "url": "https://www.infobae.com/economia/2026/11/04/como-funcionara-el-nuevo-plan-para-cancelar-deudas-con-arca-que-anuncio-caputo-tasas-cuotas-y-pagos-a-cuenta/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El dólar volvió a subir y la cotización en el Banco Nación alcanzó un nuevo máximo histórico",
-          "resumen": "El dólar oficial del Banco Nación marcó un nuevo récord en su cotización.",
+          "titulo": "El crédito no despega: los préstamos para el consumo cayeron en octubre por sexto mes consecutivo",
+          "resumen": "El financiamiento al consumo acumula medio año de retroceso pese a las medidas oficiales.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/el-dolar-volvio-a-subir-y-la-cotizacion-en-el-banco-nacion-alcanzo-un-nuevo-maximo-historico/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "La recaudación tributaria creció por segundo mes consecutivo por encima de la inflación en octubre",
-          "resumen": "En octubre la recaudación volvió a crecer por encima de la inflación, por segundo mes seguido.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/02/la-recaudacion-tributaria-crecio-por-segundo-mes-consecutivo-por-encima-de-la-inflacion-en-octubre/",
+          "url": "https://www.infobae.com/economia/2026/11/04/el-credito-no-despega-los-prestamos-para-el-consumo-cayeron-en-octubre-por-sexto-mes-consecutivo/",
           "fuentes_extra": []
         }
       ]
@@ -86,39 +79,46 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Estados Unidos destacó progresos en las negociaciones con Irán para evitar una nueva escalada en Medio Oriente",
-          "resumen": "Washington asegura que avanzan las conversaciones mientras Teherán condiciona la reapertura del estrecho de Ormuz.",
+          "titulo": "\"Ola azul\" en EE.UU.: los demócratas tomaron el control del Congreso en un fuerte voto castigo a Trump",
+          "resumen": "Las elecciones intermedias dejaron una dura derrota para Trump, que quedó como \"pato rengo\" en el tramo final de su mandato.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/estados-unidos/los-democratas-se-perfilan-como-favoritos-para-arrebatarle-a-trump-el-control-del-congreso-nid03112026/",
+          "fuentes_extra": [
+            "La Nación (reacción de los medios del mundo)",
+            "La Nación (análisis \"pato rengo\")"
+          ]
+        },
+        {
+          "titulo": "Zelensky afirmó que llevará las garantías de seguridad para Ucrania a las negociaciones en Abu Dhabi",
+          "resumen": "El presidente ucraniano anticipó que pondrá sobre la mesa las garantías de seguridad; denunció además un ataque ruso con 70 misiles y 300 drones a la red eléctrica.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/03/estados-unidos-destaco-progresos-en-las-negociaciones-con-iran-para-evitar-una-nueva-escalada-de-violencia-en-medio-oriente/",
+          "url": "https://www.infobae.com/america/mundo/2026/11/04/zelensky-afirmo-que-llevara-las-garantias-de-seguridad-para-ucrania-a-las-negociaciones-en-abu-dhabi/",
+          "fuentes_extra": [
+            "Infobae (ataque ruso a instalaciones eléctricas)"
+          ]
+        },
+        {
+          "titulo": "Renunció el ministro de Transporte de España tras el segundo trágico accidente entre trenes de alta velocidad",
+          "resumen": "La dimisión llegó después de un nuevo choque ferroviario en la red de alta velocidad española.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-ministro-de-transporte-de-espana-tras-el-segundo-tragico-accidente-entre-dos-trenes-de-nid03112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Estados Unidos mediará en nuevas conversaciones entre Rusia y Ucrania en Abu Dhabi para intentar poner fin a la guerra",
-          "resumen": "Las negociaciones del 10 y 11 de noviembre abordarán garantías de seguridad, reducción de hostilidades y ayuda humanitaria.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/estados-unidos/2026/11/03/estados-unidos-mediara-en-nuevas-conversaciones-entre-rusia-y-ucrania-en-abu-dhabi-para-intentar-poner-fin-a-la-guerra/",
+          "titulo": "Una ola de amenazas de bomba afectó al menos a siete vuelos en cuatro países de Europa",
+          "resumen": "Aeropuertos cerrados y aviones escoltados por una seguidilla de amenazas en varios países europeos.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/una-ola-de-amenazas-de-bomba-afecto-a-por-lo-menos-siete-aviones-en-cuatro-paises-de-europa-pero-nid03112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Ucrania denunció que Rusia utilizó la tregua humanitaria para reforzar sus tropas en el frente de Kherson",
-          "resumen": "Kiev acusa a Moscú de aprovechar la pausa en los combates para reorganizar posiciones y luego reanudar los ataques.",
+          "titulo": "Los precios del petróleo caen por segundo día ante la expectativa de un acuerdo entre Washington y Teherán",
+          "resumen": "El crudo retrocede mientras crece la expectativa por un entendimiento entre EEUU e Irán, que advirtió tener \"el dedo en el gatillo\".",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/03/ucrania-denuncio-que-rusia-utilizo-la-tregua-humanitaria-para-reforzar-sus-tropas-en-el-frente-de-kherson/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Netanyahu pidió formar una coalición amplia en Israel sin los partidos árabes",
-          "resumen": "El primer ministro saliente reclama liderar las negociaciones de gobierno por ser el partido más votado, mientras la oposición busca una mayoría alternativa.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/03/netanyahu-pidio-formar-una-coalicion-amplia-en-israel-sin-los-partidos-arabes-estoy-abierto-al-dialogo/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El petróleo se desploma más de un 7% ante el optimismo por un posible acuerdo entre Estados Unidos e Irán",
-          "resumen": "El barril de Brent registró su mayor caída diaria en meses, impulsado por las expectativas de un acuerdo diplomático.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/02/el-petroleo-brent-cayo-mas-de-7-ante-las-expectativas-de-dialogo-entre-estados-unidos-e-iran/",
-          "fuentes_extra": []
+          "url": "https://www.infobae.com/america/mundo/2026/11/03/los-precios-del-petroleo-caen-por-segundo-dia-consecutivo-ante-la-expectativa-de-un-acuerdo-entre-washington-y-teheran/",
+          "fuentes_extra": [
+            "Infobae (Irán \"dedo en el gatillo\")"
+          ]
         }
       ]
     },
@@ -126,31 +126,42 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Google dio un paso clave hacia los centros de datos espaciales: ejecutó IA en órbita",
-          "resumen": "Google explora infraestructura espacial para la IA tras lograr ejecutar un modelo en órbita.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+          "titulo": "Por primera vez, los expertos en riesgos temen más a la IA que al cambio climático",
+          "resumen": "Un relevamiento muestra que la inteligencia artificial encabeza por primera vez la lista de preocupaciones de los especialistas en riesgos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/por-primera-vez-los-expertos-en-riesgos-temen-mas-a-la-ia-que-al-cambio-climatico/",
           "fuentes_extra": []
+        },
+        {
+          "titulo": "Directivos de Anthropic van a declarar en una investigación sobre la seguridad de la IA en EE.UU.",
+          "resumen": "Ejecutivos de la empresa comparecerán en una pesquisa estadounidense sobre seguridad en inteligencia artificial.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/directivos-de-anthropic-van-a-declarar-en-investigacion-sobre-la-seguridad-de-la-ia-en-eeuu/",
+          "fuentes_extra": [
+            "Xataka (Anthropic ingresa 17.000 millones por trimestre)"
+          ]
+        },
+        {
+          "titulo": "Google recibe un revés ante el TJUE por el uso de noticias en Gemini",
+          "resumen": "Los medios ganan terreno para reclamar compensaciones por el uso de sus contenidos en el modelo Gemini.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/google-recibe-reves-tjue-uso-noticias-gemini-medios-ganan-terreno-para-reclamar-compensaciones",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Llegan las IA con \"automejora recursiva\": Astra ayudó a modificar otro modelo de IA",
+          "resumen": "Un sistema colaboró en la mejora de otro modelo recortándole lo que le estorbaba, abriendo el debate sobre riesgos y beneficios.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/llegada-ia-automejora-recursiva-que-significa-que-astra-haya-ayudado-a-modificar-otro-modelo-ia-que-riesgos-beneficios-conlleva",
+          "fuentes_extra": [
+            "Xataka (una IA mejoró a otra recortándole lo que le estorbaba)"
+          ]
         },
         {
           "titulo": "OpenAI combinará Chat y Work: ChatGPT y Codex compartirán los límites de uso",
-          "resumen": "OpenAI unificará sus productos Chat y Work, de modo que ChatGPT y Codex pasarán a compartir los límites de uso.",
+          "resumen": "La unificación de productos hace realidad un temor de los usuarios sobre los topes de uso compartidos.",
           "fuente": "Xataka",
           "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Google por fin te da la respuesta a la primera, y ese es justo su problema",
-          "resumen": "El buscador mejorado con IA responde mejor, pero le hace ganar menos dinero con las búsquedas.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El nuevo cuello de botella de la IA no son los chips ni la energía: es el dinero barato",
-          "resumen": "Financiar el desarrollo de la IA sigue siendo posible, pero endeudarse resulta cada vez más caro.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nuevo-cuello-botella-ia-no-chips-energia-dinero-barato",
           "fuentes_extra": []
         }
       ]
@@ -159,39 +170,48 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Una nueva oleada de ciberataques hace que las neveras suban hasta 50 grados en Bélgica y Suecia",
-          "resumen": "Ataques a heladeras conectadas de varios supermercados en Bélgica y Suecia llegaron a elevar su temperatura hasta 50 ºC.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/seguridad/tener-neveras-conectadas-puede-hacer-que-alguien-suba-a-50-grados-esta-pasando-belgica-suecia",
+          "titulo": "Una filtración en Amadeus expuso datos de reservas de Singapore Airlines, Japan Airlines, ANA y Cathay Pacific",
+          "resumen": "El incidente en el sistema de reservas comprometió información de pasajeros de varias aerolíneas asiáticas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/una-filtracion-en-amadeus-expuso-datos-de-reservas-de-singapore-airlines-japan-airlines-ana-y-cathay-pacific/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Corea del Norte se convirtió en una superpotencia del ciberataque y lo usa para autofinanciarse",
-          "resumen": "Pyongyang utiliza sus ciberataques como fuente de financiación para su economía.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/seguridad/corea-norte-se-ha-convertido-superpotencia-ciberataque-esta-utilizando-para-autofinanciarse",
+          "titulo": "AMD prevé ingresos de USD 17.000 millones en el cuarto trimestre, un 66% más que hace un año",
+          "resumen": "La compañía proyecta un fuerte salto de facturación impulsado por la demanda de chips.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/amd-preve-ingresos-de-17000-millones-de-dolares-en-el-cuarto-trimestre-66-mas-que-hace-un-ano/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Binance sufrió el mayor robo de criptomonedas de la historia, y el verdadero examen llegó después: la confianza",
-          "resumen": "Tras el robo, las retiradas de fondos reabren las dudas sobre la seguridad de los intermediarios cripto.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
+          "titulo": "Oracle canceló un contrato de USD 7.000 millones con una firma china tras la presión del gobierno de Trump",
+          "resumen": "La empresa dio marcha atrás con un acuerdo millonario por presiones del gobierno estadounidense.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/oracle-cancelo-un-contrato-de-usd-7000-millones-con-una-firma-china-tras-la-presion-del-gobierno-de-trump/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Un robot de reparto provocó un accidente con nueve heridos en Tallin y siguió su camino",
-          "resumen": "Un robot de reparto de Bolt causó un accidente con nueve heridos en Tallin y se alejó del lugar: técnicamente, un conductor a la fuga.",
+          "titulo": "Bruselas planea un cable submarino vía Groenlandia para esquivar a EEUU",
+          "resumen": "Groenlandia se vuelve pieza clave del internet europeo con un proyecto de cable submarino que evita territorio estadounidense.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/robot-reparto-provoca-accidente-nueve-heridos-tallin-sigue-su-camino-tecnicamente-conductor-a-fuga",
+          "url": "https://www.xataka.com/empresas-y-economia/groenlandia-se-convierte-pieza-clave-internet-europeo-bruselas-planea-cable-submarino-que-esquive-a-eeuu",
           "fuentes_extra": []
+        },
+        {
+          "titulo": "Steam tarda hasta 12 días hábiles en revisar juegos y varios estudios perdieron su fecha de estreno",
+          "resumen": "Las demoras en el proceso de revisión de Valve afectaron los lanzamientos de varios desarrolladores.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/04/steam-tarda-hasta-12-dias-habiles-en-revisar-juegos-y-varios-estudios-perdieron-su-fecha-de-estreno/",
+          "fuentes_extra": [
+            "Xataka (GTA VI ocupará hasta 212 GB)"
+          ]
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arranca el martes con la mira puesta en Estados Unidos: el Gobierno se prepara para una posible derrota de Trump en las legislativas, aunque confía en que no peligra el respaldo financiero. En el Congreso, el Senado debate la nueva ley de discapacidad sin tener asegurado el número, y todo se acelera por la inminente visita del Papa. En lo económico, el clima sigue tenso: el riesgo país superó los ochocientos puntos, las acciones cayeron por sexta rueda seguida y el dólar en el Banco Nación tocó un nuevo máximo histórico. En el plano internacional, Estados Unidos destacó avances en las negociaciones con Irán y mediará en nuevas conversaciones entre Rusia y Ucrania en Abu Dhabi; el optimismo por un acuerdo hizo caer el petróleo más de un siete por ciento. Y en tecnología, Google logró ejecutar inteligencia artificial en órbita, un primer paso hacia los centros de datos en el espacio, mientras OpenAI anuncia que ChatGPT y Codex pasarán a compartir sus límites de uso. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. Tuesday opens with eyes on the United States: the Argentine government is bracing for a possible Trump defeat in the midterms, though it trusts its financial backing will hold. In Congress, the Senate is debating a new disability law without a guaranteed majority, and everything is speeding up ahead of the Pope's upcoming visit. On the economy, the mood stays tense: country risk topped eight hundred points, stocks fell for a sixth straight session, and the official dollar hit a new record high. Internationally, the U.S. highlighted progress in talks with Iran and will mediate new Russia-Ukraine negotiations in Abu Dhabi; optimism over a deal sent oil down more than seven percent. And in tech, Google managed to run artificial intelligence in orbit, a first step toward space data centers, while OpenAI says ChatGPT and Codex will start sharing usage limits. Have a great day.",
+    "texto_es": "Buenos días Charly. El tema del día llega desde Estados Unidos: en las elecciones intermedias los demócratas se quedaron con el control del Congreso en un fuerte voto castigo a Trump, que queda muy debilitado para el tramo final de su mandato. En casa, todo gira alrededor de la visita del papa León XIV a Latinoamérica: el Gobierno amplió el control aéreo y hasta autorizó el uso de la fuerza ante un eventual acto hostil, y esa agenda, sumada a las elecciones en Estados Unidos, demora las negociaciones del Presupuesto en Diputados. En economía, el dólar volvió a trepar en Brasil, contagió al mercado local y el riesgo país se despegó de los ochocientos puntos, mientras Caputo anunció cuatro medidas para reactivar la actividad y un nuevo plan para cancelar deudas con ARCA. En el mundo, Zelensky dijo que llevará las garantías de seguridad a las negociaciones en Abu Dhabi, renunció el ministro de Transporte de España tras otro accidente ferroviario y el petróleo cae ante la expectativa de un acuerdo entre Washington y Teherán. Y en tecnología e inteligencia artificial, por primera vez los expertos en riesgos temen más a la IA que al cambio climático, directivos de Anthropic declararán en una investigación sobre seguridad, y una filtración en Amadeus expuso datos de reservas de varias aerolíneas asiáticas. Que tengas un buen miércoles.",
+    "texto_en": "Good morning Charly. The big story comes from the United States: in the midterm elections the Democrats took control of Congress in a strong backlash against Trump, who is left badly weakened for the final stretch of his term. At home, everything revolves around Pope Leo the Fourteenth's visit to Latin America: the government expanded airspace control and even authorized the use of force against any hostile act, and that agenda, together with the US elections, is delaying budget negotiations in Congress. In the economy, the dollar climbed again in Brazil, spread to the local market and country risk pulled away from eight hundred points, while Caputo announced four measures to revive activity and a new plan to settle tax debts. Around the world, Zelensky said he will bring security guarantees to the talks in Abu Dhabi, Spain's transport minister resigned after another rail accident, and oil prices are falling on expectations of a deal between Washington and Tehran. In tech and artificial intelligence, for the first time risk experts fear AI more than climate change, Anthropic executives will testify in a safety investigation, and a breach at Amadeus exposed booking data from several Asian airlines. Have a great Wednesday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
