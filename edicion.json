@@ -1,40 +1,43 @@
 {
-  "fecha": "2026-11-05",
-  "fecha_larga": "Jueves 5 de noviembre de 2026",
+  "fecha": "2026-11-06",
+  "fecha_larga": "Viernes 6 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Milei viaja a Madrid para la XXX Cumbre Iberoamericana, en medio de la tensión con España y Brasil",
-          "resumen": "El Presidente participa de la cumbre acompañado por Karina Milei y el canciller Pablo Quirno, con posibles cruces con Lula y Sánchez.",
-          "fuente": "iProfesional",
-          "url": "https://www.iprofesional.com/politica/467915-milei-cumbre-madrid-que-puede-pasar-cruza-lula-sanchez-tension",
-          "fuentes_extra": [
-            "C5N"
-          ]
-        },
-        {
-          "titulo": "Milei destacó el crecimiento de la economía y la fuerte reducción de la inflación",
-          "resumen": "El Gobierno reivindicó su programa fiscal y la baja de precios como principal logro de gestión.",
-          "fuente": "Argentina.gob.ar",
-          "url": "https://www.argentina.gob.ar/noticias/milei-destaco-el-crecimiento-de-la-economia-y-la-fuerte-reduccion-de-la-inflacion",
+          "titulo": "La Argentina que recibe al Papa: nuevas tensiones entre Milei y Bullrich, el faltazo de Macri y la pausa obligada del Congreso",
+          "resumen": "Karina Milei coordina la visita de León XIV mientras el Gobierno acumula negociaciones pendientes y crece la pelea en el PRO por la ausencia de Mauricio Macri en la misa.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno busca acelerar sus reformas en el Congreso antes del cierre de las sesiones ordinarias",
-          "resumen": "El oficialismo apura la agenda legislativa, condicionado por las diferencias internas sobre la reforma electoral.",
-          "fuente": "El Destape",
-          "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-4-noviembre-minuto-minuto-202611463346",
-          "fuentes_extra": [
-            "Noticias Argentinas"
-          ]
+          "titulo": "El acuerdo entre Kicillof y Máximo Kirchner aplacó la interna y abrió una vía para el armado electoral",
+          "resumen": "Ambos sectores del peronismo bonaerense quedaron conformes tras la reunión; baja la tensión aunque persiste la desconfianza de cara a 2027.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/06/el-acuerdo-entre-kicillof-y-maximo-kirchner-aplaco-la-interna-y-abrio-una-via-para-el-armado-electoral/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "La Iglesia argentina pidió un gesto al Gobierno ante la llegada del papa León XIV",
-          "resumen": "Se prepara un operativo especial de transporte para la visita papal mientras crece la expectativa en el país.",
-          "fuente": "Diario Panorama",
-          "url": "https://diariopanorama.com/noticia/571584/pedido-iglesia-argentina-ante-llegada-papa-leon-xiv-respuesta-gobierno",
+          "titulo": "La Casa Rosada planifica una reunión por Bullrich y crece el temor por el riesgo político",
+          "resumen": "La cúpula libertaria posterga definiciones internas mientras concentra esfuerzos en el operativo por León XIV; los Milei quieren clarificar el vínculo con la senadora.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/06/la-crisis-que-no-se-soluciona-la-casa-rosada-planifica-una-reunion-por-bullrich-y-crece-el-temor-por-el-riesgo-politico/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El Ministerio de Economía pasó a disponibilidad a más de diez empleados de planta permanente",
+          "resumen": "La medida se fundamentó en la falta de tareas compatibles tras la eliminación del área en la que cumplían funciones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/06/el-ministerio-de-economia-paso-a-disponibilidad-a-mas-de-diez-empleados-de-planta-permanente/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La Legislatura porteña aprobó una ley para asegurar la educación digital en las escuelas de la Ciudad",
+          "resumen": "La norma incorpora el uso de inteligencia artificial en los contenidos escolares, con materiales didácticos y formación docente.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/06/la-legislatura-portena-aprobo-una-ley-para-asegurar-la-educacion-digital-en-las-escuelas-de-la-ciudad-de-buenos-aires/",
           "fuentes_extra": []
         }
       ]
@@ -43,33 +46,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Tras dos días sin sumar divisas, el Banco Central volvió a comprar dólares",
-          "resumen": "El BCRA registró su primera compra de noviembre y las reservas brutas se acercaron a los US$50.500 millones.",
+          "titulo": "La tormenta global volvió a impactar en el riesgo país argentino y suma complicaciones para el año electoral",
+          "resumen": "El riesgo país trepó por encima de los 900 puntos (925, +9,2%) y las acciones argentinas sufrieron fuertes caídas en Wall Street.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/04/tras-dos-dias-sin-sumar-divisas-el-banco-central-volvio-a-comprar-dolares/",
-          "fuentes_extra": [
-            "MDZ"
-          ]
-        },
-        {
-          "titulo": "El dólar mayorista saltó cerca de los $1.550 en el inicio de noviembre, pero cedieron CCL y MEP",
-          "resumen": "El tipo de cambio mayorista acumuló una suba de $17 en las dos primeras ruedas del mes.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/dolar-el-peso-volvio-apreciarse-octubre-y-el-mercado-sigue-cerca-las-compras-reservas-del-bcra-n6340396",
+          "url": "https://www.infobae.com/economia/2026/11/06/la-tormenta-global-volvio-a-impactar-en-el-riesgo-pais-argentino-y-suma-mas-complicaciones-para-el-ano-electoral/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El mercado vuelve a ajustar sus proyecciones: qué espera para el dólar y el superávit al cierre de 2026",
-          "resumen": "Los futuros ubican el mayorista en torno a $1.598 para fin de año, con reservas estimadas en US$51.125 millones.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-mercado-vuelve-a-ajustar-sus-proyecciones-que-espera-para-el-dolar-y-el-superavit/",
+          "titulo": "La pobreza aumentó al 34,4% en el segundo trimestre del año, según cálculos privados en base al Indec",
+          "resumen": "Estimaciones privadas sobre datos del Indec muestran un repunte de la pobreza en el período.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/06/la-pobreza-aumento-al-344-en-el-segundo-trimestre-del-ano-segun-calculos-privados-en-base-al-indec/",
           "fuentes_extra": []
         },
         {
-          "titulo": "En pleno debate por la acumulación de reservas, Arriazu cuestionó la estrategia del BCRA",
-          "resumen": "El economista advirtió que comprar divisas a costa del crédito interno abre interrogantes sobre cuánto acumular.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/finanzas-mercados/en-pleno-debate-por-la-acumulacion-de-reservas-el-bcra-no-compro-dolares/",
+          "titulo": "Cerrarán 72 Registros del Automotor en los próximos 60 días",
+          "resumen": "El Gobierno avanza con la reconversión de la habilitación de los autos; las dependencias que cierran se distribuyen en todo el país.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/06/cerraran-72-registros-del-automotor-en-los-proximos-60-dias-una-por-una-que-oficinas-dejaran-de-funcionar/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Los empresarios ven en el RIGI una certeza, pero ponen en pausa inversiones por el ruido electoral",
+          "resumen": "Reclaman más medidas y demoran decisiones de inversión a la espera de definiciones políticas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/06/los-empresarios-ven-en-el-rigi-una-certeza-pero-piden-mas-medidas-y-ponen-en-pausa-las-inversiones-por-el-ruido-electoral/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Los bancos estarán cinco días cerrados por la visita del papa León XIV: qué servicios funcionarán",
+          "resumen": "Detalle de la operatoria bancaria durante el feriado por la visita papal y qué canales seguirán activos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/06/los-bancos-estaran-cinco-dias-cerrados-por-la-visita-del-papa-leon-xiv-que-servicios-funcionaran-y-cuales-no/",
           "fuentes_extra": []
         }
       ]
@@ -78,24 +86,42 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Elecciones de medio mandato en EE.UU.: los primeros conteos apuntan a un avance demócrata",
-          "resumen": "Un triunfo opositor complicaría los dos últimos años de gestión de Donald Trump.",
+          "titulo": "El papa León XIV voló rumbo a América Latina para iniciar una gira histórica que incluirá Argentina y Perú",
+          "resumen": "El Sumo Pontífice despegó desde Roma con primera parada en Uruguay; rendirá homenaje a Francisco y fijará posición sobre los límites morales de la IA.",
           "fuente": "Infobae",
-          "url": "https://infobae.com/america/agencias/2026/11/04/miercoles-4-de-noviembre-de-2026-0200-gmt",
+          "url": "https://www.infobae.com/america/america-latina/2026/11/06/el-papa-leon-xiv-vuela-hacia-a-uruguay-para-iniciar-una-gira-historica-que-incluira-argentina-y-peru/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Renunció el presidente de Paraguay Santiago Peña y anunció que enfrentará el juicio político",
+          "resumen": "Peña reapareció tras su renuncia en medio del colapso del Ueno Bank y dijo que ejercerá su derecho a la defensa.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-presidente-de-paraguay-santiago-pena-nid05112026/",
+          "fuentes_extra": [
+            "Infobae"
+          ]
+        },
+        {
+          "titulo": "Renunció el ministro del Interior de Paraguay tras el escándalo financiero por el colapso de Ueno Bank",
+          "resumen": "La crisis política en Asunción escala con renuncias y ahorristas en vigilia a la espera de sus fondos.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-ministro-del-interior-de-paraguay-tras-el-escandalo-financiero-desatado-por-el-colapso-nid05112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Rusia y Ucrania retomarán las negociaciones de paz en Abu Dabi el 10 y 11 de noviembre",
-          "resumen": "El enviado de EE.UU. Steve Witkoff anunció el nuevo round, confirmado por Moscú y Kiev.",
-          "fuente": "Síntesis Geopolítica UNAM",
-          "url": "https://geopolitica.iiec.unam.mx/node/2414",
+          "titulo": "Flavio Bolsonaro dijo que nunca revelará cómo pudo salir de Brasil tras la derrota ante Lula",
+          "resumen": "\"Me lo llevaré a la tumba\", afirmó el senador sobre su salida del país después del revés electoral.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-dijo-que-nunca-revelara-como-pudo-salir-de-brasil-tras-la-derrota-electoral-me-lo-nid06112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Trump busca nuevos logros diplomáticos tras el acuerdo de paz en Gaza",
-          "resumen": "La Casa Blanca intenta capitalizar el alto el fuego mientras encara otros frentes internacionales.",
-          "fuente": "Reuters",
-          "url": "https://www.yahoo.com/news/articles/trump-pursues-more-diplomatic-wins-111208924.html",
+          "titulo": "Pedro Sánchez le respondió a Milei desde la Cumbre Iberoamericana: \"El insulto no forma parte de mi forma de hacer política\"",
+          "resumen": "El mandatario español reaccionó dos semanas después de que Milei lo calificara de \"impresentable dictador\" en Madrid.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/espana/2026/11/05/pedro-sanchez-responde-a-milei-desde-la-cumbre-iberoamericana-el-insulto-no-forma-parte-de-mi-forma-de-hacer-politica/",
           "fuentes_extra": []
         }
       ]
@@ -104,31 +130,31 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "OpenAI afirma que las consultas de ChatGPT ya equivalen al 20% de las de Google",
-          "resumen": "La compañía asegura además que los usuarios generan unas 1.500 millones de imágenes por semana.",
-          "fuente": "MDZ",
-          "url": "https://mdzol.com/mundo/2026/11/4/tiembla-google-el-impresionante-crecimiento-de-chatgpt-segun-cifras-de-openai-1992987.html",
+          "titulo": "OpenAI logra que GPT-6 y Astra diseñen un dispositivo funcional en menos de una semana",
+          "resumen": "La compañía mostró un salto en capacidades de diseño asistido por sus modelos más recientes.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/openai-logra-que-gpt-6-y-astra-disenen-un-dispositivo-funcional-en-menos-de-una-semana/",
           "fuentes_extra": []
         },
         {
-          "titulo": "\"No todos los tokens valen lo mismo\": Dario Amodei sugiere precios dinámicos según la tarea",
-          "resumen": "El CEO de Anthropic plantea un modelo de cobro variable en función de la complejidad del trabajo.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/no-todos-tokens-que-producen-modelos-valen-dario-amodei-sugiere-modelo-precios-dinamicos-funcion-tarea",
+          "titulo": "Anthropic no puso freno a la IA y sus modelos avanzan al doble de velocidad que antes, revela un estudio",
+          "resumen": "Un estudio señala una aceleración en el ritmo de mejora de los modelos de la empresa.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/anthropic-no-ha-puesto-freno-a-la-ia-y-ahora-sus-modelos-avanzan-al-doble-de-velocidad-que-antes-revela-estudio/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los centros de datos también competían en las elecciones de EE.UU. y perdieron estrepitosamente",
-          "resumen": "Las consultas locales sobre proyectos de data centers vinculados a la IA fueron rechazadas en varias jurisdicciones.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/centros-datos-tambien-se-presentaban-a-elecciones-eeuu-han-perdido-estrepitosamente",
+          "titulo": "Meta habilita llamadas y video con su IA Muse para los usuarios de Estados Unidos",
+          "resumen": "La compañía suma interacción por voz y video a su asistente de inteligencia artificial.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/meta-habilita-llamadas-y-video-con-su-ia-muse-para-los-usuarios-de-estados-unidos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Café con IA: el resumen de la industria del 5 de noviembre",
-          "resumen": "Boletín con los movimientos del día en modelos, empresas y regulación de la inteligencia artificial.",
-          "fuente": "Café con IA",
-          "url": "https://cafeconia.substack.com/p/cafe-con-ia-5-de-noviembre-de-2026",
+          "titulo": "Un hombre demandó a OpenAI: dice que ChatGPT ayudó a su esposa a planear envenenarlo",
+          "resumen": "La demanda reabre el debate sobre responsabilidad y límites de seguridad de los chatbots.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/05/un-hombre-demando-a-openai-dice-que-chatgpt-ayudo-a-su-esposa-a-planear-envenenarlo/",
           "fuentes_extra": []
         }
       ]
@@ -137,39 +163,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Hoy cambia la TDT: cómo resintonizar tu televisor para ver los nuevos canales UHD y La Séptima",
-          "resumen": "El reajuste de la televisión digital terrestre obliga a volver a buscar canales en Samsung, LG y Sony.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/internet-y-television/hoy-cambia-tdt-como-resintonizar-tu-televisor-para-ver-nuevos-canales-uhd-septima",
+          "titulo": "USD 200.000 millones: el costo del plan de SpaceX para dar señal móvil, según T-Mobile",
+          "resumen": "El CEO de T-Mobile descartó que los satélites reemplacen a las antenas terrestres y vio difícil un acuerdo de reventa con Starlink.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/usd-200000-millones-el-costo-del-plan-de-spacex-para-dar-senal-movil-segun-t-mobile/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Bandas organizadas roban camiones cargados de componentes para centros de datos: ya suman US$100 millones",
-          "resumen": "El auge de la infraestructura para IA disparó una ola de robos de hardware de alto valor.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/bandas-organizadas-roban-camiones-cargados-componentes-para-centros-datos-suman-100-millones-dolares",
+          "titulo": "Las computadoras cuánticas podrían descifrar la encriptación bancaria en solo tres días, según un estudio",
+          "resumen": "El hallazgo acelera la urgencia por migrar a criptografía resistente a la computación cuántica.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/las-computadoras-cuanticas-podrian-descifrar-la-encriptacion-bancaria-en-tan-solo-tres-dias-segun-estudio/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Apple encuentra en los 2 nm una salida a sus problemas de fabricación",
-          "resumen": "El salto al nuevo proceso promete aliviar los cuellos de botella productivos de la compañía.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/apple-encuentra-2-nm-salida-a-sus-problemas-fabricacion",
+          "titulo": "Google, Meta y TikTok demandaron para frenar la ley de California que limita el scroll infinito a menores de 16",
+          "resumen": "Las plataformas impugnan la norma que restringe mecánicas de uso prolongado para menores.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/06/google-meta-y-tiktok-demandaron-para-frenar-la-ley-de-california-que-limita-el-scroll-infinito-a-menores-de-16/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Xiaomi 18 Pro Max, con doble pantalla, llegará pronto a Latinoamérica",
-          "resumen": "La nueva serie Xiaomi 18 tendrá lanzamiento internacional en noviembre y aterrizaje regional en diciembre.",
-          "fuente": "Xataka México",
-          "url": "https://xataka.com.mx/celulares-y-smartphones/este-celular-dos-pantallas-llegara-a-mexico-pronto-le-copio-nombre-al-iphone-xiaomi-18-pro-max",
+          "titulo": "GTA 6 habría superado los 7,71 millones de reservas y rozaría los 751 millones de dólares en ingresos",
+          "resumen": "Las cifras previas al lanzamiento marcan un récord para la industria de los videojuegos.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/05/gta-6-habria-superado-los-771-millones-de-reservas-y-rozaria-los-751-millones-de-dolares-en-ingresos/",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos el jueves 5 de noviembre. En política, Milei está en Madrid para la Cumbre Iberoamericana, en un momento de fuerte tensión con España y Brasil, mientras el Gobierno intenta acelerar sus reformas en el Congreso antes de que cierren las sesiones ordinarias. En la economía, el Banco Central volvió a comprar dólares tras dos ruedas en seco y las reservas se acercan a los cincuenta mil quinientos millones, aunque el mayorista ya salta cerca de los mil quinientos cincuenta pesos y crece el debate por cuántas reservas conviene acumular. En el plano internacional, los primeros conteos de las elecciones de medio mandato en Estados Unidos apuntan a un avance demócrata que complicaría a Trump, mientras Rusia y Ucrania preparan una nueva ronda de negociaciones en Abu Dabi para el 10 y 11 de noviembre. En inteligencia artificial, OpenAI asegura que ChatGPT ya mueve un volumen de consultas equivalente al veinte por ciento de Google. Y en tecnología, hoy cambia la televisión digital en España y Apple apuesta a los dos nanómetros para destrabar su producción. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. Here's your brief for Thursday, November fifth. In Argentine politics, Milei is in Madrid for the Ibero-American Summit amid sharp tension with Spain and Brazil, while his government tries to push its reforms through Congress before the ordinary session ends. On the economy, the Central Bank resumed buying dollars after two dry days, with reserves nearing fifty and a half billion, even as the wholesale dollar jumps close to one thousand five hundred fifty pesos and debate grows over how much to stockpile. Internationally, early counts in the U.S. midterm elections point to Democratic gains that would complicate Trump's final two years, while Russia and Ukraine prepare a fresh round of peace talks in Abu Dhabi on November tenth and eleventh. In artificial intelligence, OpenAI claims ChatGPT's query volume now equals twenty percent of Google's. And in tech, Spain's digital television reshuffles today, while Apple bets on two-nanometer chips to ease its manufacturing woes. Have a great day.",
+    "texto_es": "Buenos días Charly. Hoy el país se prepara para recibir al papa León XIV, que despegó desde Roma rumbo a América Latina en una gira histórica que pasará por Uruguay, la Argentina y Perú. La visita impone una tregua política, pero por abajo siguen las tensiones entre Milei y Bullrich y el faltazo de Macri a la misa. En el peronismo, Kicillof y Máximo Kirchner sellaron un acuerdo que descomprime la interna bonaerense. En lo económico, la jornada no trae alivio: el riesgo país trepó por encima de los 900 puntos y las acciones argentinas cayeron fuerte en Wall Street, mientras cálculos privados ubican la pobreza en 34 coma 4 por ciento. En la región, la gran noticia es Paraguay: renunció el presidente Santiago Peña en medio del colapso del Ueno Bank, con el ministro del Interior también afuera. Y en tecnología, OpenAI mostró a GPT seis y Astra diseñando un dispositivo en menos de una semana, Anthropic acelera el ritmo de sus modelos y un estudio advierte que las computadoras cuánticas podrían quebrar la encriptación bancaria en apenas tres días. Que tengas un buen viernes.",
+    "texto_en": "Good morning Charly. Today Argentina gets ready to welcome Pope Leo the Fourteenth, who took off from Rome on a historic tour of Latin America stopping in Uruguay, Argentina and Peru. The visit forces a political truce, but underneath the tensions between Milei and Bullrich persist, along with Macri skipping the Mass. Within Peronism, Kicillof and Maximo Kirchner reached a deal that eases the Buenos Aires infighting. On the economy, no relief: country risk climbed above 900 points and Argentine stocks fell sharply on Wall Street, while private estimates put poverty at 34 point 4 percent. In the region, the big story is Paraguay: President Santiago Pena resigned amid the collapse of Ueno Bank, with the Interior Minister also stepping down. And in tech, OpenAI showed GPT six and Astra designing a working device in under a week, Anthropic is speeding up its models, and a study warns quantum computers could crack bank encryption in just three days. Have a great Friday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
