@@ -1,43 +1,38 @@
 {
-  "fecha": "2026-11-06",
-  "fecha_larga": "Viernes 6 de noviembre de 2026",
+  "fecha": "2026-11-07",
+  "fecha_larga": "Sábado 7 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "La Argentina que recibe al Papa: nuevas tensiones entre Milei y Bullrich, el faltazo de Macri y la pausa obligada del Congreso",
-          "resumen": "Karina Milei coordina la visita de León XIV mientras el Gobierno acumula negociaciones pendientes y crece la pelea en el PRO por la ausencia de Mauricio Macri en la misa.",
+          "titulo": "Las lecciones de una semana que inquietan al Gobierno y un clima interno cada vez más espeso",
+          "resumen": "Tras los reveses regionales y la tensión con los gobernadores, crece el malestar en la Casa Rosada y la interna por el liderazgo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/06/la-argentina-que-recibe-al-papa-nuevas-tensiones-entre-milei-y-bullrich-el-faltazo-de-macri-y-la-pausa-obligada-del-congreso/",
+          "url": "https://www.infobae.com/politica/2026/11/07/las-lecciones-de-una-semana-que-inquietan-al-gobierno-y-un-clima-interno-que-se-torna-cada-vez-mas-espeso/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El acuerdo entre Kicillof y Máximo Kirchner aplacó la interna y abrió una vía para el armado electoral",
-          "resumen": "Ambos sectores del peronismo bonaerense quedaron conformes tras la reunión; baja la tensión aunque persiste la desconfianza de cara a 2027.",
+          "titulo": "El Gobierno español rechaza las palabras de Milei sobre el socialismo en la Cumbre Iberoamericana",
+          "resumen": "Milei dijo que el socialismo es fascista en política; Madrid respondió que sus dichos 'se califican por sí solos' y Sánchez le contestó que el insulto no es su forma de hacer política.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/06/el-acuerdo-entre-kicillof-y-maximo-kirchner-aplaco-la-interna-y-abrio-una-via-para-el-armado-electoral/",
+          "url": "https://www.infobae.com/america/agencias/2026/11/05/el-gobierno-rechaza-las-palabras-de-milei-ante-sanchez-sobre-el-socialismo-se-califican-por-si-solas/",
+          "fuentes_extra": [
+            "Infobae (respuesta de Pedro Sánchez)"
+          ]
+        },
+        {
+          "titulo": "Milei negó que Santiago Peña haya escapado a la Argentina tras su renuncia",
+          "resumen": "El Gobierno aseguró que no tiene registro de que el expresidente paraguayo esté en el país después de dejar el cargo por el escándalo bancario.",
+          "fuente": "Ámbito",
+          "url": "https://www.ambito.com/politica/javier-milei-nego-que-santiago-pena-haya-escapado-la-argentina-su-renuncia-n6342207",
           "fuentes_extra": []
         },
         {
-          "titulo": "La Casa Rosada planifica una reunión por Bullrich y crece el temor por el riesgo político",
-          "resumen": "La cúpula libertaria posterga definiciones internas mientras concentra esfuerzos en el operativo por León XIV; los Milei quieren clarificar el vínculo con la senadora.",
+          "titulo": "Milei bajo presión: entre el corset de Trump y la negociación clave con los gobernadores",
+          "resumen": "El oficialismo busca cerrar acuerdos provinciales mientras nadie quiere firmar por adelantado, en medio de los límites que impone la relación con Washington.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/06/la-crisis-que-no-se-soluciona-la-casa-rosada-planifica-una-reunion-por-bullrich-y-crece-el-temor-por-el-riesgo-politico/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Ministerio de Economía pasó a disponibilidad a más de diez empleados de planta permanente",
-          "resumen": "La medida se fundamentó en la falta de tareas compatibles tras la eliminación del área en la que cumplían funciones.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/06/el-ministerio-de-economia-paso-a-disponibilidad-a-mas-de-diez-empleados-de-planta-permanente/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "La Legislatura porteña aprobó una ley para asegurar la educación digital en las escuelas de la Ciudad",
-          "resumen": "La norma incorpora el uso de inteligencia artificial en los contenidos escolares, con materiales didácticos y formación docente.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/06/la-legislatura-portena-aprobo-una-ley-para-asegurar-la-educacion-digital-en-las-escuelas-de-la-ciudad-de-buenos-aires/",
+          "url": "https://www.infobae.com/politica/2026/11/01/milei-bajo-presion-entre-el-corset-de-trump-y-la-negociacion-clave-con-los-gobernadores/",
           "fuentes_extra": []
         }
       ]
@@ -46,38 +41,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "La tormenta global volvió a impactar en el riesgo país argentino y suma complicaciones para el año electoral",
-          "resumen": "El riesgo país trepó por encima de los 900 puntos (925, +9,2%) y las acciones argentinas sufrieron fuertes caídas en Wall Street.",
+          "titulo": "El riesgo país subió por sexta rueda consecutiva y rozó los 940 puntos, nuevo máximo en más de un año",
+          "resumen": "La escalada marca el nivel más alto desde octubre de 2025 y refleja la cautela del mercado sobre el programa económico.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/06/la-tormenta-global-volvio-a-impactar-en-el-riesgo-pais-argentino-y-suma-mas-complicaciones-para-el-ano-electoral/",
+          "url": "https://infobae.com/economia/2026/11/06/el-riesgo-pais-subio-por-sexta-rueda-consecutiva-rozo-los-940-puntos-basicos-y-marco-un-nuevo-maximo-en-mas-de-un-ano",
           "fuentes_extra": []
         },
         {
-          "titulo": "La pobreza aumentó al 34,4% en el segundo trimestre del año, según cálculos privados en base al Indec",
-          "resumen": "Estimaciones privadas sobre datos del Indec muestran un repunte de la pobreza en el período.",
+          "titulo": "Las consultoras del REM proyectaron una inflación de 1,8% para octubre y recortaron el crecimiento",
+          "resumen": "El relevamiento del BCRA prevé 1,7% para noviembre y cierra 2026 en torno al 30%, con menor actividad que la esperada.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/06/la-pobreza-aumento-al-344-en-el-segundo-trimestre-del-ano-segun-calculos-privados-en-base-al-indec/",
+          "url": "https://www.infobae.com/economia/2026/11/05/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-18-para-octubre-que-preven-para-este-mes/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Cerrarán 72 Registros del Automotor en los próximos 60 días",
-          "resumen": "El Gobierno avanza con la reconversión de la habilitación de los autos; las dependencias que cierran se distribuyen en todo el país.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/06/cerraran-72-registros-del-automotor-en-los-proximos-60-dias-una-por-una-que-oficinas-dejaran-de-funcionar/",
+          "titulo": "Dólar hoy: el oficial cerró la semana cerca de su récord nominal",
+          "resumen": "El minorista rondó los $1.570 para la venta y el mayorista quedó cerca de máximos, con reservas por debajo de los US$50.000 millones.",
+          "fuente": "Ámbito",
+          "url": "https://ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-6-noviembre-n6342270",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los empresarios ven en el RIGI una certeza, pero ponen en pausa inversiones por el ruido electoral",
-          "resumen": "Reclaman más medidas y demoran decisiones de inversión a la espera de definiciones políticas.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/06/los-empresarios-ven-en-el-rigi-una-certeza-pero-piden-mas-medidas-y-ponen-en-pausa-las-inversiones-por-el-ruido-electoral/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Los bancos estarán cinco días cerrados por la visita del papa León XIV: qué servicios funcionarán",
-          "resumen": "Detalle de la operatoria bancaria durante el feriado por la visita papal y qué canales seguirán activos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/06/los-bancos-estaran-cinco-dias-cerrados-por-la-visita-del-papa-leon-xiv-que-servicios-funcionaran-y-cuales-no/",
+          "titulo": "Qué ven dos gigantes de Wall Street para inflación, reservas, dólar y actividad en la próxima etapa del plan Milei",
+          "resumen": "Los bancos internacionales analizan los riesgos del esquema cambiario y la acumulación de reservas de cara al verano.",
+          "fuente": "El Cronista",
+          "url": "https://www.cronista.com/finanzas-mercados/inflacion-reservas-dolar-y-actividad-que-ven-dos-gigantes-de-wall-street-para-la-proxima-etapa-del-plan-milei/",
           "fuentes_extra": []
         }
       ]
@@ -86,42 +74,33 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "El papa León XIV voló rumbo a América Latina para iniciar una gira histórica que incluirá Argentina y Perú",
-          "resumen": "El Sumo Pontífice despegó desde Roma con primera parada en Uruguay; rendirá homenaje a Francisco y fijará posición sobre los límites morales de la IA.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/america-latina/2026/11/06/el-papa-leon-xiv-vuela-hacia-a-uruguay-para-iniciar-una-gira-historica-que-incluira-argentina-y-peru/",
+          "titulo": "Las bolsas europeas se desploman tras el shock de los resultados de las midterms en EE.UU.",
+          "resumen": "El triunfo demócrata y el temor a una desaceleración de la IA borraron billones de dólares en las tecnológicas de EE.UU., Europa y Asia.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
           "fuentes_extra": [
-            "La Nación"
+            "France 24 (Access Asia: China observa el cambio)"
           ]
         },
         {
-          "titulo": "Renunció el presidente de Paraguay Santiago Peña y anunció que enfrentará el juicio político",
-          "resumen": "Peña reapareció tras su renuncia en medio del colapso del Ueno Bank y dijo que ejercerá su derecho a la defensa.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-presidente-de-paraguay-santiago-pena-nid05112026/",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "Renunció el ministro del Interior de Paraguay tras el escándalo financiero por el colapso de Ueno Bank",
-          "resumen": "La crisis política en Asunción escala con renuncias y ahorristas en vigilia a la espera de sus fondos.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/renuncio-el-ministro-del-interior-de-paraguay-tras-el-escandalo-financiero-desatado-por-el-colapso-nid05112026/",
+          "titulo": "Trump califica de 'amañadas' las midterms y exige que los votos de Alaska pasen al candidato republicano",
+          "resumen": "Con el Congreso en manos demócratas, el presidente impugna el recuento en una contienda del Senado aún sin definir.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate",
           "fuentes_extra": []
         },
         {
-          "titulo": "Flavio Bolsonaro dijo que nunca revelará cómo pudo salir de Brasil tras la derrota ante Lula",
-          "resumen": "\"Me lo llevaré a la tumba\", afirmó el senador sobre su salida del país después del revés electoral.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/flavio-bolsonaro-dijo-que-nunca-revelara-como-pudo-salir-de-brasil-tras-la-derrota-electoral-me-lo-nid06112026/",
+          "titulo": "Las midterms marcan 'el principio del fin' para Trump, según John Bolton",
+          "resumen": "El exasesor de Seguridad Nacional analiza el peor resultado republicano en medio mandato desde 1974.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
           "fuentes_extra": []
         },
         {
-          "titulo": "Pedro Sánchez le respondió a Milei desde la Cumbre Iberoamericana: \"El insulto no forma parte de mi forma de hacer política\"",
-          "resumen": "El mandatario español reaccionó dos semanas después de que Milei lo calificara de \"impresentable dictador\" en Madrid.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/espana/2026/11/05/pedro-sanchez-responde-a-milei-desde-la-cumbre-iberoamericana-el-insulto-no-forma-parte-de-mi-forma-de-hacer-politica/",
+          "titulo": "Nueva Zelanda avanza a su séptima final consecutiva del Mundial femenino de rugby league",
+          "resumen": "Las Kiwi Ferns vencieron 32-0 a Samoa y mantienen su racha histórica rumbo al título.",
+          "fuente": "France 24",
+          "url": "https://france24.com/en/live-news/20261107-new-zealand-power-into-7th-straight-women-s-rugby-league-world-cup-final",
           "fuentes_extra": []
         }
       ]
@@ -130,31 +109,33 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "OpenAI logra que GPT-6 y Astra diseñen un dispositivo funcional en menos de una semana",
-          "resumen": "La compañía mostró un salto en capacidades de diseño asistido por sus modelos más recientes.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/openai-logra-que-gpt-6-y-astra-disenen-un-dispositivo-funcional-en-menos-de-una-semana/",
+          "titulo": "OpenAI estrena GPT-6 Cyber, su modelo 'crítico' en medio de una crisis de ciberseguridad",
+          "resumen": "El modelo, orientado a investigación de vulnerabilidades, detectó 81 fallos desconocidos en Mozilla y tendrá acceso limitado al inicio.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
           "fuentes_extra": []
         },
         {
-          "titulo": "Anthropic no puso freno a la IA y sus modelos avanzan al doble de velocidad que antes, revela un estudio",
-          "resumen": "Un estudio señala una aceleración en el ritmo de mejora de los modelos de la empresa.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/anthropic-no-ha-puesto-freno-a-la-ia-y-ahora-sus-modelos-avanzan-al-doble-de-velocidad-que-antes-revela-estudio/",
+          "titulo": "Claude ya puede decirte en qué se te va el dinero del banco, pero no tocar ni un euro",
+          "resumen": "Anthropic lanzó en beta una función que conecta cuentas bancarias para analizar gastos; de momento solo en EE.UU. y sin capacidad de mover fondos.",
+          "fuente": "Xataka",
+          "url": "https://xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
           "fuentes_extra": []
         },
         {
-          "titulo": "Meta habilita llamadas y video con su IA Muse para los usuarios de Estados Unidos",
-          "resumen": "La compañía suma interacción por voz y video a su asistente de inteligencia artificial.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/meta-habilita-llamadas-y-video-con-su-ia-muse-para-los-usuarios-de-estados-unidos/",
-          "fuentes_extra": []
+          "titulo": "China pone en jaque a Anthropic antes de su salida a Bolsa",
+          "resumen": "La competencia de los modelos chinos amenaza la valoración de Anthropic, que se discute entre 1,5 y 2 billones de dólares de cara a su posible debut en noviembre.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/china-pone-jaque-a-anthropic-competencia-sus-modelos-amenaza-su-valoracion-antes-salir-a-bolsa",
+          "fuentes_extra": [
+            "Xataka (80% de la plantilla se haría millonaria)"
+          ]
         },
         {
-          "titulo": "Un hombre demandó a OpenAI: dice que ChatGPT ayudó a su esposa a planear envenenarlo",
-          "resumen": "La demanda reabre el debate sobre responsabilidad y límites de seguridad de los chatbots.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/05/un-hombre-demando-a-openai-dice-que-chatgpt-ayudo-a-su-esposa-a-planear-envenenarlo/",
+          "titulo": "Anthropic se suma a la carrera por tener chips de IA propios",
+          "resumen": "La empresa confirma un equipo interno de hardware mientras mantiene una estrategia multiproveedor para abastecer su demanda de cómputo.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
           "fuentes_extra": []
         }
       ]
@@ -163,39 +144,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "USD 200.000 millones: el costo del plan de SpaceX para dar señal móvil, según T-Mobile",
-          "resumen": "El CEO de T-Mobile descartó que los satélites reemplacen a las antenas terrestres y vio difícil un acuerdo de reventa con Starlink.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/usd-200000-millones-el-costo-del-plan-de-spacex-para-dar-senal-movil-segun-t-mobile/",
+          "titulo": "Sony revive los auriculares del Walkman de 1979 con los nuevos MDR-3R con cable y USB-C",
+          "resumen": "El golpe de nostalgia llega en noviembre a unos 60 euros y se suma al regreso del audio con cable.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/audio/sony-revive-auriculares-walkman-1979-nuevos-mdr-3r-se-suma-al-regreso-audio-cable",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las computadoras cuánticas podrían descifrar la encriptación bancaria en solo tres días, según un estudio",
-          "resumen": "El hallazgo acelera la urgencia por migrar a criptografía resistente a la computación cuántica.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/las-computadoras-cuanticas-podrian-descifrar-la-encriptacion-bancaria-en-tan-solo-tres-dias-segun-estudio/",
+          "titulo": "ASUS presenta su nuevo router gaming con dos puertos 10G, WiFi 8 y hasta 25.000 Mbps",
+          "resumen": "La marca estrena conectividad de nueva generación para hogares exigentes, con el ROG Rapture llegando a principios de mes.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seleccion/oficial-asus-presenta-su-nuevo-router-gaming-dos-puertos-10g-wifi-8-ancho-banda-25-000-mbps",
           "fuentes_extra": []
         },
         {
-          "titulo": "Google, Meta y TikTok demandaron para frenar la ley de California que limita el scroll infinito a menores de 16",
-          "resumen": "Las plataformas impugnan la norma que restringe mecánicas de uso prolongado para menores.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/06/google-meta-y-tiktok-demandaron-para-frenar-la-ley-de-california-que-limita-el-scroll-infinito-a-menores-de-16/",
+          "titulo": "Qualcomm busca fuera del móvil: coches, IA y antenas para la red de Starlink de SpaceX",
+          "resumen": "El fabricante suministrará radios, banda base y software para la futura red 5G terrestre de Starlink Mobile en EE.UU.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
           "fuentes_extra": []
         },
         {
-          "titulo": "GTA 6 habría superado los 7,71 millones de reservas y rozaría los 751 millones de dólares en ingresos",
-          "resumen": "Las cifras previas al lanzamiento marcan un récord para la industria de los videojuegos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/05/gta-6-habria-superado-los-771-millones-de-reservas-y-rozaria-los-751-millones-de-dolares-en-ingresos/",
+          "titulo": "Premios Xataka Verisure 2026: la gran fiesta de la tecnología será el 17 de noviembre",
+          "resumen": "La gala se celebrará en los Cines Capitol de Madrid con retransmisión por streaming.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-reserva-17-noviembre-para-celebrar-nosotros-gran-fiesta-tecnologia",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Hoy el país se prepara para recibir al papa León XIV, que despegó desde Roma rumbo a América Latina en una gira histórica que pasará por Uruguay, la Argentina y Perú. La visita impone una tregua política, pero por abajo siguen las tensiones entre Milei y Bullrich y el faltazo de Macri a la misa. En el peronismo, Kicillof y Máximo Kirchner sellaron un acuerdo que descomprime la interna bonaerense. En lo económico, la jornada no trae alivio: el riesgo país trepó por encima de los 900 puntos y las acciones argentinas cayeron fuerte en Wall Street, mientras cálculos privados ubican la pobreza en 34 coma 4 por ciento. En la región, la gran noticia es Paraguay: renunció el presidente Santiago Peña en medio del colapso del Ueno Bank, con el ministro del Interior también afuera. Y en tecnología, OpenAI mostró a GPT seis y Astra diseñando un dispositivo en menos de una semana, Anthropic acelera el ritmo de sus modelos y un estudio advierte que las computadoras cuánticas podrían quebrar la encriptación bancaria en apenas tres días. Que tengas un buen viernes.",
-    "texto_en": "Good morning Charly. Today Argentina gets ready to welcome Pope Leo the Fourteenth, who took off from Rome on a historic tour of Latin America stopping in Uruguay, Argentina and Peru. The visit forces a political truce, but underneath the tensions between Milei and Bullrich persist, along with Macri skipping the Mass. Within Peronism, Kicillof and Maximo Kirchner reached a deal that eases the Buenos Aires infighting. On the economy, no relief: country risk climbed above 900 points and Argentine stocks fell sharply on Wall Street, while private estimates put poverty at 34 point 4 percent. In the region, the big story is Paraguay: President Santiago Pena resigned amid the collapse of Ueno Bank, with the Interior Minister also stepping down. And in tech, OpenAI showed GPT six and Astra designing a working device in under a week, Anthropic is speeding up its models, and a study warns quantum computers could crack bank encryption in just three days. Have a great Friday.",
+    "texto_es": "Buenos días Charly. Arranca el sábado con un gobierno inquieto: tras una semana de reveses y tensión con los gobernadores, crece el malestar interno en la Casa Rosada, mientras los dichos de Milei sobre el socialismo en la Cumbre Iberoamericana le valieron el rechazo de España y una respuesta de Pedro Sánchez. En la economía, el riesgo país subió por sexta rueda seguida y rozó los 940 puntos, el máximo en más de un año; el dólar oficial cerró cerca de su récord y las consultoras proyectan una inflación del 1,8 por ciento para octubre. En el mundo, el gran tema sigue siendo el terremoto de las elecciones de medio término en Estados Unidos: los demócratas se quedaron con el Congreso, las bolsas europeas se desplomaron y Trump ya habla de fraude. Y en tecnología e inteligencia artificial, OpenAI lanzó GPT-6 Cyber, Claude ahora puede analizar tus gastos del banco, y Anthropic se prepara para salir a bolsa mientras China le pisa los talones. Que tengas un buen fin de semana.",
+    "texto_en": "Good morning Charly. It's a busy Saturday. In Argentina, the government is rattled: after a week of setbacks and tense talks with the provincial governors, internal unease is growing, while Milei's remarks on socialism at the Ibero-American Summit drew a rebuke from Spain and a reply from Pedro Sánchez. On the economy, country risk climbed for a sixth straight session, nearing 940 points, its highest in over a year; the official dollar closed near record levels and analysts expect inflation of 1.8 percent for October. Abroad, the big story is still the shock from the US midterm elections: Democrats took Congress, European stocks plunged, and Trump is already crying fraud. In tech and AI, OpenAI launched GPT-6 Cyber, Claude can now analyze your bank spending, and Anthropic is gearing up for its IPO as China closes in. Have a great weekend.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
