@@ -1,38 +1,45 @@
 {
-  "fecha": "2026-11-07",
-  "fecha_larga": "Sábado 7 de noviembre de 2026",
+  "fecha": "2026-11-08",
+  "fecha_larga": "Domingo 8 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Las lecciones de una semana que inquietan al Gobierno y un clima interno cada vez más espeso",
-          "resumen": "Tras los reveses regionales y la tensión con los gobernadores, crece el malestar en la Casa Rosada y la interna por el liderazgo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/07/las-lecciones-de-una-semana-que-inquietan-al-gobierno-y-un-clima-interno-que-se-torna-cada-vez-mas-espeso/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Gobierno español rechaza las palabras de Milei sobre el socialismo en la Cumbre Iberoamericana",
-          "resumen": "Milei dijo que el socialismo es fascista en política; Madrid respondió que sus dichos 'se califican por sí solos' y Sánchez le contestó que el insulto no es su forma de hacer política.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/agencias/2026/11/05/el-gobierno-rechaza-las-palabras-de-milei-ante-sanchez-sobre-el-socialismo-se-califican-por-si-solas/",
+          "titulo": "El papa León XIV llega a la Argentina, una visita histórica que moviliza al país",
+          "resumen": "El pontífice inicia un viaje apostólico de tres días con misas en Palermo, Córdoba y Luján; Milei lo recibe en la Casa Rosada y el Gobierno despliega un gran operativo.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-llega-a-la-argentina-una-visita-historica-que-moviliza-al-pais-nid07112026/",
           "fuentes_extra": [
-            "Infobae (respuesta de Pedro Sánchez)"
+            "Infobae"
           ]
         },
         {
-          "titulo": "Milei negó que Santiago Peña haya escapado a la Argentina tras su renuncia",
-          "resumen": "El Gobierno aseguró que no tiene registro de que el expresidente paraguayo esté en el país después de dejar el cargo por el escándalo bancario.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/politica/javier-milei-nego-que-santiago-pena-haya-escapado-la-argentina-su-renuncia-n6342207",
+          "titulo": "El día después de la visita papal: los próximos movimientos de Milei y las señales del mercado",
+          "resumen": "Crece la tensión interna en el Gabinete tras reuniones reservadas y gestos contrapuestos, mientras el entorno presidencial busca despejar un escenario todavía incierto.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/08/el-dia-despues-de-la-visita-papal-los-proximos-movimientos-de-milei-las-senales-del-mercado-y-la-manta-corta-que-preocupa-al-gabinete/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Milei bajo presión: entre el corset de Trump y la negociación clave con los gobernadores",
-          "resumen": "El oficialismo busca cerrar acuerdos provinciales mientras nadie quiere firmar por adelantado, en medio de los límites que impone la relación con Washington.",
+          "titulo": "La interna entre Bullrich y el Gobierno preocupa a los aliados del Senado",
+          "resumen": "La disputa entre la jefa de bloque y el karinismo inquieta a los dialoguistas, que reclaman por los incumplimientos de la Casa Rosada de cara al fin del período ordinario.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/01/milei-bajo-presion-entre-el-corset-de-trump-y-la-negociacion-clave-con-los-gobernadores/",
+          "url": "https://www.infobae.com/politica/2026/11/08/la-interna-entre-bullrich-y-el-gobierno-preocupa-a-los-aliados-del-senado-de-cara-al-fin-del-periodo-ordinario/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Kicillof quiere aprobar su último Presupuesto como gobernador y le exige a Milei una deuda de $20 billones",
+          "resumen": "El proyecto bonaerense prevé un gasto total de $58,6 billones y un endeudamiento por USD 1.000 millones, en medio del reclamo por fondos a la Nación.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/08/kicillof-quiere-aprobar-su-ultimo-presupuesto-como-gobernador-y-le-exige-a-milei-una-deuda-de-20-billones/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La SIDE informó que detuvo a una persona por amenazas de muerte contra el Papa",
+          "resumen": "El operativo se realizó en menos de 24 horas por orden de la Justicia federal de Campana, antes de la llegada de León XIV al país.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/",
           "fuentes_extra": []
         }
       ]
@@ -41,31 +48,40 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El riesgo país subió por sexta rueda consecutiva y rozó los 940 puntos, nuevo máximo en más de un año",
-          "resumen": "La escalada marca el nivel más alto desde octubre de 2025 y refleja la cautela del mercado sobre el programa económico.",
+          "titulo": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad",
+          "resumen": "La caída de los bonos refleja mayor desconfianza de los inversores; las derrotas de Bolsonaro y de los republicanos en EE.UU. pesaron como impactos negativos para Milei.",
           "fuente": "Infobae",
-          "url": "https://infobae.com/economia/2026/11/06/el-riesgo-pais-subio-por-sexta-rueda-consecutiva-rozo-los-940-puntos-basicos-y-marco-un-nuevo-maximo-en-mas-de-un-ano",
+          "url": "https://www.infobae.com/economia/2026/11/08/el-gobierno-busca-encapsular-la-suba-del-riesgo-pais-para-evitar-un-impacto-en-el-dolar-y-la-actividad/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Martín Redrado: \"La Argentina necesita una segunda etapa de este programa\"",
+          "resumen": "El expresidente del Banco Central advierte que en 2027 el Tesoro deberá afrontar vencimientos por US$20.000 millones sin acceso a los mercados, en plena campaña electoral.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/martin-redrado-la-argentina-necesita-una-segunda-etapa-de-este-programa-nid08112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las consultoras del REM proyectaron una inflación de 1,8% para octubre y recortaron el crecimiento",
-          "resumen": "El relevamiento del BCRA prevé 1,7% para noviembre y cierra 2026 en torno al 30%, con menor actividad que la esperada.",
+          "titulo": "¿Habrá menos autos chinos? Todo lo que hay que saber del cupo de híbridos y eléctricos de 2027",
+          "resumen": "El Gobierno redefinió el reparto de autos que no pagan arancel de importación: Tesla ocupará un 10% y se reduce la cuota del resto.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/05/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-18-para-octubre-que-preven-para-este-mes/",
+          "url": "https://www.infobae.com/economia/2026/11/08/habra-menos-autos-chinos-todo-lo-que-hay-que-saber-del-cupo-de-autos-hibridos-y-electricos-de-2027/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Dólar hoy: el oficial cerró la semana cerca de su récord nominal",
-          "resumen": "El minorista rondó los $1.570 para la venta y el mayorista quedó cerca de máximos, con reservas por debajo de los US$50.000 millones.",
-          "fuente": "Ámbito",
-          "url": "https://ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-6-noviembre-n6342270",
+          "titulo": "Clima de Negocios: en medio del ruido financiero, los empresarios locales siguen de compras",
+          "resumen": "Entre la salida de multinacionales y las privatizaciones, los grupos locales ganan protagonismo en las fusiones y adquisiciones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/08/clima-de-negocios-en-medio-del-ruido-financiero-los-empresarios-locales-siguen-de-compras-y-miran-atentos-una-norma-del-gobierno/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Qué ven dos gigantes de Wall Street para inflación, reservas, dólar y actividad en la próxima etapa del plan Milei",
-          "resumen": "Los bancos internacionales analizan los riesgos del esquema cambiario y la acumulación de reservas de cara al verano.",
-          "fuente": "El Cronista",
-          "url": "https://www.cronista.com/finanzas-mercados/inflacion-reservas-dolar-y-actividad-que-ven-dos-gigantes-de-wall-street-para-la-proxima-etapa-del-plan-milei/",
+          "titulo": "Ajuste deflacionario con boom de dólares",
+          "resumen": "El ingreso histórico de divisas por exportaciones energéticas y agrícolas fortalece las reservas del Banco Central, aunque el consumo doméstico sigue deprimido.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/opinion/2026/11/08/ajuste-deflacionario-con-boom-de-dolares/",
           "fuentes_extra": []
         }
       ]
@@ -74,33 +90,42 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Las bolsas europeas se desploman tras el shock de los resultados de las midterms en EE.UU.",
-          "resumen": "El triunfo demócrata y el temor a una desaceleración de la IA borraron billones de dólares en las tecnológicas de EE.UU., Europa y Asia.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
+          "titulo": "León XIV cierra su visita a Uruguay con una misa en Florida antes de volar a la Argentina",
+          "resumen": "El Papa concluye el primer destino de su gira sudamericana con una liturgia por la Virgen de los Treinta y Tres, patrona del país.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/america-latina/2026/11/08/papa-leon-xiv-en-vivo-las-ultimas-noticias-de-su-gira-sudamericana-hoy-8-de-noviembre/",
           "fuentes_extra": [
-            "France 24 (Access Asia: China observa el cambio)"
+            "France 24"
           ]
         },
         {
-          "titulo": "Trump califica de 'amañadas' las midterms y exige que los votos de Alaska pasen al candidato republicano",
-          "resumen": "Con el Congreso en manos demócratas, el presidente impugna el recuento en una contienda del Senado aún sin definir.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/en/americas/20261106-trump-calls-midterms-crooked-demands-alaska-votes-go-to-republican-candidate",
+          "titulo": "Arabia Saudita interceptó cinco misiles disparados por los rebeldes hutíes sobre Riad y el sur",
+          "resumen": "Las defensas aéreas abatieron dos artefactos de crucero y tres balísticos al ingresar en el espacio aéreo, según el portavoz militar Turki al Maliki.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/08/arabia-saudita-intercepto-cinco-misiles-disparados-por-los-rebeldes-huties-sobre-riad-y-el-sur/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las midterms marcan 'el principio del fin' para Trump, según John Bolton",
-          "resumen": "El exasesor de Seguridad Nacional analiza el peor resultado republicano en medio mandato desde 1974.",
+          "titulo": "Polonia: un tiroteo en el corazón de Cracovia deja varios muertos y heridos",
+          "resumen": "El ataque se produjo en el centro histórico de una de las ciudades más visitadas del país, según informaron las autoridades.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261106-us-midterms-mark-the-beginning-of-the-end-for-trump-john-bolton-says",
+          "url": "https://www.france24.com/es/video/20261108-polonia-tiroteo-en-el-coraz%C3%B3n-de-cracovia-deja-varios-muertos-y-heridos",
           "fuentes_extra": []
         },
         {
-          "titulo": "Nueva Zelanda avanza a su séptima final consecutiva del Mundial femenino de rugby league",
-          "resumen": "Las Kiwi Ferns vencieron 32-0 a Samoa y mantienen su racha histórica rumbo al título.",
+          "titulo": "Santiago Peña permanecerá en prisión preventiva mientras Paraguay encamina un nuevo Gobierno",
+          "resumen": "El expresidente fue recluido en el Regimiento Escolta Presidencial de Asunción tras considerar la Justicia necesaria la medida para asegurar su comparecencia.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/america-latina/2026/11/08/santiago-pena-permanecera-en-prision-preventiva-mientras-paraguay-da-paso-a-un-nuevo-gobierno/",
+          "fuentes_extra": [
+            "France 24"
+          ]
+        },
+        {
+          "titulo": "Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel",
+          "resumen": "El presidente Isaac Herzog encomendó al líder de Yashar! formar una coalición tras recibir el apoyo de 67 diputados.",
           "fuente": "France 24",
-          "url": "https://france24.com/en/live-news/20261107-new-zealand-power-into-7th-straight-women-s-rugby-league-world-cup-final",
+          "url": "https://www.france24.com/es/medio-oriente/20261108-qui%C3%A9n-es-gadi-eisenkot-el-general-retirado-encargado-de-formar-gobierno-en-israel",
           "fuentes_extra": []
         }
       ]
@@ -109,33 +134,38 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "OpenAI estrena GPT-6 Cyber, su modelo 'crítico' en medio de una crisis de ciberseguridad",
-          "resumen": "El modelo, orientado a investigación de vulnerabilidades, detectó 81 fallos desconocidos en Mozilla y tendrá acceso limitado al inicio.",
+          "titulo": "La fiebre de la IA crea otro problema: hacen falta toneladas de metal para darle electricidad",
+          "resumen": "El crecimiento de los centros de datos dispara la demanda de cobre y otros metales para sostener su enorme consumo eléctrico.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/medio-crisis-ciberseguridad-openai-estrena-gpt-6-cyber-su-nuevo-modelo-critico",
+          "url": "https://www.xataka.com/energia/fiebre-ia-esta-creando-otro-problema-necesitamos-toneladas-metal-para-poder-darle-electricidad",
           "fuentes_extra": []
         },
         {
-          "titulo": "Claude ya puede decirte en qué se te va el dinero del banco, pero no tocar ni un euro",
-          "resumen": "Anthropic lanzó en beta una función que conecta cuentas bancarias para analizar gastos; de momento solo en EE.UU. y sin capacidad de mover fondos.",
-          "fuente": "Xataka",
-          "url": "https://xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
+          "titulo": "Un jurista propone que cada respuesta de un chatbot basada en noticias genere un pago a los medios",
+          "resumen": "El 10% de las personas ya usa chatbots para informarse cada semana, según una encuesta del Instituto Reuters citada por DW.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/08/jurista-propone-que-cada-respuesta-de-un-chatbot-basada-en-noticias-genere-un-pago-a-los-medios/",
           "fuentes_extra": []
         },
         {
-          "titulo": "China pone en jaque a Anthropic antes de su salida a Bolsa",
-          "resumen": "La competencia de los modelos chinos amenaza la valoración de Anthropic, que se discute entre 1,5 y 2 billones de dólares de cara a su posible debut en noviembre.",
+          "titulo": "Zaragoza sale a la calle contra los centros de datos: \"No generan empleo ni pagan impuestos\"",
+          "resumen": "Miles de personas protestaron en la capital de la región favorita de los datacenters en España, en el Día Europeo contra los centros de datos.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/china-pone-jaque-a-anthropic-competencia-sus-modelos-amenaza-su-valoracion-antes-salir-a-bolsa",
-          "fuentes_extra": [
-            "Xataka (80% de la plantilla se haría millonaria)"
-          ]
+          "url": "https://www.xataka.com/robotica-e-ia/zaragoza-sale-a-calle-centros-datos-no-generan-empleo-no-pagan-impuestos-se-quedan-todos-recursos",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Anthropic se suma a la carrera por tener chips de IA propios",
-          "resumen": "La empresa confirma un equipo interno de hardware mientras mantiene una estrategia multiproveedor para abastecer su demanda de cómputo.",
+          "titulo": "De Marte a la conciencia: el dilema más antiguo de la Filosofía acelera con su \"momento IA\"",
+          "resumen": "Para saber si la inteligencia artificial puede llegar a tener conciencia, antes hay que entender cómo funciona en el ser humano.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/de-marte-a-la-conciencia-el-dilema-mas-antiguo-de-la-filosofia-acelera-motores-con-su-momento-ia-nid08112026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Lituania, con 2,9 millones de habitantes, compite con China fabricando láseres para chips de IA",
+          "resumen": "El pequeño país báltico se posiciona en la cadena de suministro clave para la producción en serie de semiconductores.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/tener-chips-propios-ia-ultima-gran-obsesion-grandes-tecnologicas-anthropic-no-va-a-ser",
+          "url": "https://www.xataka.com/componentes/lituania-tiene-2-9-millones-habitantes-compite-china-fabricando-laseres-para-chips-ia-serie",
           "fuentes_extra": []
         }
       ]
@@ -144,39 +174,46 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Sony revive los auriculares del Walkman de 1979 con los nuevos MDR-3R con cable y USB-C",
-          "resumen": "El golpe de nostalgia llega en noviembre a unos 60 euros y se suma al regreso del audio con cable.",
+          "titulo": "Cinco ofertas para aprovechar los primeros adelantos del Black Friday en MediaMarkt y El Corte Inglés",
+          "resumen": "Las tiendas arrancaron noviembre con sus primeras campañas del Black Friday y ya dejan buenos descuentos.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/audio/sony-revive-auriculares-walkman-1979-nuevos-mdr-3r-se-suma-al-regreso-audio-cable",
+          "url": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-primeros-adelantos-black-friday-mediamarkt-corte-ingles-hoy-8-noviembre",
           "fuentes_extra": []
         },
         {
-          "titulo": "ASUS presenta su nuevo router gaming con dos puertos 10G, WiFi 8 y hasta 25.000 Mbps",
-          "resumen": "La marca estrena conectividad de nueva generación para hogares exigentes, con el ROG Rapture llegando a principios de mes.",
+          "titulo": "TCL mostró dos televisores Mini LED por dentro: el nombre no siempre significa lo mismo",
+          "resumen": "Un vistazo a las entrañas de dos paneles revela por qué una misma tecnología puede dar resultados muy distintos.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/seleccion/oficial-asus-presenta-su-nuevo-router-gaming-dos-puertos-10g-wifi-8-ancho-banda-25-000-mbps",
+          "url": "https://www.xataka.com/televisores/tcl-nos-ha-mostrado-dos-televisores-mini-led-dentro-para-ensenarnos-algo-importante-nombre-no-siempre-significa",
           "fuentes_extra": []
         },
         {
-          "titulo": "Qualcomm busca fuera del móvil: coches, IA y antenas para la red de Starlink de SpaceX",
-          "resumen": "El fabricante suministrará radios, banda base y software para la futura red 5G terrestre de Starlink Mobile en EE.UU.",
+          "titulo": "Ya es oficial: Elon Musk anuncia el principio del fin del Cybertruck y su nueva apuesta para 2027",
+          "resumen": "Tesla da por cerrada la etapa del polémico pickup y adelanta un nuevo producto estrella para el año próximo.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/qualcomm-busca-fuera-movil-que-le-quita-crisis-memoria-coches-ia-antenas-para-spacex",
+          "url": "https://www.xataka.com/movilidad/oficial-elon-musk-anuncia-principio-fin-cybertruck-su-nueva-gran-apuesta-para-2027",
           "fuentes_extra": []
         },
         {
-          "titulo": "Premios Xataka Verisure 2026: la gran fiesta de la tecnología será el 17 de noviembre",
-          "resumen": "La gala se celebrará en los Cines Capitol de Madrid con retransmisión por streaming.",
+          "titulo": "EE.UU. miró por satélite una fábrica china y encontró algo que no le gusta: cuatro aviones",
+          "resumen": "Imágenes satelitales revelan nuevos modelos que podrían cambiar el equilibrio de la guerra aérea en el Pacífico.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/xataka/premios-xataka-verisure-2026-reserva-17-noviembre-para-celebrar-nosotros-gran-fiesta-tecnologia",
+          "url": "https://www.xataka.com/magnet/eeuu-ha-mirado-satelite-fabrica-china-ha-encontrado-algo-que-no-le-gusta-cuatro-aviones-para-cambiar-guerra-aerea-pacifico",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Pitidos molestos y ruidos extraños: cómo conectábamos los primitivos módems a internet",
+          "resumen": "Un repaso nostálgico por la era de las conexiones telefónicas y su inconfundible secuencia de sonidos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/historia-tecnologica/pitidos-molestos-ruidos-extranos-toda-odisea-como-conectabamos-primitivos-modems-a-internet",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arranca el sábado con un gobierno inquieto: tras una semana de reveses y tensión con los gobernadores, crece el malestar interno en la Casa Rosada, mientras los dichos de Milei sobre el socialismo en la Cumbre Iberoamericana le valieron el rechazo de España y una respuesta de Pedro Sánchez. En la economía, el riesgo país subió por sexta rueda seguida y rozó los 940 puntos, el máximo en más de un año; el dólar oficial cerró cerca de su récord y las consultoras proyectan una inflación del 1,8 por ciento para octubre. En el mundo, el gran tema sigue siendo el terremoto de las elecciones de medio término en Estados Unidos: los demócratas se quedaron con el Congreso, las bolsas europeas se desplomaron y Trump ya habla de fraude. Y en tecnología e inteligencia artificial, OpenAI lanzó GPT-6 Cyber, Claude ahora puede analizar tus gastos del banco, y Anthropic se prepara para salir a bolsa mientras China le pisa los talones. Que tengas un buen fin de semana.",
-    "texto_en": "Good morning Charly. It's a busy Saturday. In Argentina, the government is rattled: after a week of setbacks and tense talks with the provincial governors, internal unease is growing, while Milei's remarks on socialism at the Ibero-American Summit drew a rebuke from Spain and a reply from Pedro Sánchez. On the economy, country risk climbed for a sixth straight session, nearing 940 points, its highest in over a year; the official dollar closed near record levels and analysts expect inflation of 1.8 percent for October. Abroad, the big story is still the shock from the US midterm elections: Democrats took Congress, European stocks plunged, and Trump is already crying fraud. In tech and AI, OpenAI launched GPT-6 Cyber, Claude can now analyze your bank spending, and Anthropic is gearing up for its IPO as China closes in. Have a great weekend.",
+    "texto_es": "Buenos días Charly. El tema del día es la llegada del papa León XIV a la Argentina: arranca una visita histórica de tres días con misas en Palermo, Córdoba y Luján, Milei lo recibe en la Casa Rosada y hubo un gran operativo de seguridad, después de que la SIDE detuviera a una persona por amenazas. En la política, crece la interna entre Patricia Bullrich y el Gobierno, y Kicillof busca aprobar su último presupuesto como gobernador. En la economía, el Gobierno intenta contener la suba del riesgo país para que no golpee al dólar, mientras Redrado advierte por los vencimientos de deuda de 2027. En el mundo, Arabia Saudita interceptó cinco misiles hutíes sobre Riad, hubo un tiroteo con varios muertos en Cracovia y Paraguay encamina un nuevo gobierno con Santiago Peña preso. Y en tecnología e inteligencia artificial, la fiebre de la IA dispara la demanda de metales y energía, mientras en España crecen las protestas contra los centros de datos. Buen domingo.",
+    "texto_en": "Good morning Charly. The big story today is the arrival of Pope Leo the Fourteenth in Argentina: a historic three-day visit begins, with masses in Palermo, Córdoba and Luján. Milei welcomes him at the Casa Rosada amid a major security operation, after intelligence services arrested someone over threats. In politics, the feud between Patricia Bullrich and the government is deepening, while Kicillof pushes to pass his final budget as governor. In the economy, the government is trying to contain a rising country risk so it doesn't hit the dollar, as Redrado warns about 2027 debt maturities. Around the world, Saudi Arabia intercepted five Houthi missiles over Riyadh, a shooting in Kraków left several dead, and Paraguay moves toward a new government with Santiago Peña in custody. In tech and AI, the AI boom is driving demand for metals and power, while protests against data centers grow in Spain. Have a good Sunday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
