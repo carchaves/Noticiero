@@ -1,45 +1,36 @@
 {
-  "fecha": "2026-11-08",
-  "fecha_larga": "Domingo 8 de noviembre de 2026",
+  "fecha": "2026-11-09",
+  "fecha_larga": "Lunes 9 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El papa León XIV llega a la Argentina, una visita histórica que moviliza al país",
-          "resumen": "El pontífice inicia un viaje apostólico de tres días con misas en Palermo, Córdoba y Luján; Milei lo recibe en la Casa Rosada y el Gobierno despliega un gran operativo.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-llega-a-la-argentina-una-visita-historica-que-moviliza-al-pais-nid07112026/",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "El día después de la visita papal: los próximos movimientos de Milei y las señales del mercado",
-          "resumen": "Crece la tensión interna en el Gabinete tras reuniones reservadas y gestos contrapuestos, mientras el entorno presidencial busca despejar un escenario todavía incierto.",
+          "titulo": "La visita del papa León XIV a la Argentina, en vivo: la agenda del segundo día y la expectativa por la misa en Palermo",
+          "resumen": "Segundo día de la visita papal, con la agenda que incluye el Cottolengo Don Orione, Luján y la misa central en Palermo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/08/el-dia-despues-de-la-visita-papal-los-proximos-movimientos-de-milei-las-senales-del-mercado-y-la-manta-corta-que-preocupa-al-gabinete/",
+          "url": "https://www.infobae.com/sociedad/2026/11/09/la-visita-del-papa-leon-xiv-a-la-argentina-en-vivo-la-agenda-del-segundo-dia-la-visita-a-don-orione-y-la-expectativa-por-la-misa-en-palermo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La interna entre Bullrich y el Gobierno preocupa a los aliados del Senado",
-          "resumen": "La disputa entre la jefa de bloque y el karinismo inquieta a los dialoguistas, que reclaman por los incumplimientos de la Casa Rosada de cara al fin del período ordinario.",
+          "titulo": "El Gobierno recibió de buena forma el discurso del Papa y no lo considera una crítica a la gestión",
+          "resumen": "La Casa Rosada leyó en clave positiva el mensaje de León XIV y descartó que apuntara contra la actual gestión.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/08/la-interna-entre-bullrich-y-el-gobierno-preocupa-a-los-aliados-del-senado-de-cara-al-fin-del-periodo-ordinario/",
+          "url": "https://www.infobae.com/politica/2026/11/09/el-gobierno-recibio-de-buena-forma-el-discurso-del-papa-y-no-considera-que-haya-sido-una-critica-a-la-actual-gestion/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Kicillof quiere aprobar su último Presupuesto como gobernador y le exige a Milei una deuda de $20 billones",
-          "resumen": "El proyecto bonaerense prevé un gasto total de $58,6 billones y un endeudamiento por USD 1.000 millones, en medio del reclamo por fondos a la Nación.",
+          "titulo": "El Senado prepara las últimas sesiones ordinarias: qué leyes piden oficialismo y oposición",
+          "resumen": "La Cámara alta encara el tramo final del año con una agenda de leyes en disputa entre el oficialismo y la oposición.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/08/kicillof-quiere-aprobar-su-ultimo-presupuesto-como-gobernador-y-le-exige-a-milei-una-deuda-de-20-billones/",
+          "url": "https://www.infobae.com/politica/2026/11/09/el-senado-prepara-las-ultimas-sesiones-ordinarias-que-leyes-piden-oficialismo-y-oposicion/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La SIDE informó que detuvo a una persona por amenazas de muerte contra el Papa",
-          "resumen": "El operativo se realizó en menos de 24 horas por orden de la Justicia federal de Campana, antes de la llegada de León XIV al país.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-side-informo-que-detuvo-a-una-persona-por-amenazas-de-muerte-contra-el-papa-nid07112026/",
+          "titulo": "La misa de León XIV en Luján estará dedicada a la caridad y reunirá historias de quienes construyen comunidad",
+          "resumen": "La celebración en Luján tendrá como eje la caridad y el trabajo comunitario.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/09/la-misa-de-leon-xiv-en-lujan-estara-dedicada-a-la-caridad-y-reunira-las-historias-de-quienes-construyen-comunidad/",
           "fuentes_extra": []
         }
       ]
@@ -48,40 +39,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El Gobierno busca encapsular la suba del riesgo país para evitar un impacto en el dólar y la actividad",
-          "resumen": "La caída de los bonos refleja mayor desconfianza de los inversores; las derrotas de Bolsonaro y de los republicanos en EE.UU. pesaron como impactos negativos para Milei.",
+          "titulo": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea del Gobierno con el mercado",
+          "resumen": "Análisis de por qué la escalada del riesgo país no se trasladó al tipo de cambio y qué define la tensión con los mercados.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/08/el-gobierno-busca-encapsular-la-suba-del-riesgo-pais-para-evitar-un-impacto-en-el-dolar-y-la-actividad/",
-          "fuentes_extra": [
-            "La Nación"
-          ]
-        },
-        {
-          "titulo": "Martín Redrado: \"La Argentina necesita una segunda etapa de este programa\"",
-          "resumen": "El expresidente del Banco Central advierte que en 2027 el Tesoro deberá afrontar vencimientos por US$20.000 millones sin acceso a los mercados, en plena campaña electoral.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/martin-redrado-la-argentina-necesita-una-segunda-etapa-de-este-programa-nid08112026/",
+          "url": "https://www.infobae.com/economia/2026/11/09/por-que-la-suba-del-riesgo-pais-no-movio-al-dolar-claves-de-la-pelea-principal-del-gobierno-con-el-mercado/",
           "fuentes_extra": []
         },
         {
-          "titulo": "¿Habrá menos autos chinos? Todo lo que hay que saber del cupo de híbridos y eléctricos de 2027",
-          "resumen": "El Gobierno redefinió el reparto de autos que no pagan arancel de importación: Tesla ocupará un 10% y se reduce la cuota del resto.",
+          "titulo": "Los dólares del RIGI: cuánto tardarán en concretarse los USD 76.000 millones de inversiones aprobadas",
+          "resumen": "Las inversiones aprobadas bajo el RIGI suman USD 76.000 millones, pero su desembolso llevará tiempo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/08/habra-menos-autos-chinos-todo-lo-que-hay-que-saber-del-cupo-de-autos-hibridos-y-electricos-de-2027/",
+          "url": "https://www.infobae.com/economia/2026/11/09/los-dolares-del-rigi-cuanto-tardaran-en-concretarse-los-usd-76000-millones-de-las-inversiones-aprobadas/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Clima de Negocios: en medio del ruido financiero, los empresarios locales siguen de compras",
-          "resumen": "Entre la salida de multinacionales y las privatizaciones, los grupos locales ganan protagonismo en las fusiones y adquisiciones.",
+          "titulo": "Contra viento y marea: la base monetaria cayó más del 13% en 12 meses y Milei ratificó que no la aflojará",
+          "resumen": "El Gobierno sostiene la contracción monetaria pese a la volatilidad financiera.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/08/clima-de-negocios-en-medio-del-ruido-financiero-los-empresarios-locales-siguen-de-compras-y-miran-atentos-una-norma-del-gobierno/",
+          "url": "https://www.infobae.com/economia/2026/11/09/contra-viento-y-marea-en-los-ultimos-12-meses-la-base-monetaria-cayo-mas-del-13-y-milei-ratifico-que-no-piensa-aflojarla/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Ajuste deflacionario con boom de dólares",
-          "resumen": "El ingreso histórico de divisas por exportaciones energéticas y agrícolas fortalece las reservas del Banco Central, aunque el consumo doméstico sigue deprimido.",
+          "titulo": "Las recientes elecciones en EEUU reavivaron el interés por construir data centers en la Patagonia",
+          "resumen": "El nuevo escenario político en Estados Unidos renueva el atractivo de la Patagonia para centros de datos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/opinion/2026/11/08/ajuste-deflacionario-con-boom-de-dolares/",
+          "url": "https://www.infobae.com/economia/2026/11/09/las-recientes-elecciones-en-eeuu-reavivaron-el-interes-por-la-construccion-de-data-centers-en-la-patagonia/",
           "fuentes_extra": []
         }
       ]
@@ -90,42 +72,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "León XIV cierra su visita a Uruguay con una misa en Florida antes de volar a la Argentina",
-          "resumen": "El Papa concluye el primer destino de su gira sudamericana con una liturgia por la Virgen de los Treinta y Tres, patrona del país.",
+          "titulo": "Tiroteo en Polonia: murió el autor del ataque que dejó seis muertos y 15 heridos en el centro de Cracovia",
+          "resumen": "El atacante falleció tras un tiroteo que dejó seis muertos y 15 heridos en el centro de Cracovia.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/america-latina/2026/11/08/papa-leon-xiv-en-vivo-las-ultimas-noticias-de-su-gira-sudamericana-hoy-8-de-noviembre/",
-          "fuentes_extra": [
-            "France 24"
-          ]
-        },
-        {
-          "titulo": "Arabia Saudita interceptó cinco misiles disparados por los rebeldes hutíes sobre Riad y el sur",
-          "resumen": "Las defensas aéreas abatieron dos artefactos de crucero y tres balísticos al ingresar en el espacio aéreo, según el portavoz militar Turki al Maliki.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/08/arabia-saudita-intercepto-cinco-misiles-disparados-por-los-rebeldes-huties-sobre-riad-y-el-sur/",
+          "url": "https://www.infobae.com/america/mundo/2026/11/09/tiroteo-en-polonia-murio-el-autor-del-ataque-que-dejo-seis-muertos-y-15-heridos-en-el-centro-de-cracovia/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Polonia: un tiroteo en el corazón de Cracovia deja varios muertos y heridos",
-          "resumen": "El ataque se produjo en el centro histórico de una de las ciudades más visitadas del país, según informaron las autoridades.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/video/20261108-polonia-tiroteo-en-el-coraz%C3%B3n-de-cracovia-deja-varios-muertos-y-heridos",
+          "titulo": "Los cancilleres del G7 se reúnen en París para abordar la guerra en Ucrania y la tensión con Irán",
+          "resumen": "El G7 se reúne en París con la guerra en Ucrania y la presión europea sobre EEUU frente a Irán en la agenda.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/09/los-cancilleres-del-g7-se-reunen-en-paris-para-abordar-la-guerra-en-ucrania-y-la-tension-con-iran-ante-la-presion-de-europa-sobre-eeuu/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Santiago Peña permanecerá en prisión preventiva mientras Paraguay encamina un nuevo Gobierno",
-          "resumen": "El expresidente fue recluido en el Regimiento Escolta Presidencial de Asunción tras considerar la Justicia necesaria la medida para asegurar su comparecencia.",
+          "titulo": "Trump espera una reunión trilateral con Putin y Xi Jinping durante la cumbre del APEC en China",
+          "resumen": "El presidente de EEUU busca un encuentro a tres con Putin y Xi en el marco del APEC la próxima semana.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/america-latina/2026/11/08/santiago-pena-permanecera-en-prision-preventiva-mientras-paraguay-da-paso-a-un-nuevo-gobierno/",
-          "fuentes_extra": [
-            "France 24"
-          ]
+          "url": "https://www.infobae.com/america/mundo/2026/11/09/trump-espera-mantener-una-reunion-trilateral-con-putin-y-xi-jinping-durante-la-cumbre-del-apec-en-china-la-proxima-semana/",
+          "fuentes_extra": []
         },
         {
-          "titulo": "Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel",
-          "resumen": "El presidente Isaac Herzog encomendó al líder de Yashar! formar una coalición tras recibir el apoyo de 67 diputados.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261108-qui%C3%A9n-es-gadi-eisenkot-el-general-retirado-encargado-de-formar-gobierno-en-israel",
+          "titulo": "Nvidia investiga a su CEO por una relación extramatrimonial con una presunta espía china",
+          "resumen": "La compañía abrió una investigación interna sobre su máximo directivo por un presunto vínculo con una espía.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/nvidia-investiga-a-su-ceo-por-una-relacion-extramatrimonial-con-una-presunta-espia-china-nid08112026/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La COP31 comienza en Turquía con el desafío de acelerar la transición energética y garantizar fondos",
+          "resumen": "Arranca la cumbre climática COP31 con foco en financiamiento y transición energética ante la crisis climática.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/09/la-cop31-comienza-en-turquia-con-el-desafio-de-acelerar-la-transicion-energetica-y-garantizar-fondos-ante-a-la-crisis-climatica/",
           "fuentes_extra": []
         }
       ]
@@ -134,38 +112,31 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "La fiebre de la IA crea otro problema: hacen falta toneladas de metal para darle electricidad",
-          "resumen": "El crecimiento de los centros de datos dispara la demanda de cobre y otros metales para sostener su enorme consumo eléctrico.",
+          "titulo": "Corea del Sur, termómetro de la IA: sus fabricantes de chips pagan las dudas de Wall Street",
+          "resumen": "La volatilidad de Wall Street sobre la IA golpea a los fabricantes de chips surcoreanos.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/energia/fiebre-ia-esta-creando-otro-problema-necesitamos-toneladas-metal-para-poder-darle-electricidad",
+          "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
           "fuentes_extra": []
         },
         {
-          "titulo": "Un jurista propone que cada respuesta de un chatbot basada en noticias genere un pago a los medios",
-          "resumen": "El 10% de las personas ya usa chatbots para informarse cada semana, según una encuesta del Instituto Reuters citada por DW.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/08/jurista-propone-que-cada-respuesta-de-un-chatbot-basada-en-noticias-genere-un-pago-a-los-medios/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Zaragoza sale a la calle contra los centros de datos: \"No generan empleo ni pagan impuestos\"",
-          "resumen": "Miles de personas protestaron en la capital de la región favorita de los datacenters en España, en el Día Europeo contra los centros de datos.",
+          "titulo": "Las farmacéuticas no creen que la IA vaya a curar enfermedades: Vertex probó con 50 empresas y ninguna logró un fármaco viable",
+          "resumen": "Ejecutivos farmacéuticos se muestran escépticos: Vertex testeó medio centenar de empresas de IA sin resultados.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/zaragoza-sale-a-calle-centros-datos-no-generan-empleo-no-pagan-impuestos-se-quedan-todos-recursos",
+          "url": "https://www.xataka.com/robotica-e-ia/consejeros-delegados-farmaceuticas-no-se-creen-que-ia-vaya-a-curar-enfermedades-vertex-probo-unas-50-empresas-ia-ninguna-logro-farmaco-viable",
           "fuentes_extra": []
         },
         {
-          "titulo": "De Marte a la conciencia: el dilema más antiguo de la Filosofía acelera con su \"momento IA\"",
-          "resumen": "Para saber si la inteligencia artificial puede llegar a tener conciencia, antes hay que entender cómo funciona en el ser humano.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/de-marte-a-la-conciencia-el-dilema-mas-antiguo-de-la-filosofia-acelera-motores-con-su-momento-ia-nid08112026/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Lituania, con 2,9 millones de habitantes, compite con China fabricando láseres para chips de IA",
-          "resumen": "El pequeño país báltico se posiciona en la cadena de suministro clave para la producción en serie de semiconductores.",
+          "titulo": "Elon Musk cree que muchas 'neoclouds' desaparecerán; Jensen Huang dice que ni de coña",
+          "resumen": "Musk y el CEO de Nvidia discrepan sobre el futuro de los proveedores emergentes de nube para IA.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/lituania-tiene-2-9-millones-habitantes-compite-china-fabricando-laseres-para-chips-ia-serie",
+          "url": "https://www.xataka.com/robotica-e-ia/elon-musk-esta-convencido-que-muchas-neoclouds-desapareceran-jensen-huang-dice-que-cona",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La llegada de las IA con 'automejora recursiva': qué significa que Astra haya ayudado a modificar otro modelo",
+          "resumen": "Un modelo de IA ayudó a modificar otro, abriendo el debate sobre la automejora recursiva, sus riesgos y beneficios.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/llegada-ia-automejora-recursiva-que-significa-que-astra-haya-ayudado-a-modificar-otro-modelo-ia-que-riesgos-beneficios-conlleva",
           "fuentes_extra": []
         }
       ]
@@ -174,46 +145,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Cinco ofertas para aprovechar los primeros adelantos del Black Friday en MediaMarkt y El Corte Inglés",
-          "resumen": "Las tiendas arrancaron noviembre con sus primeras campañas del Black Friday y ya dejan buenos descuentos.",
+          "titulo": "AMD está a las puertas de lograr algo inédito: superar a Intel",
+          "resumen": "AMD se acerca a adelantar a Intel por primera vez en su historia.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/seleccion/cinco-ofertas-para-aprovechar-primeros-adelantos-black-friday-mediamarkt-corte-ingles-hoy-8-noviembre",
+          "url": "https://www.xataka.com/empresas-y-economia/amd-va-a-adelantar-a-intel-primera-vez-su-historia",
           "fuentes_extra": []
         },
         {
-          "titulo": "TCL mostró dos televisores Mini LED por dentro: el nombre no siempre significa lo mismo",
-          "resumen": "Un vistazo a las entrañas de dos paneles revela por qué una misma tecnología puede dar resultados muy distintos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/televisores/tcl-nos-ha-mostrado-dos-televisores-mini-led-dentro-para-ensenarnos-algo-importante-nombre-no-siempre-significa",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Ya es oficial: Elon Musk anuncia el principio del fin del Cybertruck y su nueva apuesta para 2027",
-          "resumen": "Tesla da por cerrada la etapa del polémico pickup y adelanta un nuevo producto estrella para el año próximo.",
+          "titulo": "Elon Musk anuncia el principio del fin del Cybertruck y su nueva gran apuesta para 2027",
+          "resumen": "Tesla marca el ocaso del Cybertruck mientras Musk adelanta su próximo proyecto para 2027.",
           "fuente": "Xataka",
           "url": "https://www.xataka.com/movilidad/oficial-elon-musk-anuncia-principio-fin-cybertruck-su-nueva-gran-apuesta-para-2027",
           "fuentes_extra": []
         },
         {
-          "titulo": "EE.UU. miró por satélite una fábrica china y encontró algo que no le gusta: cuatro aviones",
-          "resumen": "Imágenes satelitales revelan nuevos modelos que podrían cambiar el equilibrio de la guerra aérea en el Pacífico.",
+          "titulo": "NVIDIA solo quiere saber si Jensen Huang filtró secretos. Es la pregunta menos inquietante",
+          "resumen": "La investigación interna de Nvidia sobre su CEO abre interrogantes más amplios sobre la compañía.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/magnet/eeuu-ha-mirado-satelite-fabrica-china-ha-encontrado-algo-que-no-le-gusta-cuatro-aviones-para-cambiar-guerra-aerea-pacifico",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-solo-quiere-saber-jensen-huang-filtro-secretos-pregunta-inquietante",
           "fuentes_extra": []
         },
         {
-          "titulo": "Pitidos molestos y ruidos extraños: cómo conectábamos los primitivos módems a internet",
-          "resumen": "Un repaso nostálgico por la era de las conexiones telefónicas y su inconfundible secuencia de sonidos.",
+          "titulo": "BYD lanzó su superdeportivo más extremo: 503 km/h en busca de un récord de velocidad",
+          "resumen": "La automotriz china presentó un hiperdeportivo capaz de 503 km/h para batir marcas de velocidad.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/historia-tecnologica/pitidos-molestos-ruidos-extranos-toda-odisea-como-conectabamos-primitivos-modems-a-internet",
+          "url": "https://www.xataka.com/movilidad/byd-ha-lanzado-su-superdeportivo-extremo-a-503-km-h-para-conseguir-nuevo-record-velocidad",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. El tema del día es la llegada del papa León XIV a la Argentina: arranca una visita histórica de tres días con misas en Palermo, Córdoba y Luján, Milei lo recibe en la Casa Rosada y hubo un gran operativo de seguridad, después de que la SIDE detuviera a una persona por amenazas. En la política, crece la interna entre Patricia Bullrich y el Gobierno, y Kicillof busca aprobar su último presupuesto como gobernador. En la economía, el Gobierno intenta contener la suba del riesgo país para que no golpee al dólar, mientras Redrado advierte por los vencimientos de deuda de 2027. En el mundo, Arabia Saudita interceptó cinco misiles hutíes sobre Riad, hubo un tiroteo con varios muertos en Cracovia y Paraguay encamina un nuevo gobierno con Santiago Peña preso. Y en tecnología e inteligencia artificial, la fiebre de la IA dispara la demanda de metales y energía, mientras en España crecen las protestas contra los centros de datos. Buen domingo.",
-    "texto_en": "Good morning Charly. The big story today is the arrival of Pope Leo the Fourteenth in Argentina: a historic three-day visit begins, with masses in Palermo, Córdoba and Luján. Milei welcomes him at the Casa Rosada amid a major security operation, after intelligence services arrested someone over threats. In politics, the feud between Patricia Bullrich and the government is deepening, while Kicillof pushes to pass his final budget as governor. In the economy, the government is trying to contain a rising country risk so it doesn't hit the dollar, as Redrado warns about 2027 debt maturities. Around the world, Saudi Arabia intercepted five Houthi missiles over Riyadh, a shooting in Kraków left several dead, and Paraguay moves toward a new government with Santiago Peña in custody. In tech and AI, the AI boom is driving demand for metals and power, while protests against data centers grow in Spain. Have a good Sunday.",
+    "texto_es": "Buenos días Charly. Arrancamos la semana con el papa León XIV en su segundo día en la Argentina: hoy pasa por el Cottolengo Don Orione, Luján y cierra con la misa en Palermo. El Gobierno tomó bien su discurso y asegura que no fue una crítica a la gestión. En lo económico, la suba del riesgo país no movió al dólar, y Milei ratificó que no afloja la base monetaria, que cayó más del trece por ciento en el año. En el mundo, un tiroteo en Cracovia dejó seis muertos y el atacante murió; los cancilleres del G7 se reúnen en París por Ucrania e Irán, y arranca la COP31 en Turquía. En tecnología, AMD está por superar a Intel por primera vez en su historia, Nvidia investiga a su CEO, y en inteligencia artificial crece el debate sobre modelos que se mejoran a sí mismos. Buen comienzo de semana.",
+    "texto_en": "Good morning Charly. The week starts with Pope Leo the Fourteenth on his second day in Argentina, visiting the Cottolengo Don Orione and Luján before the main Mass in Palermo. The government welcomed his speech and says it was not a criticism of its policies. On the economy, a jump in country risk did not move the dollar, and Milei reaffirmed he won't loosen the monetary base, down more than thirteen percent this year. Abroad, a shooting in Krakow left six dead and the attacker dead; G7 foreign ministers meet in Paris over Ukraine and Iran, and the COP31 climate summit opens in Turkey. In tech, AMD is about to overtake Intel for the first time ever, Nvidia is investigating its CEO, and debate grows around AI models that improve themselves. Have a great start to the week.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
