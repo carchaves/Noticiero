@@ -1,36 +1,38 @@
 {
-  "fecha": "2026-11-09",
-  "fecha_larga": "Lunes 9 de noviembre de 2026",
+  "fecha": "2026-11-10",
+  "fecha_larga": "Martes 10 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "La visita del papa León XIV a la Argentina, en vivo: la agenda del segundo día y la expectativa por la misa en Palermo",
-          "resumen": "Segundo día de la visita papal, con la agenda que incluye el Cottolengo Don Orione, Luján y la misa central en Palermo.",
+          "titulo": "Argentina va al Tribunal del Mar para frenar la explotación de Sea Lion en Malvinas",
+          "resumen": "Este martes comienzan las audiencias en el organismo internacional con los argumentos argentinos contra el Reino Unido.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/sociedad/2026/11/09/la-visita-del-papa-leon-xiv-a-la-argentina-en-vivo-la-agenda-del-segundo-dia-la-visita-a-don-orione-y-la-expectativa-por-la-misa-en-palermo/",
+          "url": "https://www.infobae.com/politica/2026/11/10/argentina-va-al-tribunal-del-mar-para-frenar-sea-lion-en-malvinas-los-argumentos-contra-el-reino-unido/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno recibió de buena forma el discurso del Papa y no lo considera una crítica a la gestión",
-          "resumen": "La Casa Rosada leyó en clave positiva el mensaje de León XIV y descartó que apuntara contra la actual gestión.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/09/el-gobierno-recibio-de-buena-forma-el-discurso-del-papa-y-no-considera-que-haya-sido-una-critica-a-la-actual-gestion/",
+          "titulo": "El Papa León XIV reivindicó a Angelelli y pidió a los obispos ocuparse de desempleados y ancianos",
+          "resumen": "En su visita al país, el Pontífice reclamó inversiones con responsabilidad social y foco en la dignidad del trabajo.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-papa-reivindico-a-angelelli-y-les-encargo-a-los-obispos-ocuparse-de-los-pobres-desempleados-y-nid09112026/",
+          "fuentes_extra": [
+            "Infobae"
+          ]
+        },
+        {
+          "titulo": "En paralelo a la visita del Papa a Córdoba, Llaryora sube el perfil y critica la gestión de Milei",
+          "resumen": "El gobernador cordobés aprovecha la agenda papal para marcar diferencias con el Gobierno nacional.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/en-paralelo-a-la-visita-del-papa-a-cordoba-llaryora-levanta-el-perfil-y-critica-a-la-gestion-de-nid10112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Senado prepara las últimas sesiones ordinarias: qué leyes piden oficialismo y oposición",
-          "resumen": "La Cámara alta encara el tramo final del año con una agenda de leyes en disputa entre el oficialismo y la oposición.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/09/el-senado-prepara-las-ultimas-sesiones-ordinarias-que-leyes-piden-oficialismo-y-oposicion/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "La misa de León XIV en Luján estará dedicada a la caridad y reunirá historias de quienes construyen comunidad",
-          "resumen": "La celebración en Luján tendrá como eje la caridad y el trabajo comunitario.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/09/la-misa-de-leon-xiv-en-lujan-estara-dedicada-a-la-caridad-y-reunira-las-historias-de-quienes-construyen-comunidad/",
+          "titulo": "Trastienda en la UCA: invitados VIP, ausencias y las lecturas del mensaje del Papa a empresarios y sindicalistas",
+          "resumen": "El discurso ante el mundo del trabajo dejó interpretaciones políticas cruzadas.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/trastienda-en-la-uca-invitados-vip-ausencias-y-las-lecturas-que-provoco-el-mensaje-del-papa-ante-nid09112026/",
           "fuentes_extra": []
         }
       ]
@@ -39,31 +41,33 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Por qué la suba del riesgo país no movió al dólar: claves de la pelea del Gobierno con el mercado",
-          "resumen": "Análisis de por qué la escalada del riesgo país no se trasladó al tipo de cambio y qué define la tensión con los mercados.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/09/por-que-la-suba-del-riesgo-pais-no-movio-al-dolar-claves-de-la-pelea-principal-del-gobierno-con-el-mercado/",
+          "titulo": "El riesgo país perforó los 900 puntos y las acciones argentinas rebotaron en Wall Street",
+          "resumen": "Alivio en el exterior tras un rally de los activos locales; los papeles argentinos subieron con fuerza.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/alivio-en-el-exterior-el-riesgo-pais-perfora-los-900-puntos-y-las-acciones-argentinas-rebotan-3-en-nid09112026/",
+          "fuentes_extra": [
+            "Infobae"
+          ]
+        },
+        {
+          "titulo": "YPF alista la licitación de tubos para el mayor gasoducto de Sudamérica y Techint va por la revancha",
+          "resumen": "La petrolera prepara un contrato clave para la infraestructura de transporte de gas.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/ypf-alista-la-licitacion-de-tubos-para-el-gasoducto-mas-grande-de-america-del-sur-y-techint-va-por-nid08112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los dólares del RIGI: cuánto tardarán en concretarse los USD 76.000 millones de inversiones aprobadas",
-          "resumen": "Las inversiones aprobadas bajo el RIGI suman USD 76.000 millones, pero su desembolso llevará tiempo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/09/los-dolares-del-rigi-cuanto-tardaran-en-concretarse-los-usd-76000-millones-de-las-inversiones-aprobadas/",
+          "titulo": "Los empresarios del Grupo de los Seis propondrán una mesa de diálogo nacional tras la visita del Papa",
+          "resumen": "El sector privado busca canalizar en una agenda común el mensaje social del Pontífice.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/los-empresarios-del-grupo-de-los-seis-propondran-una-mesa-de-dialogo-nacional-tras-la-visita-del-nid08112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Contra viento y marea: la base monetaria cayó más del 13% en 12 meses y Milei ratificó que no la aflojará",
-          "resumen": "El Gobierno sostiene la contracción monetaria pese a la volatilidad financiera.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/09/contra-viento-y-marea-en-los-ultimos-12-meses-la-base-monetaria-cayo-mas-del-13-y-milei-ratifico-que-no-piensa-aflojarla/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Las recientes elecciones en EEUU reavivaron el interés por construir data centers en la Patagonia",
-          "resumen": "El nuevo escenario político en Estados Unidos renueva el atractivo de la Patagonia para centros de datos.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/09/las-recientes-elecciones-en-eeuu-reavivaron-el-interes-por-la-construccion-de-data-centers-en-la-patagonia/",
+          "titulo": "El manual de Marcos Galperin para construir su sueño llamado Mercado Libre",
+          "resumen": "Un repaso por las decisiones que convirtieron a la compañía en el gigante regional del comercio electrónico.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/negocios/el-manual-de-marcos-galperin-para-construir-su-sueno-llamado-mercado-libre-nid09112026/",
           "fuentes_extra": []
         }
       ]
@@ -72,38 +76,38 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Tiroteo en Polonia: murió el autor del ataque que dejó seis muertos y 15 heridos en el centro de Cracovia",
-          "resumen": "El atacante falleció tras un tiroteo que dejó seis muertos y 15 heridos en el centro de Cracovia.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/09/tiroteo-en-polonia-murio-el-autor-del-ataque-que-dejo-seis-muertos-y-15-heridos-en-el-centro-de-cracovia/",
+          "titulo": "El Hierro al límite: 8.000 migrantes llegaron en barca en cinco semanas a la isla canaria",
+          "resumen": "La afluencia de cayucos pone el sistema sanitario de los 12.000 habitantes al borde del colapso.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c5vgjg9dvjgzo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los cancilleres del G7 se reúnen en París para abordar la guerra en Ucrania y la tensión con Irán",
-          "resumen": "El G7 se reúne en París con la guerra en Ucrania y la presión europea sobre EEUU frente a Irán en la agenda.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/09/los-cancilleres-del-g7-se-reunen-en-paris-para-abordar-la-guerra-en-ucrania-y-la-tension-con-iran-ante-la-presion-de-europa-sobre-eeuu/",
+          "titulo": "Los demócratas recuperan la Cámara: las cuatro investigaciones que pueden abrir contra Trump",
+          "resumen": "Tras tomar control del Congreso, prometen una oleada de pesquisas sobre la administración.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/ck8dz3494l5yo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Trump espera una reunión trilateral con Putin y Xi Jinping durante la cumbre del APEC en China",
-          "resumen": "El presidente de EEUU busca un encuentro a tres con Putin y Xi en el marco del APEC la próxima semana.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/09/trump-espera-mantener-una-reunion-trilateral-con-putin-y-xi-jinping-durante-la-cumbre-del-apec-en-china-la-proxima-semana/",
+          "titulo": "Un congresista republicano inicia el impeachment al secretario de Defensa por la guerra en Irán",
+          "resumen": "El proceso apunta a la responsabilidad del funcionario en el conflicto con Teherán.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o",
           "fuentes_extra": []
         },
         {
-          "titulo": "Nvidia investiga a su CEO por una relación extramatrimonial con una presunta espía china",
-          "resumen": "La compañía abrió una investigación interna sobre su máximo directivo por un presunto vínculo con una espía.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/nvidia-investiga-a-su-ceo-por-una-relacion-extramatrimonial-con-una-presunta-espia-china-nid08112026/",
+          "titulo": "Paraguay: la Fiscalía intenta abrir una bóveda oculta en una propiedad del expresidente Santiago Peña",
+          "resumen": "El allanamiento se enmarca en la investigación por el caso Ueno Bank.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo",
           "fuentes_extra": []
         },
         {
-          "titulo": "La COP31 comienza en Turquía con el desafío de acelerar la transición energética y garantizar fondos",
-          "resumen": "Arranca la cumbre climática COP31 con foco en financiamiento y transición energética ante la crisis climática.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/09/la-cop31-comienza-en-turquia-con-el-desafio-de-acelerar-la-transicion-energetica-y-garantizar-fondos-ante-a-la-crisis-climatica/",
+          "titulo": "A tres meses del terremoto en Colombia, la solidaridad ciudadana desplaza al Estado",
+          "resumen": "Unos 500 municipios de 16 departamentos sufrieron daños y la ayuda oficial empieza a mermar.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
           "fuentes_extra": []
         }
       ]
@@ -112,32 +116,20 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Corea del Sur, termómetro de la IA: sus fabricantes de chips pagan las dudas de Wall Street",
-          "resumen": "La volatilidad de Wall Street sobre la IA golpea a los fabricantes de chips surcoreanos.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
+          "titulo": "Apple, contra el 'tokenmaxxing': limita el gasto en IA de sus ingenieros de US$300 a US$200 diarios",
+          "resumen": "La compañía recorta el presupuesto de uso de herramientas de IA generativa de sus equipos internos.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/apple-en-contra-del-tokenmaxxing-limita-el-gasto-en-ia-de-sus-ingenieros-de-us300-a-200-diarios-nid09112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Las farmacéuticas no creen que la IA vaya a curar enfermedades: Vertex probó con 50 empresas y ninguna logró un fármaco viable",
-          "resumen": "Ejecutivos farmacéuticos se muestran escépticos: Vertex testeó medio centenar de empresas de IA sin resultados.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/consejeros-delegados-farmaceuticas-no-se-creen-que-ia-vaya-a-curar-enfermedades-vertex-probo-unas-50-empresas-ia-ninguna-logro-farmaco-viable",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Elon Musk cree que muchas 'neoclouds' desaparecerán; Jensen Huang dice que ni de coña",
-          "resumen": "Musk y el CEO de Nvidia discrepan sobre el futuro de los proveedores emergentes de nube para IA.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/elon-musk-esta-convencido-que-muchas-neoclouds-desapareceran-jensen-huang-dice-que-cona",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "La llegada de las IA con 'automejora recursiva': qué significa que Astra haya ayudado a modificar otro modelo",
-          "resumen": "Un modelo de IA ayudó a modificar otro, abriendo el debate sobre la automejora recursiva, sus riesgos y beneficios.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/llegada-ia-automejora-recursiva-que-significa-que-astra-haya-ayudado-a-modificar-otro-modelo-ia-que-riesgos-beneficios-conlleva",
-          "fuentes_extra": []
+          "titulo": "Investigan al CEO de Nvidia por una relación con una mujer señalada como espía china",
+          "resumen": "La propia empresa indaga el vínculo de Jensen Huang, con posibles repercusiones en EE.UU. y más allá.",
+          "fuente": "BBC Mundo",
+          "url": "https://www.bbc.com/mundo/articles/c6p9g97x540jo",
+          "fuentes_extra": [
+            "BBC Mundo"
+          ]
         }
       ]
     },
@@ -145,39 +137,32 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "AMD está a las puertas de lograr algo inédito: superar a Intel",
-          "resumen": "AMD se acerca a adelantar a Intel por primera vez en su historia.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/amd-va-a-adelantar-a-intel-primera-vez-su-historia",
+          "titulo": "Sony resucita los míticos auriculares naranja Walkman MDR-3, ahora con conector USB-C",
+          "resumen": "Una edición de aniversario rescata el diseño clásico con conectividad moderna.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/sony-resucita-los-miticos-auriculares-naranja-walkman-mdr-3-ahora-con-conector-usb-c-y-edicion-nid09112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Elon Musk anuncia el principio del fin del Cybertruck y su nueva gran apuesta para 2027",
-          "resumen": "Tesla marca el ocaso del Cybertruck mientras Musk adelanta su próximo proyecto para 2027.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/oficial-elon-musk-anuncia-principio-fin-cybertruck-su-nueva-gran-apuesta-para-2027",
+          "titulo": "WhatsApp ya permite programar mensajes: cómo funciona en el celular y en WhatsApp Web",
+          "resumen": "La app suma una función esperada para dejar mensajes listos y enviarlos a una hora determinada.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/whatsapp-ya-permite-programar-mensajes-como-funciona-en-el-celular-y-en-whatsapp-web-nid04112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "NVIDIA solo quiere saber si Jensen Huang filtró secretos. Es la pregunta menos inquietante",
-          "resumen": "La investigación interna de Nvidia sobre su CEO abre interrogantes más amplios sobre la compañía.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-solo-quiere-saber-jensen-huang-filtro-secretos-pregunta-inquietante",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "BYD lanzó su superdeportivo más extremo: 503 km/h en busca de un récord de velocidad",
-          "resumen": "La automotriz china presentó un hiperdeportivo capaz de 503 km/h para batir marcas de velocidad.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/byd-ha-lanzado-su-superdeportivo-extremo-a-503-km-h-para-conseguir-nuevo-record-velocidad",
+          "titulo": "Por qué conviene reiniciar el router una vez por semana: lo que los técnicos no te cuentan",
+          "resumen": "Un gesto simple que mejora el rendimiento y la estabilidad de la conexión hogareña.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/tecnologia/por-que-conviene-reiniciar-el-router-una-vez-por-semana-lo-que-los-tecnicos-no-te-cuentan-nid06112026/",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos la semana con el papa León XIV en su segundo día en la Argentina: hoy pasa por el Cottolengo Don Orione, Luján y cierra con la misa en Palermo. El Gobierno tomó bien su discurso y asegura que no fue una crítica a la gestión. En lo económico, la suba del riesgo país no movió al dólar, y Milei ratificó que no afloja la base monetaria, que cayó más del trece por ciento en el año. En el mundo, un tiroteo en Cracovia dejó seis muertos y el atacante murió; los cancilleres del G7 se reúnen en París por Ucrania e Irán, y arranca la COP31 en Turquía. En tecnología, AMD está por superar a Intel por primera vez en su historia, Nvidia investiga a su CEO, y en inteligencia artificial crece el debate sobre modelos que se mejoran a sí mismos. Buen comienzo de semana.",
-    "texto_en": "Good morning Charly. The week starts with Pope Leo the Fourteenth on his second day in Argentina, visiting the Cottolengo Don Orione and Luján before the main Mass in Palermo. The government welcomed his speech and says it was not a criticism of its policies. On the economy, a jump in country risk did not move the dollar, and Milei reaffirmed he won't loosen the monetary base, down more than thirteen percent this year. Abroad, a shooting in Krakow left six dead and the attacker dead; G7 foreign ministers meet in Paris over Ukraine and Iran, and the COP31 climate summit opens in Turkey. In tech, AMD is about to overtake Intel for the first time ever, Nvidia is investigating its CEO, and debate grows around AI models that improve themselves. Have a great start to the week.",
+    "texto_es": "Buenos días Charly. Hoy la Argentina pone el foco en dos frentes. En lo internacional, arrancan en el Tribunal del Mar las audiencias por Malvinas, donde el país busca frenar la explotación petrolera de Sea Lion con argumentos contra el Reino Unido. Y en lo interno sigue resonando la visita del papa León XIV: pidió ocuparse de los desempleados y los ancianos, mientras Llaryora aprovecha para marcar diferencias con Milei. En la economía, buenas noticias: el riesgo país perforó los novecientos puntos y las acciones argentinas rebotaron fuerte en Wall Street. Afuera, los demócratas recuperaron la Cámara en Estados Unidos y ya amagan con investigar a Trump. En tecnología, Apple le pone límite al gasto en inteligencia artificial de sus propios ingenieros, y se investiga al jefe de Nvidia por una relación con una presunta espía china. Que tengas un buen martes.",
+    "texto_en": "Good morning Charly. Argentina is watching two big fronts today. Internationally, hearings begin at the Tribunal for the Law of the Sea over the Falklands, where the country is trying to block Sea Lion oil drilling with arguments against the United Kingdom. At home, Pope Leo the Fourteenth's visit still echoes: he urged care for the unemployed and the elderly, while governor Llaryora uses the moment to distance himself from Milei. On the economy, good news: country risk broke below nine hundred points and Argentine stocks rebounded sharply on Wall Street. Abroad, Democrats retook the House in the United States and are already signaling investigations into Trump. In tech, Apple is capping its own engineers' spending on artificial intelligence, and Nvidia's chief is under investigation over a relationship with an alleged Chinese spy. Have a great Tuesday.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
