@@ -1,38 +1,45 @@
 {
-  "fecha": "2026-11-10",
-  "fecha_larga": "Martes 10 de noviembre de 2026",
+  "fecha": "2026-11-11",
+  "fecha_larga": "Miércoles 11 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Argentina va al Tribunal del Mar para frenar la explotación de Sea Lion en Malvinas",
-          "resumen": "Este martes comienzan las audiencias en el organismo internacional con los argumentos argentinos contra el Reino Unido.",
+          "titulo": "La visita del Papa León XIV entra en su tramo final y el Gobierno ansía volver a su agenda",
+          "resumen": "El cierre de la gira papal deja al oficialismo buscando retomar la iniciativa política tras una semana marcada por los mensajes de justicia social de León XIV.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/10/argentina-va-al-tribunal-del-mar-para-frenar-sea-lion-en-malvinas-los-argumentos-contra-el-reino-unido/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El Papa León XIV reivindicó a Angelelli y pidió a los obispos ocuparse de desempleados y ancianos",
-          "resumen": "En su visita al país, el Pontífice reclamó inversiones con responsabilidad social y foco en la dignidad del trabajo.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-papa-reivindico-a-angelelli-y-les-encargo-a-los-obispos-ocuparse-de-los-pobres-desempleados-y-nid09112026/",
+          "url": "https://www.infobae.com/politica/2026/11/11/la-visita-del-papa-entra-en-su-tramo-final-y-el-gobierno-ansia-volver-a-la-agenda-propia/",
           "fuentes_extra": [
-            "Infobae"
+            "France 24"
           ]
         },
         {
-          "titulo": "En paralelo a la visita del Papa a Córdoba, Llaryora sube el perfil y critica la gestión de Milei",
-          "resumen": "El gobernador cordobés aprovecha la agenda papal para marcar diferencias con el Gobierno nacional.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/en-paralelo-a-la-visita-del-papa-a-cordoba-llaryora-levanta-el-perfil-y-critica-a-la-gestion-de-nid10112026/",
+          "titulo": "El peronismo cree que los mensajes de León XIV legitiman sus reclamos a Milei, pero esquiva politizar la visita",
+          "resumen": "La oposición lee las palabras del Papa como respaldo a sus críticas sociales, aunque evita capitalizar abiertamente la gira.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/11/el-peronismo-cree-que-los-mensajes-de-leon-xiv-legitiman-sus-reclamos-a-milei-pero-esquiva-politizar-la-visita/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Trastienda en la UCA: invitados VIP, ausencias y las lecturas del mensaje del Papa a empresarios y sindicalistas",
-          "resumen": "El discurso ante el mundo del trabajo dejó interpretaciones políticas cruzadas.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/trastienda-en-la-uca-invitados-vip-ausencias-y-las-lecturas-que-provoco-el-mensaje-del-papa-ante-nid09112026/",
+          "titulo": "Las negociaciones por el Presupuesto 2027 siguen sin definiciones y los aliados ya desconfían del Gobierno",
+          "resumen": "El oficialismo no cierra acuerdos clave y crece la tensión con los bloques aliados que reclaman certezas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/11/las-negociaciones-por-el-presupuesto-2027-siguen-sin-definiciones-y-los-aliados-ya-desconfian-del-gobierno/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Argentina y el Reino Unido cierran sus argumentos ante el Tribunal del Mar por Malvinas",
+          "resumen": "Ambos países presentaron sus alegatos finales y se espera definición sobre cuándo llegaría el fallo.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/11/argentina-y-el-reino-unido-cierran-sus-argumentos-ante-el-tribunal-del-mar-por-malvinas-cuando-llegaria-el-fallo/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Renunció el vicepresidente del directorio de la Autoridad Regulatoria Nuclear",
+          "resumen": "La salida abre un interrogante sobre la conducción del organismo que supervisa la actividad nuclear del país.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/11/renuncio-el-vicepresidente-del-directorio-de-la-autoridad-regulatoria-nuclear/",
           "fuentes_extra": []
         }
       ]
@@ -41,33 +48,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El riesgo país perforó los 900 puntos y las acciones argentinas rebotaron en Wall Street",
-          "resumen": "Alivio en el exterior tras un rally de los activos locales; los papeles argentinos subieron con fuerza.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/alivio-en-el-exterior-el-riesgo-pais-perfora-los-900-puntos-y-las-acciones-argentinas-rebotan-3-en-nid09112026/",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "YPF alista la licitación de tubos para el mayor gasoducto de Sudamérica y Techint va por la revancha",
-          "resumen": "La petrolera prepara un contrato clave para la infraestructura de transporte de gas.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/ypf-alista-la-licitacion-de-tubos-para-el-gasoducto-mas-grande-de-america-del-sur-y-techint-va-por-nid08112026/",
+          "titulo": "La inflación en EEUU fue mayor a la esperada en octubre y presiona a las tasas de la Fed",
+          "resumen": "El dato por encima de lo previsto reaviva las dudas sobre el rumbo de las tasas de la Reserva Federal.",
+          "fuente": "Ámbito",
+          "url": "https://www.ambito.com/economia/la-inflacion-eeuu-subio-mas-lo-previsto-octubre-y-presiona-las-tasas-la-fed-n6343564",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los empresarios del Grupo de los Seis propondrán una mesa de diálogo nacional tras la visita del Papa",
-          "resumen": "El sector privado busca canalizar en una agenda común el mensaje social del Pontífice.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/los-empresarios-del-grupo-de-los-seis-propondran-una-mesa-de-dialogo-nacional-tras-la-visita-del-nid08112026/",
+          "titulo": "Wall Street: acechan nubarrones en el mercado y truenos en la Fed por tasas e inflación",
+          "resumen": "Los inversores operan con cautela ante la incertidumbre sobre la política monetaria estadounidense.",
+          "fuente": "Ámbito",
+          "url": "https://www.ambito.com/economia/dialogos-wall-street-acechan-nubarrones-el-mercado-y-truenos-la-fed-tasas-e-inflacion-n6343753",
           "fuentes_extra": []
         },
         {
-          "titulo": "El manual de Marcos Galperin para construir su sueño llamado Mercado Libre",
-          "resumen": "Un repaso por las decisiones que convirtieron a la compañía en el gigante regional del comercio electrónico.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/negocios/el-manual-de-marcos-galperin-para-construir-su-sueno-llamado-mercado-libre-nid09112026/",
+          "titulo": "RIGI: advierten que dos tercios de las importaciones pueden ser abastecidas por la industria local",
+          "resumen": "Un informe cuestiona el alcance del régimen de incentivos al señalar la capacidad de la producción nacional.",
+          "fuente": "Ámbito",
+          "url": "https://www.ambito.com/economia/rigi-advierten-que-dos-tercios-las-importaciones-pueden-ser-abastecidas-la-industria-local-n6343676",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Tarifas de luz: la Provincia convocó a una audiencia pública para definir los cuadros tarifarios",
+          "resumen": "El Gobierno bonaerense abre la discusión formal sobre los nuevos valores de la energía eléctrica.",
+          "fuente": "Ámbito",
+          "url": "https://www.ambito.com/economia/tarifas-luz-la-provincia-convoco-una-audiencia-publica-definir-los-cuadros-tarifarios-n6343418",
           "fuentes_extra": []
         }
       ]
@@ -76,38 +81,31 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "El Hierro al límite: 8.000 migrantes llegaron en barca en cinco semanas a la isla canaria",
-          "resumen": "La afluencia de cayucos pone el sistema sanitario de los 12.000 habitantes al borde del colapso.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c5vgjg9dvjgzo",
+          "titulo": "Pete Hegseth sobrevive: se frustra el primer intento de destituir al jefe del Pentágono",
+          "resumen": "El secretario de Defensa de EEUU resiste la ofensiva en su contra pese a los episodios que lo acorralan.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261110-pete-hegseth-sobrevive-se-frustra-el-primer-intento-de-destituir-al-jefe-del-pent%C3%A1gono",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los demócratas recuperan la Cámara: las cuatro investigaciones que pueden abrir contra Trump",
-          "resumen": "Tras tomar control del Congreso, prometen una oleada de pesquisas sobre la administración.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/ck8dz3494l5yo",
+          "titulo": "Una \"espía\" china y una infidelidad: qué se sabe de la presunta trama de espionaje contra Nvidia",
+          "resumen": "Trascienden detalles de un presunto caso de espionaje industrial que apunta al gigante de los chips.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261110-una-esp%C3%ADa-china-y-una-infidelidad-qu%C3%A9-se-sabe-de-la-presunta-trama-de-espionaje-contra-nvidia",
           "fuentes_extra": []
         },
         {
-          "titulo": "Un congresista republicano inicia el impeachment al secretario de Defensa por la guerra en Irán",
-          "resumen": "El proceso apunta a la responsabilidad del funcionario en el conflicto con Teherán.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/cm62y2l3eng1o",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Paraguay: la Fiscalía intenta abrir una bóveda oculta en una propiedad del expresidente Santiago Peña",
-          "resumen": "El allanamiento se enmarca en la investigación por el caso Ueno Bank.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6zxjxyz1ejpo",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "A tres meses del terremoto en Colombia, la solidaridad ciudadana desplaza al Estado",
-          "resumen": "Unos 500 municipios de 16 departamentos sufrieron daños y la ayuda oficial empieza a mermar.",
+          "titulo": "A tres meses del terremoto en Colombia, la solidaridad desplaza al Gobierno en la ayuda",
+          "resumen": "Damnificados denuncian demoras oficiales mientras la asistencia vecinal sostiene a las zonas afectadas.",
           "fuente": "France 24",
           "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261110-la-ayuda-empieza-a-mermar-tres-meses-del-terremoto-en-colombia-la-solidaridad-desplaza-al-gobierno",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El diésel acorrala a Latinoamérica: transportistas chilenos presionan al presidente Kast",
+          "resumen": "Un paro de camioneros tensiona al Gobierno chileno por los costos del combustible.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
           "fuentes_extra": []
         }
       ]
@@ -116,20 +114,39 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Apple, contra el 'tokenmaxxing': limita el gasto en IA de sus ingenieros de US$300 a US$200 diarios",
-          "resumen": "La compañía recorta el presupuesto de uso de herramientas de IA generativa de sus equipos internos.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/apple-en-contra-del-tokenmaxxing-limita-el-gasto-en-ia-de-sus-ingenieros-de-us300-a-200-diarios-nid09112026/",
+          "titulo": "Nvidia pierde 190.000 millones en Bolsa y sus accionistas llevan a Jensen Huang ante los tribunales",
+          "resumen": "El desplome bursátil del líder de chips de IA deriva en demandas de inversores contra su CEO.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-pierde-190-000-millones-dolares-bolsa-sus-accionistas-llevan-a-jensen-huang-tribunales",
           "fuentes_extra": []
         },
         {
-          "titulo": "Investigan al CEO de Nvidia por una relación con una mujer señalada como espía china",
-          "resumen": "La propia empresa indaga el vínculo de Jensen Huang, con posibles repercusiones en EE.UU. y más allá.",
-          "fuente": "BBC Mundo",
-          "url": "https://www.bbc.com/mundo/articles/c6p9g97x540jo",
-          "fuentes_extra": [
-            "BBC Mundo"
-          ]
+          "titulo": "Quién es Alice Huang, la exdirectiva de Megaspeed que puso contra las cuerdas a Jensen Huang y Nvidia",
+          "resumen": "El perfil de la figura clave en el conflicto que sacude a la cúpula de Nvidia.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/quien-alice-huang-exdirectiva-megaspeed-que-ha-puesto-cuerdas-a-jensen-huang-nvidia",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Corea del Sur, termómetro de la IA: sus fabricantes de chips pagan las dudas de Wall Street",
+          "resumen": "Las acciones de las chiperas surcoreanas reflejan la incertidumbre sobre la burbuja de la IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Las farmacéuticas no se creen que la IA vaya a curar enfermedades: Vertex probó 50 empresas y ninguna logró un fármaco viable",
+          "resumen": "El escepticismo crece en la industria sobre las promesas de la IA en el descubrimiento de medicamentos.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/consejeros-delegados-farmaceuticas-no-se-creen-que-ia-vaya-a-curar-enfermedades-vertex-probo-unas-50-empresas-ia-ninguna-logro-farmaco-viable",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Elon Musk cree que muchas \"neoclouds\" desaparecerán; Jensen Huang lo descarta",
+          "resumen": "Dos pesos pesados del sector chocan sobre el futuro de los nuevos proveedores de cómputo para IA.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/robotica-e-ia/elon-musk-esta-convencido-que-muchas-neoclouds-desapareceran-jensen-huang-dice-que-cona",
+          "fuentes_extra": []
         }
       ]
     },
@@ -137,32 +154,46 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Sony resucita los míticos auriculares naranja Walkman MDR-3, ahora con conector USB-C",
-          "resumen": "Una edición de aniversario rescata el diseño clásico con conectividad moderna.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/sony-resucita-los-miticos-auriculares-naranja-walkman-mdr-3-ahora-con-conector-usb-c-y-edicion-nid09112026/",
+          "titulo": "Nuevo tráiler de 'GTA VI': qué significa el \"mejor en PS5\" y cómo jugar en Xbox",
+          "resumen": "Rockstar muestra material nuevo y aclara dudas sobre rendimiento y compatibilidad entre consolas.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/videojuegos/nuevo-trailer-gta-vi-sabemos-que-significa-eso-mejor-ps5-como-poder-jugar-xbox-one",
           "fuentes_extra": []
         },
         {
-          "titulo": "WhatsApp ya permite programar mensajes: cómo funciona en el celular y en WhatsApp Web",
-          "resumen": "La app suma una función esperada para dejar mensajes listos y enviarlos a una hora determinada.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/whatsapp-ya-permite-programar-mensajes-como-funciona-en-el-celular-y-en-whatsapp-web-nid04112026/",
+          "titulo": "Algunos televisores OLED desarrollan un extraño problema con los años: sus bordes se \"pudren\"",
+          "resumen": "Usuarios reportan degradación en los bordes de paneles OLED tras un tiempo de uso.",
+          "fuente": "Xataka",
+          "url": "https://hogar.xataka.com/televisores/algunos-televisores-oled-estan-desarrollando-extrano-problema-anos-sus-bordes-se-estan-pudriendo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Por qué conviene reiniciar el router una vez por semana: lo que los técnicos no te cuentan",
-          "resumen": "Un gesto simple que mejora el rendimiento y la estabilidad de la conexión hogareña.",
-          "fuente": "La Nación",
-          "url": "https://www.lanacion.com.ar/tecnologia/por-que-conviene-reiniciar-el-router-una-vez-por-semana-lo-que-los-tecnicos-no-te-cuentan-nid06112026/",
+          "titulo": "One UI 9 para los Samsung Galaxy: qué modelos ya se actualizaron y cuáles lo harán",
+          "resumen": "Samsung avanza con el despliegue de su nueva capa; esta es la lista de dispositivos compatibles.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/basics/actualizacion-a-one-ui-9-para-samsung-galaxy-cuales-estan-actualizados-todos-que-van-a-actualizar",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "\"¿Podrías votar por Eliska?\": el mensaje de WhatsApp diseñado para robar tu cuenta",
+          "resumen": "Una nueva estafa aprovecha un pedido aparentemente inocente para secuestrar cuentas de WhatsApp.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/seguridad/podrias-votar-eliska-mensaje-inocente-que-puede-robarte-whatsapp",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "AMD está a las puertas de algo inédito: superar a Intel por primera vez en su historia",
+          "resumen": "La compañía se acerca a un hito histórico en la industria de los semiconductores.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/amd-va-a-adelantar-a-intel-primera-vez-su-historia",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Hoy la Argentina pone el foco en dos frentes. En lo internacional, arrancan en el Tribunal del Mar las audiencias por Malvinas, donde el país busca frenar la explotación petrolera de Sea Lion con argumentos contra el Reino Unido. Y en lo interno sigue resonando la visita del papa León XIV: pidió ocuparse de los desempleados y los ancianos, mientras Llaryora aprovecha para marcar diferencias con Milei. En la economía, buenas noticias: el riesgo país perforó los novecientos puntos y las acciones argentinas rebotaron fuerte en Wall Street. Afuera, los demócratas recuperaron la Cámara en Estados Unidos y ya amagan con investigar a Trump. En tecnología, Apple le pone límite al gasto en inteligencia artificial de sus propios ingenieros, y se investiga al jefe de Nvidia por una relación con una presunta espía china. Que tengas un buen martes.",
-    "texto_en": "Good morning Charly. Argentina is watching two big fronts today. Internationally, hearings begin at the Tribunal for the Law of the Sea over the Falklands, where the country is trying to block Sea Lion oil drilling with arguments against the United Kingdom. At home, Pope Leo the Fourteenth's visit still echoes: he urged care for the unemployed and the elderly, while governor Llaryora uses the moment to distance himself from Milei. On the economy, good news: country risk broke below nine hundred points and Argentine stocks rebounded sharply on Wall Street. Abroad, Democrats retook the House in the United States and are already signaling investigations into Trump. In tech, Apple is capping its own engineers' spending on artificial intelligence, and Nvidia's chief is under investigation over a relationship with an alleged Chinese spy. Have a great Tuesday.",
+    "texto_es": "Buenos días Charly. Arranca el miércoles con la visita del papa León XIV entrando en su tramo final: el Gobierno quiere volver a su agenda, mientras el peronismo siente que los mensajes de justicia social le dan la razón. Las negociaciones por el Presupuesto 2027 siguen sin cerrarse y los aliados empiezan a desconfiar. En economía, la inflación de octubre en Estados Unidos fue más alta de lo esperado y presiona a la Reserva Federal, con Wall Street operando nervioso. En el plano internacional, el jefe del Pentágono Pete Hegseth sobrevivió al primer intento de destituirlo, y crece una presunta trama de espionaje chino contra Nvidia. Y en tecnología, Nvidia perdió ciento noventa mil millones de dólares en Bolsa y enfrenta demandas de sus accionistas, mientras AMD está a punto de superar a Intel por primera vez en su historia. Que tengas un buen día.",
+    "texto_en": "Good morning Charly. It's Wednesday. Pope Leo the Fourteenth's visit to Argentina is entering its final stretch: the government wants to get back to its own agenda, while the Peronist opposition feels his social justice message backs their demands. Talks over the 2027 budget remain unresolved and allies are growing wary. On the economy, U.S. inflation came in hotter than expected in October, pressuring the Federal Reserve and keeping Wall Street on edge. Internationally, Pentagon chief Pete Hegseth survived a first attempt to remove him, and a suspected Chinese espionage plot against Nvidia is making headlines. In tech, Nvidia lost a hundred and ninety billion dollars in market value and faces shareholder lawsuits, while AMD is on the verge of overtaking Intel for the first time ever. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
