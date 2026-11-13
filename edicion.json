@@ -1,43 +1,43 @@
 {
-  "fecha": "2026-11-12",
-  "fecha_larga": "Jueves 12 de noviembre de 2026",
+  "fecha": "2026-11-13",
+  "fecha_larga": "Viernes 13 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El Gobierno llamará a sesiones extraordinarias: los proyectos clave que entrarán y los que están en duda",
-          "resumen": "El oficialismo prepara el temario de extraordinarias con sus reformas prioritarias y varias iniciativas aún sin definición.",
+          "titulo": "El Gobierno ordenó el regreso a la Argentina del embajador en Emiratos Árabes Unidos",
+          "resumen": "El Ejecutivo dispuso que el embajador Jorge Agustín Molina Arambarri vuelva antes del 8 de diciembre por un cambio en sus funciones.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/12/el-gobierno-llamara-a-sesiones-extraordinarias-los-proyectos-clave-que-entraran-y-los-que-estan-en-duda/",
+          "url": "https://www.infobae.com/politica/2026/11/13/el-gobierno-ordeno-el-regreso-a-la-argentina-del-embajador-en-emiratos-arabes-unidos/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Llaman a debatir la eliminación de las PASO y se profundiza la interna en el oficialismo en el Senado",
-          "resumen": "Crece la presión para derogar las primarias mientras se agudiza la pelea interna libertaria en la Cámara alta.",
+          "titulo": "Pese al silencio de la ONU, el kirchnerismo todavía cree que hay margen para una candidatura de CFK",
+          "resumen": "En el kirchnerismo sostienen que aún hay tiempo para resolver la cuestión electoral de una eventual candidatura de Cristina Fernández de Kirchner.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/12/llaman-a-debatir-la-eliminacion-de-las-paso-y-se-profundiza-la-interna-en-el-oficialismo-en-el-senado/",
+          "url": "https://www.infobae.com/politica/2026/11/13/pese-al-silencio-de-la-onu-el-kirchnerismo-todavia-cree-que-hay-margen-para-una-candidatura-de-cfk/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Inundaciones en Corrientes: Karina Milei visitó el Comando Operativo de Emergencias provincial junto a Juan Pablo Valdés",
-          "resumen": "La secretaria general de la Presidencia recorrió el operativo por las inundaciones junto al gobernador correntino.",
+          "titulo": "Después de la ofensiva contra el Reino Unido, la Argentina mira a Chile por la conexión Punta Arenas-Malvinas",
+          "resumen": "El Gobierno exige aviso o autorización para el paso de un buque privado hacia las Malvinas y Chile ya marcó su rechazo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/12/inundaciones-en-corrientes-karina-milei-visito-el-comando-operativo-de-emergencias-provincial-junto-a-juan-pablo-valdes/",
+          "url": "https://www.infobae.com/politica/2026/11/13/despues-de-la-ofensiva-contra-el-reino-unido-la-argentina-mira-a-chile-por-la-conexion-punta-arenas-malvinas/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El trasfondo de la fuerte discusión entre Pettovello y Barrionuevo antes del discurso del Papa en la UCA",
-          "resumen": "Un cruce entre la ministra y el sindicalista tensó la previa de la visita papal a la Universidad Católica.",
+          "titulo": "La subterránea pelea por los votos de la reforma política que profundiza la interna del Gobierno con Bullrich",
+          "resumen": "Patricia Bullrich duda de que existan los votos para aprobar la reforma política en el Senado y teme que la Casa Rosada la responsabilice.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/12/el-trasfondo-de-la-fuerte-discusion-entre-pettovello-y-barrionuevo-antes-del-discurso-del-papa-en-la-uca/",
+          "url": "https://www.infobae.com/politica/2026/11/13/la-subterranea-pelea-por-los-votos-de-la-reforma-politica-que-profundiza-la-interna-del-gobierno-con-bullrich/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Javier Milei planea llamar al nuevo presidente de Paraguay para ratificar el buen vínculo bilateral",
-          "resumen": "El presidente buscará reforzar la relación con Asunción tras el recambio político en el país vecino.",
+          "titulo": "Jubilados, piqueteros y partidos de izquierda reactivan el plan de lucha contra el Gobierno a horas de la partida del Papa",
+          "resumen": "Organizan una jornada nacional de protesta para el miércoles 18 de noviembre centrada en las oficinas de ANSES en todo el país.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/12/javier-milei-planea-llamar-al-nuevo-presidente-de-paraguay-para-ratificar-el-buen-vinculo-bilateral/",
+          "url": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/",
           "fuentes_extra": []
         }
       ]
@@ -46,31 +46,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "La inflación se aceleró al 2,2% en octubre y alcanzó su mayor nivel en seis meses",
-          "resumen": "El IPC repuntó en octubre y marcó el registro más alto del semestre, según el INDEC.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-inflacion-se-acelero-al-22-octubre-y-alcanzo-su-mayor-nivel-seis-meses-n6344589",
+          "titulo": "El Gobierno consolida al dólar como ancla para volver al proceso de desinflación y remonetizar la economía",
+          "resumen": "El tipo de cambio funciona como ancla oficial para retomar la desinflación y recuperar el uso del dinero en la economía.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-consolida-al-dolar-como-ancla-para-volver-al-proceso-de-desinflacion-y-remonetizar-la-economia/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La canasta básica trepó 3,5% en octubre, su mayor suba desde enero",
-          "resumen": "El costo para no caer en la pobreza tuvo en octubre su mayor aumento mensual del año.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587",
+          "titulo": "La inflación sigue al alza: cómo evolucionaron los gastos fijos que más pesan en el presupuesto familiar a lo largo de 2026",
+          "resumen": "Un repaso de cómo cambiaron los costos fijos del hogar durante 2026 mientras la inflación no cede.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/la-inflacion-sigue-al-alza-como-evolucionaron-los-gastos-fijos-que-mas-pesan-en-el-presupuesto-familiar-a-lo-largo-de-2026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Industria textil: la actividad cayó más de 20% en 2026 y ya se perdieron más de 29.000 puestos de trabajo",
-          "resumen": "El sector textil acumula una fuerte contracción y destrucción de empleo en lo que va del año.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/industria-textil-la-actividad-cayo-mas-20-2026-y-ya-se-perdieron-mas-29000-puestos-trabajo-n6344544",
+          "titulo": "De dónde van a salir los dólares para pagar casi USD 4.400 millones de vencimientos en enero",
+          "resumen": "Un análisis de las fuentes de divisas para afrontar cerca de USD 4.400 millones en vencimientos de deuda en enero.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/de-donde-van-a-salir-los-dolares-para-pagar-casi-usd-4400-millones-de-vencimientos-en-enero/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El FMI destacó que se están mitigando los riesgos de refinanciación de la Argentina",
-          "resumen": "El organismo valoró avances en el frente financiero y una menor presión sobre los vencimientos.",
-          "fuente": "Ámbito",
-          "url": "https://www.ambito.com/economia/el-fmi-destaco-que-se-estan-mitigando-los-riesgos-refinanciacion-n6344495",
+          "titulo": "El riesgo país baja mientras la inflación no le da tregua al Gobierno y Brasil agrava sus problemas",
+          "resumen": "El riesgo país cede aunque la inflación sigue alta, en un contexto donde Brasil suma dificultades económicas.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/el-riesgo-pais-baja-mientras-la-inflacion-no-le-da-tregua-al-gobierno-y-brasil-agrava-sus-problemas/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "El Gobierno habilitó nuevas licitaciones para concesionar más de 25 tramos de rutas nacionales",
+          "resumen": "Se abrieron licitaciones para ceder a privados más de 25 tramos de rutas nacionales, corriendo el financiamiento del Estado.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/el-gobierno-habilito-nuevas-licitaciones-para-concesionar-mas-de-25-tramos-de-rutas-nacionales/",
           "fuentes_extra": []
         }
       ]
@@ -79,31 +86,31 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "El papa León XIV, en Lima, llama a \"proteger a las mujeres\" y a construir \"una sociedad justa\"",
-          "resumen": "En su gira por Perú, el Papa pidió a los obispos responder a los abusos con justicia y reparación.",
+          "titulo": "España entra en campaña: ¿llega el final de la era Pedro Sánchez?",
+          "resumen": "Arranca la campaña hacia las elecciones del 29 de noviembre con el PP liderando las encuestas y dudas sobre el ciclo de Sánchez.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261112-en-directo-el-papa-le%C3%B3n-xiv-pide-a-los-obispos-de-per%C3%BA-que-respondan-a-abusos-con-justicia-y-reparaci%C3%B3n",
+          "url": "https://www.france24.com/es/europa/20261113-espa%C3%B1a-entra-en-campa%C3%B1a-llega-el-final-de-la-era-pedro-s%C3%A1nchez",
           "fuentes_extra": []
         },
         {
-          "titulo": "Putin propone una misión humanitaria en Kostiantynivka en la reunión con enviados de EE. UU.",
-          "resumen": "El presidente ruso recibió a emisarios estadounidenses tras un nuevo cruce de ataques con Ucrania.",
+          "titulo": "Chile y un precio histórico del combustible que parece extenderse en Latinoamérica",
+          "resumen": "Precios récord del combustible en Chile y la región impulsan cortes de ruta y protestas del transporte.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es/europa/20261112-en-directo-enviados-de-ee-uu-se-re%C3%BAnen-con-putin-este-jueves-tras-nuevo-cruce-de-ataques-entre-rusia-y-ucrania",
+          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261113-ya-no-dio-m%C3%A1s-chile-y-un-precio-hist%C3%B3rico-del-combustible-que-parece-extenderse-en-latinoam%C3%A9rica",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Ocho muertos y víctimas latinoamericanas por la caída de un edificio en Nueva York",
+          "resumen": "Un derrumbe parcial de un edificio en Brooklyn dejó ocho muertos, entre ellos víctimas latinoamericanas, con tareas de rescate en curso.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-recen-por-el-beb%C3%A9-ocho-muertos-y-v%C3%ADctimas-latinoamericanas-por-la-ca%C3%ADda-de-un-edificio-en-nueva-york",
           "fuentes_extra": []
         },
         {
           "titulo": "Seis palestinos mueren en el séptimo bombardeo de Israel contra el principal hospital del sur de Gaza",
-          "resumen": "Un nuevo ataque israelí golpeó el mayor hospital del sur de la Franja, con víctimas fatales.",
+          "resumen": "Un ataque israelí contra el hospital Nasser, en el sur de Gaza, mató a seis palestinos en el séptimo golpe sobre ese centro.",
           "fuente": "France 24",
           "url": "https://www.france24.com/es/medio-oriente/20261112-seis-palestinos-mueren-en-el-s%C3%A9ptimo-bombardeo-de-israel-contra-el-principal-hospital-del-sur-de-gaza",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Paraguay: Santiago Peña se expone a 15 años de cárcel por el caso Ueno Bank",
-          "resumen": "Avanza la causa contra el expresidente paraguayo mientras se tramita la devolución de los ahorros.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261112-paraguay-santiago-pe%C3%B1a-se-expone-a-15-a%C3%B1os-de-c%C3%A1rcel-por-el-caso-ueno-bank-avanza-la-devoluci%C3%B3n-de-los-ahorros",
           "fuentes_extra": []
         }
       ]
@@ -112,38 +119,26 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "DeepMind dice que su IA verificó el código de Signal en un mes, un reto que llevaba años a los expertos",
-          "resumen": "La IA de DeepMind habría completado en semanas una verificación formal que demandaba años de trabajo humano.",
+          "titulo": "Jensen Huang dimite como CEO y Nvidia anuncia su plan de transición para frenar la caída en bolsa",
+          "resumen": "Nvidia pierde unos 550.000 millones de dólares de valor tras la salida de Huang; Colette Kress asume como CEO interina mientras se busca reemplazo.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-dimite-como-ceo-nvidia-anuncia-su-plan-transicion-para-frenar-sangria-bolsa",
+          "fuentes_extra": [
+            "Xataka"
+          ]
+        },
+        {
+          "titulo": "La IA de DeepMind verifica en un mes el código de Signal, un reto que llevaba años a los expertos",
+          "resumen": "Agentes de IA de DeepMind generaron millones de líneas de pruebas matemáticas para verificar el código de Signal en aproximadamente un mes.",
           "fuente": "Xataka",
           "url": "https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes",
           "fuentes_extra": []
         },
         {
-          "titulo": "Google presenta AlphaGenome 2, la IA que busca anticipar enfermedades a partir de cambios en el ADN",
-          "resumen": "El nuevo modelo apunta a predecir patologías analizando variaciones genéticas.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/google-presenta-alphagenome-2-la-ia-que-busca-anticipar-enfermedades-a-partir-de-cambios-en-el-adn/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Claude alcanza 1.300 millones de visitas antes de salir a bolsa y se consolida entre las tres IA más usadas del mundo",
-          "resumen": "El asistente de Anthropic crece con fuerza en la previa de su salida a bolsa.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/claude-alcanza-1300-millones-de-visitas-antes-de-salir-a-bolsa-y-se-consolida-entre-las-tres-ia-mas-utilizadas-del-mundo/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Notion confirmó que conversaciones con su asistente de IA quedaron expuestas tras un ataque informático",
-          "resumen": "Un ciberataque dejó al descubierto chats de usuarios con el asistente de IA de Notion.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/notion-confirmo-que-conversaciones-con-su-asistente-de-ia-quedaron-expuestas-tras-un-ataque-informatico/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "OpenAI anunció el fin de los modos de voz Advanced y Standard de ChatGPT",
-          "resumen": "La empresa unificará su experiencia de voz y dará de baja los modos actuales de ChatGPT.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/openai-anuncio-el-fin-de-los-modos-de-voz-advanced-y-standard-de-chatgpt/",
+          "titulo": "Blue quiere que dejes el iPhone por un Android con un agente de IA dentro",
+          "resumen": "El Blue Phone, un Android construido alrededor de un agente de IA, se plantea como reemplazo del iPhone, con el precio como gran incógnita.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo",
           "fuentes_extra": []
         }
       ]
@@ -152,51 +147,34 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Jensen Huang renuncia como CEO de Nvidia acorralado por un escándalo que puso en alerta a Washington",
-          "resumen": "La salida de Huang sacude a la mayor empresa de chips del mundo y abre una transición de urgencia.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261112-acorralado-por-el-esc%C3%A1ndalo-que-puso-en-alerta-a-washington-jensen-huang-renuncia-a-nvidia",
+          "titulo": "Microsoft 365 lleva más de 12 horas caído: Outlook, Teams y el resto de la suite sin funcionar en todo el mundo",
+          "resumen": "Una caída global prolongada afectó Outlook, Teams, Copilot y SharePoint en decenas de países.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/aplicaciones/microsoft-365-lleva-12-horas-caido-outlook-teams-resto-suite-funciona-todo-mundo",
           "fuentes_extra": [
-            "Xataka",
-            "Infobae"
+            "France 24"
           ]
         },
         {
-          "titulo": "La dimisión de Huang hace que Nvidia pierda 550.000 millones de dólares en valor de bolsa",
-          "resumen": "El mercado castigó con fuerza a Nvidia tras conocerse la salida de su histórico CEO.",
+          "titulo": "En plena salida de Huang, hay una guerra abierta en el Gobierno de EEUU por seguir vendiendo GPUs a China",
+          "resumen": "Funcionarios estadounidenses están divididos sobre permitir ventas de GPUs a China, con los halcones empujando por más restricciones.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/dimision-huang-hace-que-nvidia-se-deje-550-000-millones-dolares-valor-bolsa",
+          "url": "https://www.xataka.com/empresas-y-economia/plenos-escandalos-jensen-huang-hay-guerra-abierta-gobierno-eeuu-seguir-vendiendo-gpus-a-china",
           "fuentes_extra": []
         },
         {
-          "titulo": "Nvidia busca al sucesor de Jensen Huang y Tim Cook figura entre los candidatos",
-          "resumen": "Entre los nombres que suenan para conducir Nvidia aparece el CEO de Apple, Tim Cook.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/nvidia-busca-al-sucesor-de-jensen-huang-y-tim-cook-figura-entre-los-candidatos-al-puesto/",
-          "fuentes_extra": [
-            "Xataka"
-          ]
-        },
-        {
-          "titulo": "Prohibir TikTok en España es mucho más difícil de lo que parece: el marco europeo deja pocas opciones",
-          "resumen": "La regulación de la UE limita el margen para vetar la aplicación en territorio español.",
+          "titulo": "La carrera hacia 'GTA VI' se libra antes en consolas que en PC. En la era de la IA eso es un problema",
+          "resumen": "Un análisis sostiene que el lanzamiento de GTA VI en consolas antes que en PC refleja un problema mayor mientras la IA reconfigura el hardware.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/legislacion-y-derechos/prohibir-tiktok-espana-mucho-dificil-que-parece-marco-europeo-le-deja-pocas-opciones",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "PAMI dispuso que la IA no pueda decidir sola sobre tratamientos o medicamentos de sus afiliados",
-          "resumen": "La obra social fijó que las decisiones clínicas no queden en manos exclusivas de sistemas de IA.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/12/pami-dispuso-que-la-ia-no-pueda-decidir-sola-sobre-tratamientos-o-medicamentos-de-sus-afiliados/",
+          "url": "https://www.xataka.com/videojuegos/carrera-gta-vi-se-libra-antes-consolas-que-pc-era-ia-eso-problema",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Hoy, jueves 12 de noviembre, el tema del día es tecnológico y global: Jensen Huang renunció como CEO de Nvidia, acorralado por un escándalo que puso en alerta a Washington, y la empresa perdió más de medio billón de dólares en bolsa. Entre los candidatos para reemplazarlo suena hasta Tim Cook. En la Argentina, la inflación de octubre se aceleró al dos coma dos por ciento, el mayor nivel en seis meses, y la canasta básica subió tres y medio. En política, el Gobierno prepara sesiones extraordinarias y crece la interna libertaria en el Senado por la eliminación de las PASO. En el mundo, el papa León XIV sigue su gira por Perú pidiendo justicia por los abusos, enviados de Estados Unidos se reunieron con Putin, e Israel volvió a bombardear el principal hospital del sur de Gaza. Y en inteligencia artificial, DeepMind asegura haber verificado el código de Signal en un mes. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. Today, Thursday November 12th, the top story is both tech and global: Jensen Huang has resigned as CEO of Nvidia, cornered by a scandal that put Washington on alert, and the company lost over half a trillion dollars in market value. Names floated to replace him include even Tim Cook. In Argentina, October inflation sped up to two point two percent, the highest in six months, and the basic basket rose three and a half. In politics, the government is preparing special sessions while the libertarian infighting grows in the Senate over scrapping the primaries. Around the world, Pope Leo the Fourteenth continues his tour of Peru calling for justice over abuse, U.S. envoys met with Putin, and Israel again bombed the main hospital in southern Gaza. And in AI, DeepMind claims it verified Signal's code in a single month. Have a great day.",
+    "texto_es": "Buenos días Charly. Arrancamos el viernes con la interna del Gobierno cada vez más expuesta: Patricia Bullrich duda de que haya votos para la reforma política en el Senado y teme quedar como responsable si no sale. En el plano internacional, el Gobierno ordenó el regreso del embajador en Emiratos y sigue el cruce con Chile por el paso de un buque hacia Malvinas. En economía, el dólar se consolida como ancla antidesinflación, el riesgo país baja aunque la inflación no da tregua, y ya se mira de dónde saldrán casi cuatro mil cuatrocientos millones de dólares para los vencimientos de enero. En el mundo, España entra en campaña con dudas sobre el final de la era Sánchez, hay ocho muertos por el derrumbe de un edificio en Nueva York, y nuevo bombardeo israelí contra el hospital Nasser en Gaza. Y la gran bomba tecnológica: Jensen Huang renunció como CEO de Nvidia y la empresa perdió más de quinientos mil millones de dólares en bolsa. Además, Microsoft 365 lleva más de doce horas caído en todo el mundo. Buen día.",
+    "texto_en": "Good morning Charly. We start Friday with the government's internal fight more exposed than ever: Patricia Bullrich doubts there are enough votes for the political reform in the Senate and fears being blamed if it fails. On the foreign front, the government ordered its ambassador to the United Arab Emirates back home, and tensions continue with Chile over a ship heading to the Falklands. In the economy, the dollar is being cemented as the anti-inflation anchor, country risk is falling even as inflation stays high, and attention turns to where nearly four point four billion dollars will come from for January's debt payments. Around the world, Spain enters its campaign amid questions about the end of the Sánchez era, eight people died in a building collapse in New York, and Israel struck Nasser Hospital in Gaza again. And the big tech bombshell: Jensen Huang resigned as CEO of Nvidia, and the company lost more than five hundred billion dollars in market value. On top of that, Microsoft 365 has been down worldwide for over twelve hours. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
