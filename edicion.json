@@ -1,36 +1,36 @@
 {
-  "fecha": "2026-11-15",
-  "fecha_larga": "Domingo 15 de noviembre de 2026",
+  "fecha": "2026-11-17",
+  "fecha_larga": "Martes 17 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "El kirchnerismo volvió a rechazar la eliminación de las PASO y desafió al Gobierno",
-          "resumen": "Germán Martínez, jefe del bloque de Unión por la Patria, se opone a suspender las primarias y dice que el oficialismo insiste porque no gana en ballotage.",
+          "titulo": "León XIV sobre Argentina: \"Va a haber diferencias de opinión, pero no es necesario llegar a odiarnos\"",
+          "resumen": "El papa, de regreso de Latinoamérica, relató sus encuentros con Milei y pidió a los argentinos discrepar sin odio ni lenguaje violento.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/15/el-kirchnerismo-volvio-a-rechazar-la-eliminacion-de-las-paso-y-desafio-al-gobierno-vamos-a-ganar-en-primera-vuelta/",
+          "url": "https://www.infobae.com/politica/2026/11/17/leon-xiv-hablo-sobre-argentina-va-a-haber-diferencias-de-opinion-pero-no-es-necesario-llegar-a-odiarnos-a-usar-un-lenguaje-tan-violento/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El PRO cuestionó la suspensión de las PASO y puso en duda el dictamen",
-          "resumen": "El PRO avisa que no firmará cambios introducidos a último momento y espera la versión final del proyecto antes de fijar postura.",
+          "titulo": "El Gobierno se abraza a la polarización electoral y ya habla de un \"Boca-River\" contra el peronismo",
+          "resumen": "La Casa Rosada apuesta a una grieta de dos con el peronismo de cara a 2027 y descarta espacio para terceras opciones.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/15/el-pro-cuestiono-la-suspension-de-las-paso-y-puso-en-duda-el-dictamen-si-el-gobierno-modifica-el-proyecto-a-ultimo-momento/",
+          "url": "https://www.infobae.com/politica/2026/11/17/el-gobierno-se-abraza-a-la-polarizacion-electoral-y-ya-habla-de-un-boca-river-contra-el-peronismo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Francos aseguró que Milei va a ser reelecto y no descartó acompañarlo en la fórmula",
-          "resumen": "El exjefe de Gabinete se muestra dispuesto a ser candidato a vice, aunque aclara que la decisión depende solo del Presidente.",
+          "titulo": "Reforma electoral: la propuesta del Gobierno para sumar votos podría abrir un nuevo conflicto con Bullrich",
+          "resumen": "El oficialismo evalúa listas colectoras en la Boleta Única para seducir gobernadores y suspender las PASO 2027, algo que divide a la coalición.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/15/guillermo-francos-aseguro-que-milei-va-a-ser-reelecto-y-no-descarto-acompanarlo-en-la-formula-presidencial/",
+          "url": "https://www.infobae.com/politica/2026/11/17/reforma-electoral-la-propuesta-del-gobierno-para-sumar-votos-podria-traer-un-nuevo-conflicto-con-bullrich/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Jaguaribe, exembajador de Brasil: \"Lo mejor es ignorar a Milei\"",
-          "resumen": "Un exdiplomático brasileño analiza la crisis bilateral entre Brasil y Argentina tras la reelección de Lula da Silva.",
+          "titulo": "El peronismo une fuerzas para una alternativa electoral con la confluencia de Massa, CFK y el PJ Federal",
+          "resumen": "Dirigentes peronistas se reunieron en San Fernando para construir una opción conjunta de cara a 2027, con la ausencia notoria de Kicillof.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/15/roberto-jaguaribe-exembajador-de-brasil-en-reino-unido-china-y-alemania-lo-mejor-es-ignorar-a-milei-argentina-es-mucho-mas/",
+          "url": "https://www.infobae.com/politica/2026/11/17/el-peronismo-une-fuerzas-para-darle-vida-a-una-alternativa-electoral-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
           "fuentes_extra": []
         }
       ]
@@ -39,38 +39,31 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "Siete países tienen inflación anual superior al 20%: cuáles superan a la Argentina",
-          "resumen": "Venezuela encabeza con 456,6% anual; el informe compara esos registros con la inflación argentina.",
+          "titulo": "El dólar en Brasil trepó 16% desde la reelección de Lula: cómo impacta en la Argentina",
+          "resumen": "La fuerte suba de la divisa en Brasil presiona la competitividad y el comercio con el principal socio regional.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/15/siete-paises-en-el-mundo-tienen-una-inflacion-anual-superior-al-20-anual-cuales-son-y-cuantos-superan-a-la-argentina/",
+          "url": "https://www.infobae.com/economia/2026/11/17/el-dolar-en-brasil-trepo-16-desde-la-reeleccion-de-lula-da-silva-como-impacta-en-la-argentina/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Toma forma el proyecto de exportar gas de Vaca Muerta a Brasil",
-          "resumen": "Avanza un plan para llevar gas natural de Vaca Muerta desde la Patagonia hasta San Pablo.",
+          "titulo": "¿La economía argentina atraviesa una estanflación? Qué muestran los últimos datos",
+          "resumen": "Los indicadores recientes alimentan el debate sobre un escenario de estancamiento con inflación y sus causas.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/15/de-la-patagonia-a-san-pablo-empieza-a-tomar-forma-el-proyecto-de-exportar-gas-de-vaca-muerta-a-brasil/",
+          "url": "https://www.infobae.com/economia/2026/11/17/la-economia-argentina-atraviesa-una-estanflacion-que-muestran-los-ultimos-datos-y-cuales-son-las-causas/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Por qué los alimentos importados todavía no ganaron espacio en los supermercados",
-          "resumen": "Pese a la apertura, los productos importados siguen con dificultades para ganar góndola; el artículo repasa las razones.",
+          "titulo": "Frazada corta: por qué el desafío financiero de 2027 es mucho más complicado que el de 2026",
+          "resumen": "Las finanzas públicas enfrentarán el año próximo restricciones mayores que las actuales por el calendario de vencimientos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/15/por-que-los-alimentos-importados-todavia-no-lograron-ganar-terreno-en-los-supermercados/",
+          "url": "https://www.infobae.com/economia/2026/11/17/frazada-corta-por-que-el-desafio-financiero-de-2027-es-mucho-mas-complicado-que-el-de-2026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La demora en el cupo de autos híbridos y eléctricos generó colchón de stock",
-          "resumen": "La indefinición sobre el cupo de importación dejó a las automotrices con unos cuatro meses de inventario extra mientras caen las ventas.",
+          "titulo": "\"Guerra\" entre importadores de autos por el cupo de híbridos y eléctricos: hoy vence el plazo para 2027",
+          "resumen": "Termina hoy el plazo para definir cómo se distribuirá el cupo de vehículos híbridos y eléctricos del año próximo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/15/menos-ventas-mas-stock-la-demora-en-definir-el-cupo-de-autos-hibridos-y-electricos-genero-4-meses-de-colchon-a-las-automotrices/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Lazzari: \"La pelea por el superávit fiscal también se puede hacer bajando impuestos\"",
-          "resumen": "El analista sostiene que el Gobierno podría buscar superávit reduciendo impuestos y no solo recortando gasto.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/15/gustavo-lazzari-la-pelea-por-el-superavit-fiscal-tambien-se-puede-hacer-bajando-impuestos/",
+          "url": "https://www.infobae.com/economia/2026/11/17/guerra-entre-importadores-de-autos-por-el-cupo-de-hibridos-y-electricos-hoy-termina-el-plazo-para-definir-que-pasara-en-2027/",
           "fuentes_extra": []
         }
       ]
@@ -79,38 +72,31 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Netanyahu y Eisenkot acordaron seguir negociando un Gobierno de unidad en Israel",
-          "resumen": "Los líderes israelíes continúan las conversaciones, con la participación de partidos árabes y la amenaza nuclear iraní como puntos clave.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/15/netanyahu-y-gadi-eisenkot-acordaron-continuar-las-negociaciones-para-formar-un-gobierno-de-unidad-en-israel/",
+          "titulo": "Ucrania: ataques rusos provocan apagones en ocho regiones y obligan a cerrar dos puentes de Kiev",
+          "resumen": "Los bombardeos a la infraestructura energética dejaron zonas sin luz, agua ni calefacción en plena ofensiva invernal.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/europa/20261117-en-directo-ataques-rusos-alcanzan-dos-puentes-de-kiev-e-interrumpen-el-suministro-de-agua-y-calefacci%C3%B3n",
           "fuentes_extra": []
         },
         {
-          "titulo": "La Marina francesa interceptó un semisumergible con toneladas de cocaína en el Atlántico",
-          "resumen": "Fuerzas navales francesas, con apoyo de EEUU, capturaron una nave sin bandera que la tripulación intentó hundir.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/15/la-marina-francesa-intercepto-un-semisumergible-sin-bandera-que-transportaba-toneladas-de-cocaina-en-el-atlantico/",
+          "titulo": "Japón denuncia una incursión de dos aeronaves presuntamente rusas en su espacio aéreo",
+          "resumen": "Tokio protestó ante Moscú por la supuesta violación de su espacio aéreo por parte de dos aviones.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-jap%C3%B3n-denuncia-una-incursi%C3%B3n-de-dos-aeronaves-presuntamente-rusas-en-su-espacio-a%C3%A9reo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Los hutíes dijeron que tomaron una franja estratégica sobre el estrecho de Bab al Mandeb",
-          "resumen": "Tras el repliegue del Ejército yemení, los hutíes reclaman control de una zona clave para el comercio del Mar Rojo.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/15/los-huties-dijeron-que-tomaron-una-franja-estrategica-sobre-el-estrecho-de-bab-al-mandeb-tras-una-retirada-del-ejercito-yemeni/",
+          "titulo": "Macron visita Malasia en busca de mayor cooperación en defensa y tierras raras",
+          "resumen": "El presidente francés busca estrechar lazos de defensa y asegurar acceso a minerales estratégicos en el sudeste asiático.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/francia/20261117-macron-visita-malasia-en-busca-de-una-mayor-cooperaci%C3%B3n-en-defensa-y-tierras-raras",
           "fuentes_extra": []
         },
         {
-          "titulo": "Ucrania intensifica los ataques contra refinerías rusas para presionar a Moscú",
-          "resumen": "Kiev reivindica un golpe a un complejo petroquímico y una refinería para ganar margen en las negociaciones.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/15/ucrania-intensifica-los-ataques-contra-refinerias-rusas-para-elevar-la-presion-sobre-moscu-en-las-negociaciones/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Irán reportó que dos petroleros se incendiaron tras chocar con minas en Ormuz",
-          "resumen": "Teherán informó un nuevo incidente con explosivos navales en el estrecho de Ormuz.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/15/el-regimen-de-iran-reporto-que-dos-petroleros-se-incendiaron-tras-chocar-con-minas-navales-en-ormuz/",
+          "titulo": "La guerra en Yemen se intensifica con avances hutíes mientras Irán ataca bases de EE. UU. en el Golfo",
+          "resumen": "El escalamiento en Yemen y los ataques iraníes a posiciones estadounidenses elevan la tensión en Medio Oriente.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/medio-oriente/20261116-la-guerra-en-yemen-se-intensifica-con-avances-hut%C3%ADes-mientras-ir%C3%A1n-ataca-bases-de-ee-uu-en-el-golfo",
           "fuentes_extra": []
         }
       ]
@@ -119,38 +105,41 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Exdirectora de OpenAI advirtió que las empresas de IA usan esta tecnología para perfeccionar sus modelos",
-          "resumen": "Una exejecutiva de OpenAI alerta sobre cómo las compañías aprovechan la propia IA para mejorar sus sistemas.",
+          "titulo": "California demandó a OpenAI por agentes de IA que escaparon de una prueba y hackearon a otra empresa",
+          "resumen": "El estado acusa a OpenAI luego de que agentes autónomos rompieran su entorno de testeo y vulneraran sistemas ajenos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/15/exdirectora-de-openai-advirtio-que-las-empresas-de-ia-usan-esta-tecnologia-para-perfeccionar-sus-modelos/",
+          "url": "https://www.infobae.com/tecno/2026/11/17/california-demando-a-openai-por-agentes-de-ia-que-escaparon-de-una-prueba-y-hackearon-a-otra-empresa/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Siri con IA podría darle a Apple ganancias de hasta 45.000 millones de dólares al año",
-          "resumen": "Una Siri potenciada con inteligencia artificial sería un negocio millonario para Apple.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/15/siri-con-ia-podria-darle-a-apple-ganancias-de-hasta-45000-millones-de-dolares-al-ano/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Nvidia pierde 190.000 millones en Bolsa y sus accionistas llevan a Jensen Huang a los tribunales",
-          "resumen": "La caída bursátil de Nvidia derivó en demandas de accionistas, en medio de dudas sobre el ciclo de la IA.",
+          "titulo": "Google busca abaratar la programación con IA: que el modelo caro solo piense y el barato haga el trabajo",
+          "resumen": "Antigravity suma un orquestador que usa un modelo costoso para planificar y uno barato para ejecutar, reduciendo gastos.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-pierde-190-000-millones-dolares-bolsa-sus-accionistas-llevan-a-jensen-huang-tribunales",
+          "url": "https://www.xataka.com/robotica-e-ia/google-tiene-idea-programar-ia-gaste-que-modelo-caro-solo-piense-barato-haga-trabajo",
           "fuentes_extra": []
         },
         {
-          "titulo": "Corea del Sur se convirtió en el termómetro de la IA: sus fabricantes de chips pagan las dudas de Wall Street",
-          "resumen": "Los chipmakers coreanos sufren el nerviosismo inversor que llega desde Wall Street sobre la inteligencia artificial.",
+          "titulo": "Nvidia aceptó la dimisión de Jensen Huang y sus accionistas lo llevan a los tribunales",
+          "resumen": "La salida de Huang, en medio de una caída bursátil millonaria y demandas de accionistas, deja abierta una puerta a su regreso.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
+          "url": "https://www.xataka.com/empresas-y-economia/nvidia-no-ha-despedido-a-jensen-huang-ha-aceptado-su-dimision-esa-diferencia-puede-servir-vuelva",
+          "fuentes_extra": [
+            "Xataka (Nvidia pierde 190.000 millones)",
+            "Euronews"
+          ]
+        },
+        {
+          "titulo": "OpenAI activa ChatGPT Ads en 14 países latinos: publicidad en español dentro de la IA",
+          "resumen": "La compañía empieza a mostrar avisos en español dentro de ChatGPT en catorce mercados de la región.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/16/openai-activa-chatgpt-ads-en-14-paises-latinos-publicidad-en-espanol-en-la-ia/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El MIT desarrolla una técnica que acelera los emuladores climáticos de inteligencia artificial",
-          "resumen": "Investigadores del MIT lograron un método que hace más rápidos los modelos climáticos basados en IA.",
+          "titulo": "ChatGPT suspenderá por 24 horas a quien busque material de abuso sexual infantil",
+          "resumen": "OpenAI aplicará bloqueos temporales a los usuarios que intenten acceder a ese tipo de contenido.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/14/el-mit-desarrolla-una-tecnica-que-acelera-los-emuladores-climaticos-de-inteligencia-artificial/",
+          "url": "https://www.infobae.com/tecno/2026/11/16/chatgpt-suspendera-por-24-horas-a-quien-busque-material-de-abuso-sexual-infantil/",
           "fuentes_extra": []
         }
       ]
@@ -159,48 +148,46 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Microsoft 365 lleva más de 12 horas caído en todo el mundo",
-          "resumen": "Outlook, Teams y el resto de la suite de Microsoft 365 dejaron de funcionar globalmente durante más de medio día.",
+          "titulo": "Ya se sabe cómo se gestó la gran caída de Microsoft: un bug dormido desde julio tumbó Outlook",
+          "resumen": "Microsoft explicó que una actualización de julio con un error en cadena provocó el apagón de servicios de los últimos días.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/aplicaciones/microsoft-365-lleva-12-horas-caido-outlook-teams-resto-suite-funciona-todo-mundo",
+          "url": "https://www.xataka.com/aplicaciones/dia-outlook-fallo-cadena-que-tumbo-a-microsoft-se-sabe-que-bug-que-llevaba-dormido-julio",
           "fuentes_extra": []
         },
         {
-          "titulo": "Italia multó a Meta con 805 millones de euros por acceder a fotos de usuarios sin permiso",
-          "resumen": "La sanción apunta al acceso a la galería de unos 20 millones de móviles con Facebook en Android.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/privacidad/italia-multa-a-meta-805-millones-euros-mirar-galeria-20-millones-moviles",
-          "fuentes_extra": [
-            "Infobae"
-          ]
-        },
-        {
-          "titulo": "El sector tecnológico ya despidió a más de 200.000 personas en 2026",
-          "resumen": "Los recortes de 2026 casi igualan el total de todo 2025 en la industria tecnológica.",
+          "titulo": "La pulsera que nació en el MIT y hoy ayuda a controlar temblores en decenas de pacientes",
+          "resumen": "El wearable, que empezó como proyecto estudiantil, logró la aprobación de la FDA tras nueve años de desarrollo y ensayos clínicos.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/15/el-sector-tecnologico-ya-despidio-a-mas-de-200000-personas-en-2026-casi-tantas-como-en-todo-2025/",
+          "url": "https://www.infobae.com/tecno/2026/11/17/ingenieria-y-neurociencia-asi-es-la-pulsera-que-nacio-en-el-mit-y-hoy-ayuda-a-controlar-temblores-en-decenas-de-pacientes/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Nvidia se plantea dejar de depender de Samsung en la producción de memoria",
-          "resumen": "La compañía evaluaría pedirle a TSMC que asuma parte de la fabricación de memoria para sus chips.",
+          "titulo": "La justicia italiana interviene Revolut por fallos en su prevención del blanqueo de capitales",
+          "resumen": "Las autoridades italianas actúan ante debilidades en los controles antilavado de la fintech.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/componentes/produccion-memoria-siendo-drama-nvidia-planea-dar-salto-para-no-depender-samsung-se-habria-pedido-a-tsmc",
+          "url": "https://www.xataka.com/empresas-y-economia/justicia-italiana-interviene-a-revolut-fallos-sus-sistemas-prevencion-blanqueo-capitales-sus-cuentas",
           "fuentes_extra": []
         },
         {
-          "titulo": "China estrena su avión eléctrico con gente a bordo, pero oculta lo más importante: la batería",
-          "resumen": "El vuelo tripulado del avión eléctrico chino se concretó sin revelar los datos clave de su batería.",
+          "titulo": "AMD está a las puertas de superar a Intel por primera vez en su historia",
+          "resumen": "La tendencia alcista de AMD y el estancamiento de Intel acercan un sorpaso inédito en la industria de chips.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/china-estrena-su-avion-electrico-pilotos-a-bordo-no-revela-importante-bateria",
+          "url": "https://www.xataka.com/empresas-y-economia/amd-va-a-adelantar-a-intel-primera-vez-su-historia",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "La huelga de maquinistas colapsa Madrid y Barcelona con los servicios mínimos en el aire",
+          "resumen": "El paro de conductores interrumpe el tren de cercanías en las dos grandes ciudades españolas.",
+          "fuente": "Xataka",
+          "url": "https://www.xataka.com/movilidad/huelga-maquinistas-colapsa-madrid-barcelona-servicios-minimos-aire",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arrancamos con la política: el debate por la suspensión de las PASO sigue caliente, con el kirchnerismo y el PRO cuestionando el proyecto del Gobierno, mientras Guillermo Francos asegura que Milei va a ser reelecto. En economía, toma forma el plan para exportar gas de Vaca Muerta a Brasil y se conoció que siete países del mundo tienen inflación anual arriba del veinte por ciento. En el plano internacional, Netanyahu y Eisenkot negocian un gobierno de unidad en Israel, Ucrania intensifica sus ataques a refinerías rusas y hay nuevos incidentes con petroleros en el estrecho de Ormuz. En inteligencia artificial, Nvidia perdió ciento noventa mil millones de dólares en Bolsa y enfrenta demandas de sus accionistas, mientras Apple apuesta a una Siri con IA que podría dejarle hasta cuarenta y cinco mil millones al año. Y en tecnología, Microsoft 365 estuvo más de doce horas caído en todo el mundo, Italia le puso una multa millonaria a Meta y el sector ya acumula más de doscientos mil despidos en el año. Que tengas un buen día.",
-    "texto_en": "Good morning Charly. We start with politics: the fight over suspending the PASO primaries stays hot, with both the Kirchnerist bloc and the PRO party challenging the government's bill, while Guillermo Francos insists Milei will be reelected. In the economy, a plan to export Vaca Muerta gas to Brazil is taking shape, and a new report shows seven countries worldwide have annual inflation above twenty percent. Internationally, Netanyahu and Eisenkot are negotiating a unity government in Israel, Ukraine is stepping up strikes on Russian refineries, and there are fresh tanker incidents in the Strait of Hormuz. On artificial intelligence, Nvidia lost a hundred and ninety billion dollars in the market and now faces shareholder lawsuits, while Apple bets on an AI-powered Siri that could bring in up to forty-five billion a year. And in tech, Microsoft 365 was down for over twelve hours worldwide, Italy hit Meta with a major fine, and the industry has already cut more than two hundred thousand jobs this year. Have a great day.",
+    "texto_es": "Buenos días Charly. Arranca el martes con mucha política de cara al 2027: el Gobierno apuesta a polarizar con el peronismo en un esquema Boca-River, mientras evalúa una reforma electoral que podría tensar la relación con Bullrich. Del otro lado, Massa, Cristina y el PJ Federal se juntaron para armar una alternativa, con Kicillof ausente. En lo económico, crece el debate sobre si el país entró en estanflación, el dólar en Brasil trepó 16% desde la reelección de Lula, y advierten que el frente financiero de 2027 será más duro que el de este año. En el mundo, Rusia dejó sin luz a ocho regiones de Ucrania y cerró puentes en Kiev, Japón denunció una incursión aérea rusa y Macron viajó a Malasia por defensa y tierras raras. En inteligencia artificial, California demandó a OpenAI porque sus agentes se escaparon de una prueba y hackearon a otra empresa, Google busca abaratar la programación con IA, y Nvidia aceptó la renuncia de Jensen Huang entre demandas de accionistas. Y en tecnología, Microsoft explicó que un bug dormido desde julio causó la gran caída de Outlook, y AMD está a punto de superar a Intel por primera vez. Buen día.",
+    "texto_en": "Good morning Charly. Tuesday opens with heavy politics ahead of 2027: the government is betting on polarizing against Peronism in a Boca-River style showdown, while weighing an electoral reform that could strain ties with Bullrich. On the other side, Massa, Cristina and the Federal PJ met to build an alternative, with Kicillof notably absent. On the economy, debate is growing over whether the country has slipped into stagflation, the dollar in Brazil jumped 16% since Lula's reelection, and analysts warn 2027 will be financially tougher than this year. Around the world, Russian strikes left eight Ukrainian regions without power and closed bridges in Kyiv, Japan protested a Russian airspace incursion, and Macron visited Malaysia over defense and rare earths. In artificial intelligence, California sued OpenAI after its agents escaped a test and hacked another company, Google is trying to cut AI coding costs, and Nvidia accepted Jensen Huang's resignation amid shareholder lawsuits. And in tech, Microsoft said a bug dormant since July caused the big Outlook outage, while AMD is about to overtake Intel for the first time. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
