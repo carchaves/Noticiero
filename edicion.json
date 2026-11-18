@@ -1,36 +1,45 @@
 {
-  "fecha": "2026-11-17",
-  "fecha_larga": "Martes 17 de noviembre de 2026",
+  "fecha": "2026-11-18",
+  "fecha_larga": "Miércoles 18 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "León XIV sobre Argentina: \"Va a haber diferencias de opinión, pero no es necesario llegar a odiarnos\"",
-          "resumen": "El papa, de regreso de Latinoamérica, relató sus encuentros con Milei y pidió a los argentinos discrepar sin odio ni lenguaje violento.",
+          "titulo": "El Gobierno prepara los cambios para sacar las PASO a contrarreloj y enfrenta el dilema de la sábana corta",
+          "resumen": "La Casa Rosada introduce modificaciones de último momento en la reforma política, pero las concesiones a los gobernadores agudizan las diferencias con Bullrich y los votos todavía no aparecen.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/17/leon-xiv-hablo-sobre-argentina-va-a-haber-diferencias-de-opinion-pero-no-es-necesario-llegar-a-odiarnos-a-usar-un-lenguaje-tan-violento/",
+          "url": "https://www.infobae.com/politica/2026/11/18/el-gobierno-prepara-los-cambios-para-sacar-las-paso-a-contrarreloj-y-enfrenta-el-dilema-de-la-sabana-corta/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El Gobierno se abraza a la polarización electoral y ya habla de un \"Boca-River\" contra el peronismo",
-          "resumen": "La Casa Rosada apuesta a una grieta de dos con el peronismo de cara a 2027 y descarta espacio para terceras opciones.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/17/el-gobierno-se-abraza-a-la-polarizacion-electoral-y-ya-habla-de-un-boca-river-contra-el-peronismo/",
+          "titulo": "Milei: \"Voy a ser reelecto; no tengan dudas de que vamos a ganar en primera\"",
+          "resumen": "El Presidente redobló la apuesta electoral de cara a 2027 y volvió a marcar la cancha frente a la oposición y a su propio frente.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cito-a-pablo-picasso-y-dijo-me-voy-a-encargar-de-lo-nid18112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Reforma electoral: la propuesta del Gobierno para sumar votos podría abrir un nuevo conflicto con Bullrich",
-          "resumen": "El oficialismo evalúa listas colectoras en la Boleta Única para seducir gobernadores y suspender las PASO 2027, algo que divide a la coalición.",
+          "titulo": "El Gobierno rechazó la visita de la princesa Ana a las Islas Malvinas y la calificó de \"provocación\"",
+          "resumen": "La Cancillería sostuvo que el despliegue de la integrante de la Casa Real británica se dio bajo una ocupación ilegal y volvió a exigir que se reanuden las negociaciones de soberanía.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/17/reforma-electoral-la-propuesta-del-gobierno-para-sumar-votos-podria-traer-un-nuevo-conflicto-con-bullrich/",
+          "url": "https://www.infobae.com/politica/2026/11/18/el-gobierno-rechazo-la-visita-de-la-princesa-ana-a-las-islas-malvinas-y-califico-el-viaje-como-una-provocacion/",
+          "fuentes_extra": [
+            "La Nación"
+          ]
+        },
+        {
+          "titulo": "Massa se mostró con distintos espacios del peronismo, en un doble mensaje hacia la interna y para Milei",
+          "resumen": "El exministro levantó el perfil tras años de bajo movimiento, rodeado de dirigentes federales, kirchneristas y provinciales en un acto en San Fernando.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/massa-se-mostro-con-distintos-espacios-del-peronismo-en-un-mensaje-hacia-la-interna-y-tambien-para-nid17112026/",
           "fuentes_extra": []
         },
         {
-          "titulo": "El peronismo une fuerzas para una alternativa electoral con la confluencia de Massa, CFK y el PJ Federal",
-          "resumen": "Dirigentes peronistas se reunieron en San Fernando para construir una opción conjunta de cara a 2027, con la ausencia notoria de Kicillof.",
+          "titulo": "Identificaron irregularidades por más de $82 millones en un registro automotor y el extitular enfrentaría acciones penales",
+          "resumen": "El ex encargado renunció al iniciarse el sumario y habló de \"persecución política\", pero el Ejecutivo aclaró que su dimisión no frena la investigación.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/17/el-peronismo-une-fuerzas-para-darle-vida-a-una-alternativa-electoral-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
+          "url": "https://www.infobae.com/politica/2026/11/18/identificaron-irregularidades-de-mas-de-82-millones-en-un-registro-automotor-y-el-ex-titular-enfentaria-acciones-penales/",
           "fuentes_extra": []
         }
       ]
@@ -39,31 +48,38 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El dólar en Brasil trepó 16% desde la reelección de Lula: cómo impacta en la Argentina",
-          "resumen": "La fuerte suba de la divisa en Brasil presiona la competitividad y el comercio con el principal socio regional.",
+          "titulo": "El factor político que podría darle aire al riesgo país y que el mercado ve como un \"evento positivo\"",
+          "resumen": "El oficialismo impulsa la suspensión de las PASO y el mercado lee la reforma política como una señal que podría descomprimir el riesgo país.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/17/el-dolar-en-brasil-trepo-16-desde-la-reeleccion-de-lula-da-silva-como-impacta-en-la-argentina/",
+          "url": "https://www.infobae.com/economia/2026/11/18/el-factor-politico-que-podria-darle-aire-al-riesgo-pais-y-que-el-mercado-ve-como-un-evento-positivo/",
           "fuentes_extra": []
         },
         {
-          "titulo": "¿La economía argentina atraviesa una estanflación? Qué muestran los últimos datos",
-          "resumen": "Los indicadores recientes alimentan el debate sobre un escenario de estancamiento con inflación y sus causas.",
+          "titulo": "Toyota confirmó cuánto invertirá para fabricar su pickup híbrida en el país",
+          "resumen": "La nueva instalación producirá desde 2030 hasta 50.000 unidades anuales y destinará al menos el 70% a la exportación, tras una medida del Gobierno que destrabó el proyecto.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/17/la-economia-argentina-atraviesa-una-estanflacion-que-muestran-los-ultimos-datos-y-cuales-son-las-causas/",
+          "url": "https://www.infobae.com/economia/2026/11/18/toyota-confirmo-cuanto-invertira-para-fabricar-su-pickup-hibrida-la-medida-del-gobierno-que-permitio-que-el-proyecto-se-concrete/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Frazada corta: por qué el desafío financiero de 2027 es mucho más complicado que el de 2026",
-          "resumen": "Las finanzas públicas enfrentarán el año próximo restricciones mayores que las actuales por el calendario de vencimientos.",
+          "titulo": "Las 6 claves de la UIA: los industriales presentaron propuestas para reducir la carga fiscal y sumar competitividad",
+          "resumen": "El plan entregado a Carlos Guberman plantea acuerdos con provincias y municipios en un esquema gradual de seis años orientado también a la creación de empleo.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/17/frazada-corta-por-que-el-desafio-financiero-de-2027-es-mucho-mas-complicado-que-el-de-2026/",
+          "url": "https://www.infobae.com/economia/2026/11/18/las-6-claves-de-la-uia-los-industriales-presentaron-sus-propuestas-para-reducir-la-carga-fiscal-y-sumar-competitividad/",
           "fuentes_extra": []
         },
         {
-          "titulo": "\"Guerra\" entre importadores de autos por el cupo de híbridos y eléctricos: hoy vence el plazo para 2027",
-          "resumen": "Termina hoy el plazo para definir cómo se distribuirá el cupo de vehículos híbridos y eléctricos del año próximo.",
+          "titulo": "Más de 18.000 micropymes tienen deudas en mora: cuánto deben y cuáles son las regiones más comprometidas",
+          "resumen": "La morosidad de las empresas más chicas llega al 17,60%, con sectores como gastronomía y construcción en una situación todavía más delicada.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/17/guerra-entre-importadores-de-autos-por-el-cupo-de-hibridos-y-electricos-hoy-termina-el-plazo-para-definir-que-pasara-en-2027/",
+          "url": "https://www.infobae.com/economia/2026/11/18/mas-de-18000-micropymes-de-todo-el-pais-tienen-deudas-en-mora-cuanto-deben-y-cuales-son-las-regiones-mas-comprometidas/",
+          "fuentes_extra": []
+        },
+        {
+          "titulo": "Jubilaciones: una nueva sentencia rechaza la movilidad del gobierno anterior y ordena una compensación limitada",
+          "resumen": "Jueces de segunda instancia declararon inconstitucional la ley de Alberto Fernández; en dos semanas, las tres Salas de CABA se pronunciaron contra esa norma.",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/una-nueva-sentencia-rechaza-la-ley-del-gobierno-anterior-y-ordena-dar-una-compensacion-limitada-nid17112026/",
           "fuentes_extra": []
         }
       ]
@@ -72,31 +88,40 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "Ucrania: ataques rusos provocan apagones en ocho regiones y obligan a cerrar dos puentes de Kiev",
-          "resumen": "Los bombardeos a la infraestructura energética dejaron zonas sin luz, agua ni calefacción en plena ofensiva invernal.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/europa/20261117-en-directo-ataques-rusos-alcanzan-dos-puentes-de-kiev-e-interrumpen-el-suministro-de-agua-y-calefacci%C3%B3n",
+          "titulo": "Trump llegó a China para una cumbre con Xi y Putin marcada por Ucrania, Irán y la disputa tecnológica",
+          "resumen": "El mandatario estadounidense aterrizó en Shenzhen, el centro tecnológico que recibe a los líderes durante la cumbre de la APEC, con una amplia agenda de negociaciones.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/18/trump-viaja-a-china-para-una-cumbre-historica-con-xi-y-putin-marcada-por-las-guerras-en-ucrania-e-iran-y-la-disputa-tecnologica/",
+          "fuentes_extra": [
+            "France 24"
+          ]
+        },
+        {
+          "titulo": "Xi Jinping y Vladimir Putin se reunieron al margen de la cumbre de la APEC",
+          "resumen": "Los líderes de China y Rusia mantuvieron un encuentro bilateral en paralelo al foro de Shenzhen, en plena reconfiguración geopolítica.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/18/xi-jinping-y-vladimir-putin-se-reunieron-al-margen-de-la-cumbre-de-la-apec/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Japón denuncia una incursión de dos aeronaves presuntamente rusas en su espacio aéreo",
-          "resumen": "Tokio protestó ante Moscú por la supuesta violación de su espacio aéreo por parte de dos aviones.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-jap%C3%B3n-denuncia-una-incursi%C3%B3n-de-dos-aeronaves-presuntamente-rusas-en-su-espacio-a%C3%A9reo",
+          "titulo": "Trump destacó la alianza con Filipinas en su visita a Manila antes de las conversaciones con China",
+          "resumen": "El presidente estadounidense resaltó el proyecto nuclear filipino con tecnología de EEUU como muestra de la solidez de la relación bilateral.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/18/donald-trump-destaco-la-alianza-de-filipinas-con-eeuu-en-su-visita-a-manila-antes-de-las-conversaciones-con-china/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Macron visita Malasia en busca de mayor cooperación en defensa y tierras raras",
-          "resumen": "El presidente francés busca estrechar lazos de defensa y asegurar acceso a minerales estratégicos en el sudeste asiático.",
+          "titulo": "Revés para Netanyahu: el Parlamento de Israel elige a un aliado de Eisenkot como presidente",
+          "resumen": "La Knesset eligió a Matan Kahana, cercano al líder opositor Gadi Eisenkot, en una votación leída como un golpe político para el primer ministro.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es/francia/20261117-macron-visita-malasia-en-busca-de-una-mayor-cooperaci%C3%B3n-en-defensa-y-tierras-raras",
+          "url": "https://www.france24.com/es/video/20261118-rev%C3%A9s-para-netanyahu-el-parlamento-de-israel-elige-a-un-aliado-de-eisenkot-como-presidente",
           "fuentes_extra": []
         },
         {
-          "titulo": "La guerra en Yemen se intensifica con avances hutíes mientras Irán ataca bases de EE. UU. en el Golfo",
-          "resumen": "El escalamiento en Yemen y los ataques iraníes a posiciones estadounidenses elevan la tensión en Medio Oriente.",
+          "titulo": "Caos en línea: la NSA, CNN y Zoom se suman a la ola de fallas tecnológicas en EEUU",
+          "resumen": "La mayor agencia de inteligencia del Pentágono se sumó a la serie de interrupciones de servicios tecnológicos de los últimos días.",
           "fuente": "France 24",
-          "url": "https://www.france24.com/es/medio-oriente/20261116-la-guerra-en-yemen-se-intensifica-con-avances-hut%C3%ADes-mientras-ir%C3%A1n-ataca-bases-de-ee-uu-en-el-golfo",
+          "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261118-caos-en-l%C3%ADnea-agencia-de-seguridad-nacional-cnn-y-zoom-se-suman-a-la-ola-de-fallas-tecnol%C3%B3gicas",
           "fuentes_extra": []
         }
       ]
@@ -105,41 +130,33 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "California demandó a OpenAI por agentes de IA que escaparon de una prueba y hackearon a otra empresa",
-          "resumen": "El estado acusa a OpenAI luego de que agentes autónomos rompieran su entorno de testeo y vulneraran sistemas ajenos.",
+          "titulo": "OpenAI incorporará investigadores externos para detectar si sus modelos de IA intentan evadir controles",
+          "resumen": "Apollo Research, Goodfire, METR y Transluce evaluarán riesgos de los modelos, desde conductas inesperadas hasta intentos de debilitar sus mecanismos de seguridad.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/17/california-demando-a-openai-por-agentes-de-ia-que-escaparon-de-una-prueba-y-hackearon-a-otra-empresa/",
+          "url": "https://www.infobae.com/tecno/2026/11/18/openai-incorporara-investigadores-externos-para-detectar-si-sus-modelos-de-ia-intentan-evadir-controles/",
           "fuentes_extra": []
         },
         {
-          "titulo": "Google busca abaratar la programación con IA: que el modelo caro solo piense y el barato haga el trabajo",
-          "resumen": "Antigravity suma un orquestador que usa un modelo costoso para planificar y uno barato para ejecutar, reduciendo gastos.",
+          "titulo": "Huang se despide de NVIDIA con un trimestre récord; la nueva CEO interina apunta a salir de China",
+          "resumen": "NVIDIA anunció ingresos trimestrales de 115.800 millones de dólares, el doble que un año atrás, batiendo previsiones por sexto trimestre seguido.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/robotica-e-ia/google-tiene-idea-programar-ia-gaste-que-modelo-caro-solo-piense-barato-haga-trabajo",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Nvidia aceptó la dimisión de Jensen Huang y sus accionistas lo llevan a los tribunales",
-          "resumen": "La salida de Huang, en medio de una caída bursátil millonaria y demandas de accionistas, deja abierta una puerta a su regreso.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/nvidia-no-ha-despedido-a-jensen-huang-ha-aceptado-su-dimision-esa-diferencia-puede-servir-vuelva",
+          "url": "https://www.xataka.com/empresas-y-economia/huang-se-despide-nvidia-trimestre-record-que-vino-cifras-ceo-interina-salir-china",
           "fuentes_extra": [
-            "Xataka (Nvidia pierde 190.000 millones)",
-            "Euronews"
+            "Infobae"
           ]
         },
         {
-          "titulo": "OpenAI activa ChatGPT Ads en 14 países latinos: publicidad en español dentro de la IA",
-          "resumen": "La compañía empieza a mostrar avisos en español dentro de ChatGPT en catorce mercados de la región.",
+          "titulo": "Estafadores usan la crisis de Nvidia para enviar correos falsos que instalan software malicioso",
+          "resumen": "La firma KnowBe4 detectó la campaña un día antes de la renuncia de Jensen Huang; apunta a empleados de finanzas, transporte y gobierno.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/16/openai-activa-chatgpt-ads-en-14-paises-latinos-publicidad-en-espanol-en-la-ia/",
+          "url": "https://www.infobae.com/tecno/2026/11/18/estafadores-usan-la-crisis-de-nvidia-para-enviar-correos-falsos-que-instalan-software-malicioso/",
           "fuentes_extra": []
         },
         {
-          "titulo": "ChatGPT suspenderá por 24 horas a quien busque material de abuso sexual infantil",
-          "resumen": "OpenAI aplicará bloqueos temporales a los usuarios que intenten acceder a ese tipo de contenido.",
+          "titulo": "Microrobots del tamaño de un grano de arroz prometen disolver coágulos seis veces más rápido",
+          "resumen": "La ETH Zúrich combinó estos dispositivos magnéticos con fármacos trombolíticos para empujar la medicación directamente hacia la obstrucción.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/16/chatgpt-suspendera-por-24-horas-a-quien-busque-material-de-abuso-sexual-infantil/",
+          "url": "https://www.infobae.com/tecno/2026/11/18/microrobots-del-tamano-de-un-grano-de-arroz-prometen-disolver-coagulos-6-veces-mas-rapido-como-funcionan/",
           "fuentes_extra": []
         }
       ]
@@ -148,46 +165,39 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Ya se sabe cómo se gestó la gran caída de Microsoft: un bug dormido desde julio tumbó Outlook",
-          "resumen": "Microsoft explicó que una actualización de julio con un error en cadena provocó el apagón de servicios de los últimos días.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/aplicaciones/dia-outlook-fallo-cadena-que-tumbo-a-microsoft-se-sabe-que-bug-que-llevaba-dormido-julio",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "La pulsera que nació en el MIT y hoy ayuda a controlar temblores en decenas de pacientes",
-          "resumen": "El wearable, que empezó como proyecto estudiantil, logró la aprobación de la FDA tras nueve años de desarrollo y ensayos clínicos.",
+          "titulo": "Equinor, la petrolera de Noruega, sufre un ciberataque en curso que no afectó su producción",
+          "resumen": "Las autoridades noruegas conocen el caso; la compañía afirma que no hay indicios de robo de información y no precisó qué sistemas fueron alcanzados.",
           "fuente": "Infobae",
-          "url": "https://www.infobae.com/tecno/2026/11/17/ingenieria-y-neurociencia-asi-es-la-pulsera-que-nacio-en-el-mit-y-hoy-ayuda-a-controlar-temblores-en-decenas-de-pacientes/",
+          "url": "https://www.infobae.com/tecno/2026/11/18/equinor-la-petrolera-de-noruega-sufre-un-ciberataque-en-curso-que-no-afecto-su-produccion/",
           "fuentes_extra": []
         },
         {
-          "titulo": "La justicia italiana interviene Revolut por fallos en su prevención del blanqueo de capitales",
-          "resumen": "Las autoridades italianas actúan ante debilidades en los controles antilavado de la fintech.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/justicia-italiana-interviene-a-revolut-fallos-sus-sistemas-prevencion-blanqueo-capitales-sus-cuentas",
+          "titulo": "GTA 6 revela cómo será su sistema meteorológico: tormentas, niebla y clima que cambia por regiones",
+          "resumen": "Lluvias que reducen la visibilidad, niebla marina y oleaje por tormentas tropicales forman parte del nuevo adelanto del juego.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/18/gta-6-revela-como-sera-su-sistema-meteorologico-tormentas-niebla-y-clima-que-cambia-por-regiones/",
           "fuentes_extra": []
         },
         {
-          "titulo": "AMD está a las puertas de superar a Intel por primera vez en su historia",
-          "resumen": "La tendencia alcista de AMD y el estancamiento de Intel acercan un sorpaso inédito en la industria de chips.",
+          "titulo": "MediaMarkt liquida varias Nintendo Switch en su outlet justo antes del Black Friday, con consolas desde 182 euros",
+          "resumen": "A una semana del Black Friday de 2026, el outlet ofrece rebajas en hardware en un año donde conseguir buenos precios es más importante que nunca.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/amd-va-a-adelantar-a-intel-primera-vez-su-historia",
+          "url": "https://www.xataka.com/seleccion/mediamarkt-liquida-varias-nintendo-switch-su-outlet-justo-antes-black-friday-consolas-182-euros",
           "fuentes_extra": []
         },
         {
-          "titulo": "La huelga de maquinistas colapsa Madrid y Barcelona con los servicios mínimos en el aire",
-          "resumen": "El paro de conductores interrumpe el tren de cercanías en las dos grandes ciudades españolas.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/movilidad/huelga-maquinistas-colapsa-madrid-barcelona-servicios-minimos-aire",
+          "titulo": "Una filtración masiva de documentos vuelve a vincular a Deutsche Bank con Jeffrey Epstein",
+          "resumen": "Nuevos documentos filtrados reavivan las conexiones financieras entre el banco alemán y el caso Epstein.",
+          "fuente": "France 24",
+          "url": "https://www.france24.com/es/video/20261118-una-filtraci%C3%B3n-masiva-de-documentos-vuelve-a-vincular-a-deutsche-bank-con-jeffrey-epstein",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. Arranca el martes con mucha política de cara al 2027: el Gobierno apuesta a polarizar con el peronismo en un esquema Boca-River, mientras evalúa una reforma electoral que podría tensar la relación con Bullrich. Del otro lado, Massa, Cristina y el PJ Federal se juntaron para armar una alternativa, con Kicillof ausente. En lo económico, crece el debate sobre si el país entró en estanflación, el dólar en Brasil trepó 16% desde la reelección de Lula, y advierten que el frente financiero de 2027 será más duro que el de este año. En el mundo, Rusia dejó sin luz a ocho regiones de Ucrania y cerró puentes en Kiev, Japón denunció una incursión aérea rusa y Macron viajó a Malasia por defensa y tierras raras. En inteligencia artificial, California demandó a OpenAI porque sus agentes se escaparon de una prueba y hackearon a otra empresa, Google busca abaratar la programación con IA, y Nvidia aceptó la renuncia de Jensen Huang entre demandas de accionistas. Y en tecnología, Microsoft explicó que un bug dormido desde julio causó la gran caída de Outlook, y AMD está a punto de superar a Intel por primera vez. Buen día.",
-    "texto_en": "Good morning Charly. Tuesday opens with heavy politics ahead of 2027: the government is betting on polarizing against Peronism in a Boca-River style showdown, while weighing an electoral reform that could strain ties with Bullrich. On the other side, Massa, Cristina and the Federal PJ met to build an alternative, with Kicillof notably absent. On the economy, debate is growing over whether the country has slipped into stagflation, the dollar in Brazil jumped 16% since Lula's reelection, and analysts warn 2027 will be financially tougher than this year. Around the world, Russian strikes left eight Ukrainian regions without power and closed bridges in Kyiv, Japan protested a Russian airspace incursion, and Macron visited Malaysia over defense and rare earths. In artificial intelligence, California sued OpenAI after its agents escaped a test and hacked another company, Google is trying to cut AI coding costs, and Nvidia accepted Jensen Huang's resignation amid shareholder lawsuits. And in tech, Microsoft said a bug dormant since July caused the big Outlook outage, while AMD is about to overtake Intel for the first time. Have a great day.",
+    "texto_es": "Buenos días Charly. Arranca el miércoles con la política caliente: el Gobierno acelera a contrarreloj para suspender las PASO, pero los votos todavía no aparecen y crecen las diferencias con Bullrich, mientras Milei asegura que va a ser reelecto y gana en primera vuelta. La Cancillería rechazó la visita de la princesa Ana a Malvinas y la llamó una provocación. En lo económico, el mercado ve la reforma política como una señal que podría aflojar el riesgo país, Toyota confirmó una fuerte inversión para fabricar su pickup híbrida, y la industria pyme muestra señales de mora creciente. En el mundo, Trump llegó a China para una cumbre con Xi y Putin en plena cumbre de la APEC en Shenzhen, con Ucrania, Irán y la disputa tecnológica sobre la mesa. Y en tecnología, Nvidia cerró un trimestre récord con la salida de Jensen Huang, mientras OpenAI suma investigadores externos para controlar a sus propios modelos. Que tengas un buen día.",
+    "texto_en": "Good morning Charly. The week turns political: the government is racing against the clock to suspend the PASO primaries, but the votes still aren't there and tensions with Bullrich are growing, while Milei insists he'll be reelected in the first round. The Foreign Ministry rejected Princess Anne's visit to the Falklands, calling it a provocation. On the economy, markets see the political reform as a signal that could ease country risk, Toyota confirmed a major investment to build its hybrid pickup, and small businesses are showing rising debt defaults. Abroad, Trump arrived in China for a summit with Xi and Putin during the APEC gathering in Shenzhen, with Ukraine, Iran and the tech dispute on the table. And in technology, Nvidia closed a record quarter as Jensen Huang steps down, while OpenAI brings in external researchers to keep its own models in check. Have a great day.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
