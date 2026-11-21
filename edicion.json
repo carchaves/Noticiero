@@ -1,39 +1,24 @@
 {
-  "fecha": "2026-11-20",
-  "fecha_larga": "Viernes 20 de noviembre de 2026",
+  "fecha": "2026-11-21",
+  "fecha_larga": "Sábado 21 de noviembre de 2026",
   "secciones": [
     {
       "nombre": "Política Argentina",
       "articulos": [
         {
-          "titulo": "Chubut vota el 21 de marzo de 2027: Torres convocó a elecciones sin PASO y buscará la reelección",
-          "resumen": "Torres firmó el decreto para elegir gobernador, intendentes y legisladores con boleta única y Ficha Limpia; es la segunda provincia patagónica en fijar fecha tras Neuquén.",
-          "fuente": "Noticias Argentinas",
-          "url": "https://noticiasargentinas.com/politica/chubut-elegira-gobernador-el-21-de-marzo-de-2027-con-nuevas-reglas-electorales_a6b0067f5f48d6d3ab47d4078",
+          "titulo": "Santilli debutará en el Senado en una semana de alto voltaje para Milei",
+          "resumen": "El jefe de Gabinete dará su primer informe de gestión el 25 de noviembre, con 1.659 preguntas de los bloques, en medio del debate del Presupuesto y las internas del Gobierno.",
+          "fuente": "elDiarioAR",
+          "url": "https://www.eldiarioar.com/politica/santilli-debutara-senado-semana-alto-voltaje-milei-paso-presupuesto-internas-gobierno_1_13678417.html",
           "fuentes_extra": [
-            "Diario Crónica",
-            "El Argentino"
+            "Infobae"
           ]
         },
         {
-          "titulo": "Cuatro gobernadores debatieron federalismo y dejaron definiciones sobre las PASO, Milei y la interna peronista",
-          "resumen": "Frigerio, Ziliotto, Poggi y Weretilneck participaron de un panel del CFI; Ziliotto cuestionó la suspensión de las PASO y pidió que el peronismo defina candidaturas sin imposiciones.",
-          "fuente": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/20/cuatro-gobernadores-debatieron-federalismo-y-dejaron-definiciones-sobre-las-paso-milei-y-la-interna-peronista/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Ruidos en el mercado: el Gobierno culpa al \"riesgo kuka\" pero crecen dos preocupaciones políticas en la Casa Rosada",
-          "resumen": "Milei y Caputo atribuyen la presión a factores externos y al temor a un regreso del kirchnerismo, mientras reconocen que los acuerdos por las PASO no frenan los shocks externos.",
-          "fuente": "Canal de las Noticias",
-          "url": "https://www.canaldelasnoticias.com/politica/2026/11/20/ruidos-en-el-mercado-el-gobierno-culpa-al-riesgo-kuka-pero-crecen-dos-preocupaciones-politicas-en-la-casa-rosada/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Qué dice el riesgo país sobre la reelección de Milei: cayó al 35% de probabilidad",
-          "resumen": "La percepción de un segundo mandato de Milei se contrajo con fuerza respecto de hace cuatro meses, según lecturas del mercado citadas por analistas.",
-          "fuente": "Urgente24",
-          "url": "https://urgente24.com/actualidad/que-dice-el-riesgo-pais-la-reeleccion-milei-35-probabilidad-hace-4-meses-era-90-n637226",
+          "titulo": "El Gobierno define en el Senado la estrategia por el Presupuesto",
+          "resumen": "La Casa Rosada ordena su táctica legislativa para avanzar con el Presupuesto 2027, con Milei y Bullrich como piezas clave de la negociación.",
+          "fuente": "El Litoral",
+          "url": "https://www.ellitoral.com/politica/presupuesto-senado-estrategia-gobierno-casarosada-milei-bullrich_0_XmN2YrnI2I.html",
           "fuentes_extra": []
         }
       ]
@@ -42,35 +27,23 @@
       "nombre": "Economía",
       "articulos": [
         {
-          "titulo": "El riesgo país superó los 1.000 puntos y encendió las alarmas por el desplome de los bonos",
-          "resumen": "El indicador trepó por encima de los 1.000 puntos básicos por primera vez desde octubre de 2025, con caída de Globales y Bonares y creciente preocupación en los mercados.",
-          "fuente": "Perfil",
-          "url": "https://perfil.com/economia/el-riesgo-pais-supero-los-1.000-puntos-y-encendio-las-alarmas-que-hay-detras-del-desplome-de-los-bonos-argentinos-aVCyg1j6EV7k",
+          "titulo": "Qué pasará con el dólar en 2027: el número que proyecta el Gobierno en el Presupuesto",
+          "resumen": "El proyecto oficial estima un dólar mayorista promedio de $1.728 y de $1.847,6 para diciembre de 2027, con 18% de inflación y 4% de crecimiento.",
+          "fuente": "Cadena 3",
+          "url": "https://www.cadena3.com/noticia/radioinforme-3-rosario/que-pasara-con-el-dolar-en-2027-el-numero-que-proyecta-el-gobierno-en-el-presupuesto_594730",
           "fuentes_extra": [
-            "Criterio Online",
-            "Alerta Digital"
+            "La Gaceta",
+            "BAE Negocios"
           ]
         },
         {
-          "titulo": "Dólar hoy y dólar blue: a cuánto opera este viernes 20 de noviembre",
-          "resumen": "El oficial se acercó a los $1.600 y el blue subió hasta los $1.655, mientras el MEP y el CCL también mostraron presión al alza.",
-          "fuente": "Ámbito",
-          "url": "https://ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-20-noviembre-n6347436",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "El riesgo país rompe la barrera de los 1.000 puntos y le mete presión a la continuidad de Caputo",
-          "resumen": "La suba del indicador reaviva las dudas sobre el plan económico y agrega tensión política sobre el futuro del ministro de Economía.",
-          "fuente": "La Política Online",
-          "url": "https://www.lapoliticaonline.com/economia/el-riesgo-pais-rompe-la-barrera-psicologica-de-los-1000-puntos-y-le-mete-presion-a-la-continuidad-de-caputo/",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Milei y Caputo no logran contener las dudas del mercado y temen un riesgo país alto hasta las elecciones",
-          "resumen": "El Gobierno reconoce que la incertidumbre electoral de 2027 ya pesa en los precios de los activos argentinos pese al despliegue comunicacional.",
-          "fuente": "MDZ",
-          "url": "https://www.mdzol.com/politica/2026/11/20/javier-milei-y-luis-caputo-no-logran-contener-las-dudas-del-mercado-y-temen-un-riesgo-pais-alto-hasta-las-elecciones-1996863.html",
-          "fuentes_extra": []
+          "titulo": "Cuánto podría valer el dólar a fines de 2027: la proyección oficial y la del mercado",
+          "resumen": "El mercado proyecta un dólar más alto que el cálculo oficial: el REM del BCRA lo ubica en torno a $2.015 para diciembre de 2027, frente a los $1.847 del Presupuesto.",
+          "fuente": "El Liberal",
+          "url": "https://www.elliberal.com.ar/nota/91766/2026/09/cuanto-podria-valer-el-dolar-a-fines-de-2027--la-proyeccion-oficial-y-la-del-mercado",
+          "fuentes_extra": [
+            "Infobae"
+          ]
         }
       ]
     },
@@ -78,29 +51,22 @@
       "nombre": "Internacional",
       "articulos": [
         {
-          "titulo": "La COP31 entra en tiempo de descuento en Antalya por la omisión de los combustibles fósiles",
-          "resumen": "Las negociaciones se extendieron más allá del cierre previsto mientras los países chocan por un borrador que no menciona la salida de los combustibles fósiles.",
-          "fuente": "France 24",
-          "url": "https://www.france24.com/en/environment/20261120-cop31-climate-talks-go-into-overtime-as-nations-wrangle-over-fossil-fuels-ommission",
+          "titulo": "Xi, Trump y Putin abordan Ucrania y el desarme nuclear en una reunión inédita",
+          "resumen": "Primer encuentro trilateral de los tres líderes, al margen de APEC en Shenzhen: coincidieron en que una guerra nuclear no tiene vencedores, aunque sin acuerdos concretos sobre Ucrania.",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/agencias/2026/11/19/xi-trump-y-putin-abordan-ucrania-y-el-desarme-nuclear-en-una-reunion-inedita/",
           "fuentes_extra": [
-            "UN News",
-            "Taipei Times"
+            "El Mostrador",
+            "La Jornada"
           ]
         },
         {
-          "titulo": "Países exigen un acuerdo climático más fuerte en el último día de la COP31",
-          "resumen": "Delegaciones y sociedad civil reclaman compromisos más ambiciosos mientras la presidencia turca demora un nuevo texto del Acuerdo de Antalya.",
-          "fuente": "UN News",
-          "url": "https://news.un.org/en/story/2026/11/1168845",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Trump dice que Putin quiere la paz en Ucrania, aunque el Kremlin promete seguir combatiendo",
-          "resumen": "Washington empuja un acuerdo antes de enero de 2027; Kiev teme concesiones y Rusia mantiene exigencias duras tras reanudarse las conversaciones en Abu Dhabi.",
-          "fuente": "The Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/11/19/trump-says-putin-wants-peace-ukraine-even-putin-vows-fight/",
+          "titulo": "Sheinbaum cierra su gira por China tras una ráfaga de reuniones bilaterales en APEC",
+          "resumen": "México selló acuerdos de cooperación tecnológica, energética y ambiental con China, se reunió con Xi y con Trump, y consiguió la sede de APEC 2028.",
+          "fuente": "Mexico News Daily",
+          "url": "https://mexiconewsdaily.com/politics/sheinbaum-leaves-china-apec-bilateral-meetings/",
           "fuentes_extra": [
-            "Kyiv Post"
+            "Publimetro"
           ]
         }
       ]
@@ -109,24 +75,10 @@
       "nombre": "Inteligencia Artificial",
       "articulos": [
         {
-          "titulo": "Anthropic debutó en bolsa con una IPO récord en medio de la volatilidad del mercado",
-          "resumen": "La empresa detrás de Claude fijó el precio de su oferta pública inicial de acciones Clase A tras el roadshow, en una de las salidas más grandes del sector de IA.",
-          "fuente": "NBC News",
-          "url": "https://nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Darío Amodei: la IA podría comprimir un siglo de progreso médico en una década",
-          "resumen": "El CEO de Anthropic sostiene que modelos más potentes pueden acelerar de forma drástica la investigación biomédica en los próximos años.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/empresas-y-economia/dario-amodei-ceo-anthropic-ia-podria-comprimir-siglo-progreso-medico-decada",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "AI News Today: las principales historias del día en inteligencia artificial",
-          "resumen": "Resumen diario de lanzamientos y movimientos del sector, con nuevos modelos de frontera y anuncios de OpenAI, Google y Anthropic.",
-          "fuente": "AI Weekly",
-          "url": "https://aiweekly.co/ai-news-today",
+          "titulo": "Anthropic presenta Claude Fable 5.2 y Mythos 5.2, sus modelos más capaces para trabajo técnico",
+          "resumen": "La compañía lanzó sus nuevos modelos con precios más bajos que la generación anterior y días después inició el roadshow de su oferta pública inicial.",
+          "fuente": "Anthropic",
+          "url": "https://www.anthropic.com/news",
           "fuentes_extra": []
         }
       ]
@@ -135,46 +87,27 @@
       "nombre": "Tecnología",
       "articulos": [
         {
-          "titulo": "Mejores chollos del Black Friday de Amazon hoy, 20 de noviembre",
-          "resumen": "Selección de productos con descuentos de hasta el 65% en la antesala del Black Friday 2026.",
+          "titulo": "Los ganadores de los Premios Xataka Verisure 2026: la mejor tecnología del año",
+          "resumen": "El iPhone 18 Pro Max fue elegido mejor móvil premium, el Galaxy Z Fold8 Ultra mejor plegable y el MacBook Pro 16 (M5 Pro) mejor portátil del año.",
+          "fuente": "Qué.es",
+          "url": "https://www.que.es/2026/11/17/premios-xataka-verisure-2026/",
+          "fuentes_extra": [
+            "SerNoticias"
+          ]
+        },
+        {
+          "titulo": "Lo último en gadgets y tecnología en Xataka (noviembre 2026)",
+          "resumen": "Entre las novedades del mes: la Xiaomi Smart Band 11 oficial con pantalla de 2.000 nits y el primer monitor gaming de 1.000 Hz de LG ya a la venta.",
           "fuente": "Xataka",
-          "url": "https://www.xataka.com/seleccion/mejores-chollos-black-friday-amazon-hoy-20-noviembre-seis-productos-descuentos-65",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Xiaomi lanza los 18 Pro y Pro Max internacionales con batería y conectividad reducidas",
-          "resumen": "Las versiones globales recortan prestaciones frente al modelo chino, incluida la ausencia de banda ultraancha (UWB) en el Pro Max.",
-          "fuente": "Columna Digital",
-          "url": "https://columnadigital.com/xiaomi-lanza-18-pro-pro-max-internacionales-bateria-conectividad",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Premios Xataka México 2026: la mejor tecnología del año",
-          "resumen": "La edición mexicana reveló sus ganadores, con la Huawei MatePad Mini y el JBL Bar 1000MK2 entre los premiados.",
-          "fuente": "Xataka México",
-          "url": "https://www.xataka.com.mx/xataka-mexico/ganadores-premios-xataka-mexico-2026-esta-mejor-tecnologia-ano",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "China desarrolla un peine eléctrico contra la calvicie que lleva terapia génica a los folículos",
-          "resumen": "El dispositivo aplica terapia génica directamente sobre los folículos pilosos como nueva vía experimental contra la alopecia.",
-          "fuente": "Xataka",
-          "url": "https://www.xataka.com/investigacion/china-desarrolla-peine-electrico-calvicie-que-lleva-terapia-genica-directamente-foliculos",
-          "fuentes_extra": []
-        },
-        {
-          "titulo": "Motorola amplía su lista de actualizaciones: 29 móviles que recibirán Android 17",
-          "resumen": "La compañía corrigió y amplió su listado oficial de dispositivos que darán el salto a la nueva versión del sistema.",
-          "fuente": "Xataka Móvil",
-          "url": "https://www.xatakamovil.com/sistemas-operativos/motorola-corrige-su-lista-actualizaciones-da-alegria-a-sus-usuarios-29-moviles-que-recibiran-android-17",
+          "url": "https://www.xataka.com/archivos/2026/11",
           "fuentes_extra": []
         }
       ]
     }
   ],
   "audio": {
-    "texto_es": "Buenos días Charly. El tema del día es financiero: el riesgo país superó los mil puntos por primera vez en más de un año, los bonos cayeron y el dólar se acercó a los mil seiscientos pesos. El Gobierno lo atribuye al riesgo kuka y a factores externos, pero crece la presión sobre el plan económico y sobre la continuidad de Caputo, y en el mercado ya se descuenta la incertidumbre electoral de 2027. En política, Chubut confirmó que vota el 21 de marzo, sin PASO y con boleta única, y Torres irá por la reelección. En el mundo, la cumbre climática COP31 en Turquía entró en tiempo de descuento, trabada por la omisión de los combustibles fósiles, mientras Washington empuja un acuerdo de paz entre Ucrania y Rusia antes de enero. Y en tecnología e inteligencia artificial, Anthropic debutó en bolsa con una salida récord y arranca la semana fuerte de ofertas del Black Friday. Que tengas un buen viernes.",
-    "texto_en": "Good morning Charly. Today's big story is financial: Argentina's country risk broke past one thousand points for the first time in over a year, bonds fell, and the dollar edged close to sixteen hundred pesos. The government blames external factors and the fear of a Kirchnerist comeback, but pressure is mounting on the economic plan and on Caputo's future, with markets already pricing in the uncertainty of the 2027 elections. In domestic politics, Chubut confirmed it will vote on March 21st, without primaries and with a single ballot, and Governor Torres will seek re-election. Abroad, the COP31 climate summit in Turkey went into overtime, stuck over the omission of fossil fuels, while Washington pushes for a Ukraine-Russia peace deal before January. And in tech and AI, Anthropic went public in a record-setting IPO as the big Black Friday deals week kicks off. Have a great Friday.",
+    "texto_es": "Buenos días Charly. Arranca el sábado con una semana política intensa por delante: Diego Santilli debuta el martes en el Senado con su primer informe de gestión y más de mil seiscientas preguntas, mientras el Gobierno ordena su estrategia para el Presupuesto 2027, que proyecta un dólar cerca de los mil ochocientos cincuenta pesos para fin del año que viene, por debajo de lo que estima el mercado. En el plano internacional, la gran noticia fue la reunión inédita de Xi, Trump y Putin al margen de la cumbre de APEC en China, donde hablaron de Ucrania y desarme nuclear sin acuerdos concretos; en la misma cumbre, Sheinbaum cerró acuerdos con China y se quedó con la sede de APEC 2028. En tecnología, Anthropic presentó sus nuevos modelos Claude Fable y Mythos cinco punto dos, y Xataka entregó sus premios del año, con el iPhone 18 Pro Max como mejor móvil premium. Buen fin de semana.",
+    "texto_en": "Good morning Charly. The weekend opens with a busy political week ahead: cabinet chief Diego Santilli makes his Senate debut on Tuesday with his first management report and over sixteen hundred questions, while the government lines up its strategy for the 2027 budget, which projects a dollar near eighteen hundred fifty pesos by the end of next year, below market estimates. Internationally, the big story was the unprecedented meeting of Xi, Trump and Putin on the sidelines of the APEC summit in China, where they discussed Ukraine and nuclear disarmament without concrete deals; at the same summit, Sheinbaum closed agreements with China and secured the host seat for APEC 2028. In tech, Anthropic unveiled its new Claude Fable and Mythos five point two models, and Xataka handed out its yearly awards, with the iPhone 18 Pro Max named best premium phone. Have a great weekend.",
     "es": "audio/resumen-es.mp3",
     "en": "audio/resumen-en.mp3"
   }
